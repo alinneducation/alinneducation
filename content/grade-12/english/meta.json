@@ -1,0 +1,11 @@
+{
+    "title": "ဒွါဒသမတန်း",
+    "description": "အင်္ဂလိပ်စာ",
+    "root": true,
+    "pages": [
+        "index",
+        "text-keys",
+        "2024-questions-and-answers",
+        "2025-questions-and-answers"
+    ]
+}

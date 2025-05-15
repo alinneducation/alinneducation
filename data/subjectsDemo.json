@@ -1,0 +1,563 @@
+[
+    {
+        "id": 1,
+        "grade": {
+            "en": "KG",
+            "my": "သူငယ်တန်း"
+        },
+        "subjects": [
+            {
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "grade": {
+            "en": "Grade 1",
+            "my": "ပထမတန်း"
+        },
+        "subjects": [
+            {
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "en": "Social",
+                "my": "လူမှုရေး"
+            },
+            {
+                "en": "Science",
+                "my": "သိပ္ပံ"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "grade": {
+            "en": "Grade 2",
+            "my": "ဒုတိယတန်း"
+        },
+        "subjects": [
+            {
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "en": "Social",
+                "my": "လူမှုရေး"
+            },
+            {
+                "en": "Science",
+                "my": "သိပ္ပံ"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "grade": {
+            "en": "Grade 3",
+            "my": "တတိယတန်း"
+        },
+        "subjects": [
+            {
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "en": "Social",
+                "my": "လူမှုရေး"
+            },
+            {
+                "en": "Science",
+                "my": "သိပ္ပံ"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "grade": {
+            "en": "Grade 4",
+            "my": "စတုတ္ထတန်း"
+        },
+        "subjects": [
+            {
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "en": "Social",
+                "my": "လူမှုရေး"
+            },
+            {
+                "en": "Science",
+                "my": "သိပ္ပံ"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "grade": {
+            "en": "Grade 5",
+            "my": "ပဉ္စမတန်း"
+        },
+        "subjects": [
+            {
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "en": "Social",
+                "my": "လူမှုရေး"
+            },
+            {
+                "en": "Science",
+                "my": "သိပ္ပံ"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "grade": {
+            "en": "Grade 6",
+            "my": "ဆဋ္ဌမတန်း"
+        },
+        "subjects": [
+            {
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "en": "Geography",
+                "my": "ပထဝီဝင်"
+            },
+            {
+                "en": "History",
+                "my": "သမိုင်း"
+            },
+            {
+                "en": "Science",
+                "my": "သိပ္ပံ"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "grade": {
+            "en": "Grade 7",
+            "my": "သတ္တမတန်း"
+        },
+        "subjects": [
+            {
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "en": "Geography",
+                "my": "ပထဝီဝင်"
+            },
+            {
+                "en": "History",
+                "my": "သမိုင်း"
+            },
+            {
+                "en": "Science",
+                "my": "သိပ္ပံ"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "grade": {
+            "en": "Grade 8",
+            "my": "အဋ္ဌမတန်း"
+        },
+        "subjects": [
+            {
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "en": "Geography",
+                "my": "ပထဝီဝင်"
+            },
+            {
+                "en": "History",
+                "my": "သမိုင်း"
+            },
+            {
+                "en": "Science",
+                "my": "သိပ္ပံ"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "grade": {
+            "en": "Grade 9",
+            "my": "နဝမတန်း"
+        },
+        "subjects": [
+            {
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "en": "Geography",
+                "my": "ပထဝီဝင်"
+            },
+            {
+                "en": "History",
+                "my": "သမိုင်း"
+            },
+            {
+                "en": "Science",
+                "my": "သိပ္ပံ"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "grade": {
+            "en": "Grade 10",
+            "my": "ဒသမတန်း"
+        },
+        "subjects": {
+            "STEAM": [
+                {
+                    "en": "Myanmar",
+                    "my": "မြန်မာစာ"
+                },
+                {
+                    "en": "English",
+                    "my": "အင်္ဂလိပ်စာ"
+                },
+                {
+                    "en": "Mathematics",
+                    "my": "သင်္ချာ"
+                },
+                {
+                    "en": "Geography",
+                    "my": "ပထဝီဝင်"
+                },
+                {
+                    "en": "History",
+                    "my": "သမိုင်း"
+                },
+                {
+                    "en": "Science",
+                    "my": "သိပ္ပံ"
+                }
+            ],
+            "STEM1": [
+                {
+                    "en": "Myanmar",
+                    "my": "မြန်မာစာ"
+                },
+                {
+                    "en": "English",
+                    "my": "အင်္ဂလိပ်စာ"
+                },
+                {
+                    "en": "Mathematics",
+                    "my": "သင်္ချာ"
+                },
+                {
+                    "en": "Chemistry",
+                    "my": "ဓာတုဗေဒ"
+                },
+                {
+                    "en": "Physic",
+                    "my": "ရူပဗေဒ"
+                },
+                {
+                    "en": "Biology",
+                    "my": "ဇီဝဗေဒ"
+                }
+            ],
+            "STEM2": [
+                {
+                    "en": "Myanmar",
+                    "my": "မြန်မာစာ"
+                },
+                {
+                    "en": "English",
+                    "my": "အင်္ဂလိပ်စာ"
+                },
+                {
+                    "en": "Mathematics",
+                    "my": "သင်္ချာ"
+                },
+                {
+                    "en": "Chemistry",
+                    "my": "ဓာတုဗေဒ"
+                },
+                {
+                    "en": "Physic",
+                    "my": "ရူပဗေဒ"
+                },
+                {
+                    "en": "Economic",
+                    "my": "ဘောဂဗေဒ"
+                }
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "grade": {
+            "en": "Grade 11",
+            "my": "ဧကာဒသမတန်း"
+        },
+        "subjects": {
+            "STEAM": [
+                {
+                    "en": "Myanmar",
+                    "my": "မြန်မာစာ"
+                },
+                {
+                    "en": "English",
+                    "my": "အင်္ဂလိပ်စာ"
+                },
+                {
+                    "en": "Mathematics",
+                    "my": "သင်္ချာ"
+                },
+                {
+                    "en": "Geography",
+                    "my": "ပထဝီဝင်"
+                },
+                {
+                    "en": "History",
+                    "my": "သမိုင်း"
+                },
+                {
+                    "en": "Science",
+                    "my": "သိပ္ပံ"
+                }
+            ],
+            "STEM1": [
+                {
+                    "en": "Myanmar",
+                    "my": "မြန်မာစာ"
+                },
+                {
+                    "en": "English",
+                    "my": "အင်္ဂလိပ်စာ"
+                },
+                {
+                    "en": "Mathematics",
+                    "my": "သင်္ချာ"
+                },
+                {
+                    "en": "Chemistry",
+                    "my": "ဓာတုဗေဒ"
+                },
+                {
+                    "en": "Physic",
+                    "my": "ရူပဗေဒ"
+                },
+                {
+                    "en": "Biology",
+                    "my": "ဇီဝဗေဒ"
+                }
+            ],
+            "STEM2": [
+                {
+                    "en": "Myanmar",
+                    "my": "မြန်မာစာ"
+                },
+                {
+                    "en": "English",
+                    "my": "အင်္ဂလိပ်စာ"
+                },
+                {
+                    "en": "Mathematics",
+                    "my": "သင်္ချာ"
+                },
+                {
+                    "en": "Chemistry",
+                    "my": "ဓာတုဗေဒ"
+                },
+                {
+                    "en": "Physic",
+                    "my": "ရူပဗေဒ"
+                },
+                {
+                    "en": "Economic",
+                    "my": "ဘောဂဗေဒ"
+                }
+            ]
+        }
+    }
+    ,
+    {
+        "id": 13,
+        "grade": {
+            "en": "Grade 12",
+            "my": "ဒွါဒသမတန်း"
+        },
+        "subjects": {
+            "STEAM": [
+                {
+                    "en": "Myanmar",
+                    "my": "မြန်မာစာ"
+                },
+                {
+                    "en": "English",
+                    "my": "အင်္ဂလိပ်စာ"
+                },
+                {
+                    "en": "Mathematics",
+                    "my": "သင်္ချာ"
+                },
+                {
+                    "en": "Geography",
+                    "my": "ပထဝီဝင်"
+                },
+                {
+                    "en": "History",
+                    "my": "သမိုင်း"
+                },
+                {
+                    "en": "Science",
+                    "my": "သိပ္ပံ"
+                }
+            ],
+            "STEM1": [
+                {
+                    "en": "Myanmar",
+                    "my": "မြန်မာစာ"
+                },
+                {
+                    "en": "English",
+                    "my": "အင်္ဂလိပ်စာ"
+                },
+                {
+                    "en": "Mathematics",
+                    "my": "သင်္ချာ"
+                },
+                {
+                    "en": "Chemistry",
+                    "my": "ဓာတုဗေဒ"
+                },
+                {
+                    "en": "Physic",
+                    "my": "ရူပဗေဒ"
+                },
+                {
+                    "en": "Biology",
+                    "my": "ဇီဝဗေဒ"
+                }
+            ],
+            "STEM2": [
+                {
+                    "en": "Myanmar",
+                    "my": "မြန်မာစာ"
+                },
+                {
+                    "en": "English",
+                    "my": "အင်္ဂလိပ်စာ"
+                },
+                {
+                    "en": "Mathematics",
+                    "my": "သင်္ချာ"
+                },
+                {
+                    "en": "Chemistry",
+                    "my": "ဓာတုဗေဒ"
+                },
+                {
+                    "en": "Physic",
+                    "my": "ရူပဗေဒ"
+                },
+                {
+                    "en": "Economic",
+                    "my": "ဘောဂဗေဒ"
+                }
+            ]
+        }
+    }
+
+]

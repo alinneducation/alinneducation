@@ -1,0 +1,10 @@
+{
+    "title": "ဒွါဒသမတန်း",
+    "description": "သင်္ချာ",
+    "root": true,
+    "pages": [
+        "index",
+        "text-keys",
+        "old-questions"
+    ]
+}

@@ -1,4 +1,4 @@
-import type { BaseLayoutProps } from 'fumadocs-ui/layouts/shared';
+import type { BaseLayoutProps } from "fumadocs-ui/layouts/shared";
 
 /**
  * Shared layout configurations
@@ -19,15 +19,35 @@ export const baseOptions: BaseLayoutProps = {
         >
           <circle cx={12} cy={12} r={12} fill="currentColor" />
         </svg>
-        My App
+        Alinn Education
       </>
     ),
   },
   links: [
     {
-      text: 'Documentation',
-      url: '/docs',
-      active: 'nested-url',
+      text: "Home",
+      url: "/",
+      active: "nested-url",
+    },
+    {
+      text: "Grade 12",
+      url: "/courses/grade-12",
+      active: "nested-url",
+    },
+    {
+      text: "Teachers",
+      url: "/teachers",
+      active: "nested-url",
+    },
+    {
+      text: "About Us",
+      url: "/aboutus",
+      active: "nested-url",
+    },
+    {
+      text: "Contact Us",
+      url: "/contactus",
+      active: "nested-url",
     },
   ],
 };

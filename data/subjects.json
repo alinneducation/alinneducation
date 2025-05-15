@@ -1,0 +1,154 @@
+{
+    "KG": [
+        {
+            "en": "Myanmar",
+            "my": "မြန်မာစာ"
+        },
+        {
+            "en": "English",
+            "my": "အင်္ဂလိပ်စာ"
+        },
+        {
+            "en": "Mathematics",
+            "my": "သင်္ချာ"
+        }
+    ],
+    "PRIMARY": [
+        {
+            "en": "Myanmar",
+            "my": "မြန်မာစာ"
+        },
+        {
+            "en": "English",
+            "my": "အင်္ဂလိပ်စာ"
+        },
+        {
+            "en": "Mathematics",
+            "my": "သင်္ချာ"
+        },
+        {
+            "en": "Social",
+            "my": "လူမှုရေး"
+        },
+        {
+            "en": "Science",
+            "my": "သိပ္ပံ"
+        }
+    ],
+    "MIDDLE": [
+        {
+            "en": "Myanmar",
+            "my": "မြန်မာစာ"
+        },
+        {
+            "en": "English",
+            "my": "အင်္ဂလိပ်စာ"
+        },
+        {
+            "en": "Mathematics",
+            "my": "သင်္ချာ"
+        },
+        {
+            "en": "Geography",
+            "my": "ပထဝီဝင်"
+        },
+        {
+            "en": "History",
+            "my": "သမိုင်း"
+        },
+        {
+            "en": "Science",
+            "my": "သိပ္ပံ"
+        }
+    ],
+    "high": [
+        {
+            "url": "myanmar",
+            "name": "မြန်မာစာ"
+        },
+        {
+            "url": "english",
+            "name": "အင်္ဂလိပ်စာ"
+        },
+        {
+            "url": "mathematics",
+            "name": "သင်္ချာ"
+        },
+        {
+            "url": "chemistry",
+            "name": "ဓာတုဗေဒ"
+        },
+        {
+            "url": "physic",
+            "name": "ရူပဗေဒ"
+        },
+        {
+            "url": "biology",
+            "name": "ဇီဝဗေဒ"
+        },
+        {
+            "url": "geography",
+            "name": "ပထဝီဝင်"
+        },
+        {
+            "url": "history",
+            "name": "သမိုင်း"
+        },
+        {
+            "url": "economic",
+            "name": "ဘောဂဗေဒ"
+        }
+    ],
+    "STEM1": [
+        {
+            "en": "Myanmar",
+            "my": "မြန်မာစာ"
+        },
+        {
+            "en": "English",
+            "my": "အင်္ဂလိပ်စာ"
+        },
+        {
+            "en": "Mathematics",
+            "my": "သင်္ချာ"
+        },
+        {
+            "en": "Chemistry",
+            "my": "ဓာတုဗေဒ"
+        },
+        {
+            "en": "Physic",
+            "my": "ရူပဗေဒ"
+        },
+        {
+            "en": "Biology",
+            "my": "ဇီဝဗေဒ"
+        }
+    ],
+    "STEM2": [
+        {
+            "en": "Myanmar",
+            "my": "မြန်မာစာ"
+        },
+        {
+            "en": "English",
+            "my": "အင်္ဂလိပ်စာ"
+        },
+        {
+            "en": "Mathematics",
+            "my": "သင်္ချာ"
+        },
+        {
+            "en": "Chemistry",
+            "my": "ဓာတုဗေဒ"
+        },
+        {
+            "en": "Physic",
+            "my": "ရူပဗေဒ"
+        },
+        {
+            "en": "Economic",
+            "my": "ဘောဂဗေဒ"
+        }
+    ]
+}

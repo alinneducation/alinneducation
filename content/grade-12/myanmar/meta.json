@@ -1,0 +1,10 @@
+{
+    "title": "ဒွါဒသမတန်း",
+    "description": "မြန်မာစာ",
+    "root": true,
+    "pages": [
+        "index",
+        "text-keys",
+        "2024-questions-and-answers"
+    ]
+}
