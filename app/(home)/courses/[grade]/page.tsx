@@ -1,6 +1,5 @@
-import Link from "next/link";
 import React from "react";
-import { KG, PRIMARY, MIDDLE, high, STEM1, STEM2 } from "data/subjects.json";
+import { high } from "data/subjects.json";
 import { Metadata } from "next";
 import SubjectCard from "@/components/SubjectCard";
 
@@ -19,8 +18,6 @@ export const generateMetadata = async ({
 };
 
 const Subject = async ({ params }: Props) => {
-  const { grade } = await params;
-
   return (
     <div className="grid w-full grid-cols-3 py-5 gap-5  mx-atuo items-center bg-amber-900">
       {high.map((subject) => (

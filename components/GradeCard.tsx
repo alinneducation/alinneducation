@@ -4,9 +4,9 @@ import React from "react";
 const GradeCard = ({
   grade,
 }: {
-  grade: { url: String; name: String; id: Number };
+  grade: { url: string; name: string; id: number };
 }) => {
-    return (
+  return (
     <Link
       href={`./courses/${grade.url}`}
       className="flex w-32 h-32 bg-green-800 border rounded-lg justify-center items-center"

@@ -4,7 +4,7 @@ import React from "react";
 const SubjectCard = ({
   subject,
 }: {
-  subject: { url: String; name: String };
+  subject: { url: string; name: string };
 }) => {
   return (
     <Link
