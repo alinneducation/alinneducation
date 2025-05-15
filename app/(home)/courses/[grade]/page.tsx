@@ -4,7 +4,7 @@ import { Metadata } from "next";
 import SubjectCard from "@/components/SubjectCard";
 
 type Props = {
-  params: Promise<{ grade: String }>;
+  params: Promise<{ grade: string }>;
 };
 
 export const generateMetadata = async ({
@@ -17,7 +17,7 @@ export const generateMetadata = async ({
   };
 };
 
-const Subject = async ({ params }: Props) => {
+const Subject = async () => {
   return (
     <div className="grid w-full grid-cols-3 py-5 gap-5  mx-atuo items-center bg-amber-900">
       {high.map((subject) => (
