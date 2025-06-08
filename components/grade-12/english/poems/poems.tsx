@@ -1,0 +1,377 @@
+import { PoemItem, Poems, PoemTitle } from "../english";
+
+const PoemsData = {
+  poem1: {
+    title: "THE LIBRARY",
+    contents: [
+      {
+        stanza: [
+          "It looks like any building",
+          "When you pass it on the street,",
+        ],
+        paraphrase: `These lines mean that the library looks like any building we pass along in a street.`,
+      },
+      {
+        stanza: [
+          "Made of stone and glass and marble, ",
+          "Made of iron and concrete.",
+        ],
+        paraphrase: `These lines mean that the library is built of stone, glass and marble. It is also built of
+iron and concrete.`,
+      },
+      {
+        stanza: ["But once inside you can ride", "A camel or a train,"],
+        paraphrase: `These lines mean that when we are inside the library, we can imagine ourselves riding
+a camel or a train.`,
+      },
+      {
+        stanza: ["Visit Rome, Siam, or Nome.", "Feel a hurricane,"],
+        paraphrase: `These lines mean that when we are inside the library, we can also imagine ourselves
+visiting Rome, Siam, or Nome. And, we can also imagine ourselves experiencing a
+hurricane.`,
+      },
+      {
+        stanza: ["Meet a king, learn to sing", "How to bake a pie"],
+        paraphrase: `These lines mean that when we are inside the library, we can imagine ourselves meeting
+a king, learning to sing and learning how to bake a pie.`,
+      },
+      {
+        stanza: ["Go to sea, plant a tree. ", "Find how airplanes fly"],
+        paraphrase: `These lines mean that when we are inside the library, we can imagine ourselves going
+to the sea, planting a tree, finding out how airplanes fly.`,
+      },
+      {
+        stanza: [
+          "Train a horse, and of course",
+          "Have all the dogs you'd like,",
+        ],
+        paraphrase: `These lines mean that when we are inside the library, we can imagine ourselves learning
+to train a horse, and owning all the dogs you would like to keep.`,
+      },
+      {
+        stanza: ["See the moon, a sandy dune,", "Or catch a whopping pike."],
+        paraphrase: `These lines mean that when we are inside the library, we can imagine ourselves seeing
+the moon as well as a sandy dune, or catching a whopping pike.`,
+      },
+      {
+        stanza: [
+          "Everything that books can bring ",
+          "You'll find inside those walls.",
+        ],
+        paraphrase: `These lines mean that we will find everything that books can bring inside the walls of
+the library.`,
+      },
+      {
+        stanza: ["A world is there for you to share ", "When adventure calls"],
+        paraphrase: `These lines mean that inside the library, there is a world for you to explore and
+experience when adventure calls.`,
+      },
+      {
+        stanza: [
+          "You cannot tell its magic ",
+          "By the way the building looks,",
+        ],
+        paraphrase: `These lines mean that you cannot tell the magic or essence of the library by looking at
+the outward appearance of the building.`,
+      },
+      {
+        stanza: [
+          "But there's wonderment within it. ",
+          "The wonderment of books",
+        ],
+        paraphrase: `These lines mean that there is wonderment inside the library. The wonder comes from
+reading many books in the library.`,
+      },
+    ],
+  },
+  poem2: {
+    title: "THE QUIET LIFE",
+    contents: [
+      {
+        stanza: [
+          "Happy the man, whose wish and care",
+          "A few paternal acres bound,",
+        ],
+        paraphrase: `These lines mean that a happy man is one whose wants are few and simple. This kind
+of man is contented with the few acres he has inherited from his parents.`,
+      },
+      {
+        stanza: ["Content to breathe his native air", "In his own ground."],
+        paraphrase: `These lines mean that he is contented to live in his own ground, breathing his native
+air.`,
+      },
+      {
+        stanza: [
+          "Whose herds with milk, whose fields with bread,",
+          "Whose flocks supply him with attire;",
+        ],
+        paraphrase: `These lines mean that he gets milk from his herds, bread from his fields and clothes
+from his flocks of sheep.`,
+      },
+      {
+        stanza: ["Whose trees in summer yield him shade,", "In winter, fire."],
+        paraphrase: `These lines mean that his trees give him shade in summer and give him firewood in
+winter, for warmth and heat.`,
+      },
+      {
+        stanza: [
+          "Blest, who can unconcern’dly find",
+          "Hours, days and years, slide soft away",
+        ],
+        paraphrase: `These lines mean that he lives happily in his life without any care or worry. He passes
+his time peacefully and quietly.`,
+      },
+      {
+        stanza: ["In health of body, peace of mind,", "Quiet by day."],
+        paraphrase: `These lines mean that he is in good health and his mind is peaceful. Such a man has
+quiet days.`,
+      },
+      {
+        stanza: [
+          "Sound sleep by night; study and ease",
+          "Together mix’d; sweet recreation,",
+        ],
+        paraphrase: `These lines mean that a happy man sleeps soudly at night. After his work, he has time
+for recreation. He spends his time equally between work and relaxation.`,
+      },
+      {
+        stanza: ["And innocence, which most does please", "With meditation."],
+        paraphrase: `These lines mean that a happy man is pleased with his serious thoughts of his innocent
+life.`,
+      },
+      {
+        stanza: [
+          "Thus let me live, unseen, unknown;",
+          "Thus unlamented let me die;",
+        ],
+        paraphrase: `These lines mean that the poet wants to live a quiet life, without friends or companions
+or any fame. In the same way, when he dies, he does not want anyone to feel sad for
+him.`,
+      },
+      {
+        stanza: ["Steal from the world, and not a stone", "Tell where I lie."],
+        paraphrase: `These lines mean that he wants to leave this life quietly. He does not want any
+tombstone to mark the place where he will be buried.`,
+      },
+    ],
+  },
+  poem4: {
+    title: "THE ROAD NOT TAKEN",
+    contents: [
+      {
+        stanza: [
+          "Two roads diverged in a yellow wood,",
+          "And sorry I could not travel both",
+        ],
+        paraphrase: `These lines mean that the poet found two different paths in a forest. He felt sorry
+because he could only choose one path to walk on.`,
+      },
+      {
+        stanza: [
+          "And be one traveler, long I stood",
+          "And looked down one as far as I could",
+          "To where it bent in the undergrowth;",
+        ],
+        paraphrase: `These lines mean that the poet stood alone for a long time, thinking about which path
+to take. He looked down one path as far as he could see until it disappeared into the
+bushes.`,
+      },
+      {
+        stanza: [
+          "Then took the other, as just as fair,",
+          "And having perhaps the better claim,",
+          "Because it was grassy and wanted wear;",
+        ],
+        paraphrase: `These lines mean that the poet chose the other path because it looked equally good.
+He thought it might be better since it had more grass and fewer people had walked
+on it.`,
+      },
+      {
+        stanza: [
+          "Though as for that the passing there",
+          "Had worn them really about the same,",
+        ],
+        paraphrase: `These lines mean that the poet noticed that both paths were really worn down equally by
+people walking on them.`,
+      },
+      {
+        stanza: [
+          "And both that morning equally lay",
+          "In leaves no step had trodden black.",
+        ],
+        paraphrase: `These lines mean that, on that morning, both paths looked the same. The fallen leaves
+did not turn black because no one had walked on them yet.`,
+      },
+      {
+        stanza: [
+          "Oh, I kept the first for another day!",
+          "Yet knowing how way leads on to way.",
+          "I doubted if I should ever come back.",
+        ],
+        paraphrase: `These lines mean that the poet decided to keep the first path for another time. But he
+knew that one choice often leads to another, so he doubted if he would ever return to take
+the first path.`,
+      },
+      {
+        stanza: [
+          "I shall be telling this with a sigh",
+          "Somewhere ages and ages hence:",
+        ],
+        paraphrase: `These lines mean that the poet thinks that, in the future, he will talk about this decision
+with a sigh, remembering how important it was.`,
+      },
+      {
+        stanza: [
+          "Two roads diverged in a wood, and I __",
+          "I took the one less traveled by,",
+          "And that has made all the difference.",
+        ],
+        paraphrase: `These lines mean that the poet chose a path that fewer people took. Looking back, he feel
+that this choice changed his life.`,
+      },
+    ],
+  },
+  poem3: {
+    title: "WINDY NIGHTS",
+    contents: [
+      {
+        stanza: [
+          "Whenever the moon and stars are set,",
+          "Whenever the wind is high,",
+        ],
+        paraphrase: `These lines mean that when the night sky is covered with clouds, the moon and stars
+are hidden. And, the wind blows fast.`,
+      },
+      {
+        stanza: [
+          "All night long in the dark and wet,",
+          "A man goes riding by.",
+        ],
+        paraphrase: `These lines mean that the whole night is dark and wet. At that time, the sound of a
+man riding by can be heard.`,
+      },
+      {
+        stanza: [
+          "Late in the night when the fires are out,",
+          "Why does he gallop and gallop about?",
+        ],
+        paraphrase: `These lines mean that the poet wonders why the rider is galloping about when there is
+no light during the late night.`,
+      },
+      {
+        stanza: [
+          "Whenever the trees are crying aloud,",
+          "And ships are tossed at sea",
+        ],
+        paraphrase: `These lines mean that the trees start making loud noises as if they were cryingwhenever
+the storm comes. The storm makes ships at the sea thrown around on the waves.`,
+      },
+      {
+        stanza: [
+          "By, on the highway, low and loud,",
+          "By at the gallop goes he,",
+        ],
+        paraphrase: `These lines mean that the rider keeps galloping on the highway by making low and
+loud sounds.`,
+      },
+      {
+        stanza: [
+          "By at the gallop he goes, and then",
+          "By he comes back at the gallop again.",
+        ],
+        paraphrase: `These lines mean that the rider continues his journey without bothering the storm. At
+the gallop of his horse, he goes. Then, he comes back in a similar way.`,
+      },
+    ],
+  },
+};
+export const Poem1 = () => {
+  return (
+    <div className="w-full">
+      <div>Library = စာကြည့်တိုက်</div>
+      <Poems>
+        <PoemTitle>{PoemsData.poem1.title}</PoemTitle>
+
+        {PoemsData.poem1.contents.map((item, index) => {
+          return (
+            <div
+              key={index}
+              className="w-full flex justify-center flex-col items-center"
+            >
+              {item.stanza.map((line, index) => (
+                <PoemItem key={index}>{line}</PoemItem>
+              ))}
+              <div>{item.paraphrase}</div>
+            </div>
+          );
+        })}
+      </Poems>
+    </div>
+  );
+};
+
+export const Poem2 = () => {
+  return (
+    <Poems>
+      <PoemTitle>{PoemsData.poem2.title}</PoemTitle>
+
+      {PoemsData.poem2.contents.map((item, index) => {
+        return (
+          <div
+            key={index}
+            className="w-full flex justify-center flex-col items-center"
+          >
+            {item.stanza.map((line, index) => (
+              <PoemItem key={index}>{line}</PoemItem>
+            ))}
+            <div>{item.paraphrase}</div>
+          </div>
+        );
+      })}
+    </Poems>
+  );
+};
+
+export const Poem3 = () => {
+  return (
+    <div className="w-full">
+      <Poems>
+        <PoemTitle>{PoemsData.poem3.title}</PoemTitle>
+        {PoemsData.poem3.contents.map((item, index) => {
+          return (
+            <div
+              key={index}
+              className="w-full flex justify-center flex-col items-center"
+            >
+              {item.stanza.map((line, index) => (
+                <PoemItem key={index}>{line}</PoemItem>
+              ))}
+              <div>{item.paraphrase}</div>
+            </div>
+          );
+        })}
+      </Poems>
+    </div>
+  );
+};
+
+export const Poem4 = () => {
+  return (
+    <Poems>
+      <PoemTitle>{PoemsData.poem4.title}</PoemTitle>
+      {PoemsData.poem4.contents.map((item, index) => {
+        return (
+          <div
+            key={index}
+            className="w-full flex justify-center flex-col items-center"
+          >
+            {item.stanza.map((line, index) => (
+              <PoemItem key={index}>{line}</PoemItem>
+            ))}
+            <div>{item.paraphrase}</div>
+          </div>
+        );
+      })}
+    </Poems>
+  );
+};
