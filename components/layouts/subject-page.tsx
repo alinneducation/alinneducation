@@ -5,7 +5,7 @@ import Navbar from "./navbar";
 export default function SubjectPage({
   courses,
 }: {
-  courses: { my: string; en: string; url: string }[];
+  courses: { en: string; my: string; url: string }[];
 }) {
   return (
     <div className="flex flex-col max-w-full min-h-screen">
