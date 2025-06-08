@@ -1,8 +1,6 @@
-import BookCard from "@/components/layouts/course-card";
 import Footer from "@/components/layouts/footer";
 import Navbar from "@/components/layouts/navbar";
-import { Button } from "@/components/ui/button";
-import Link from "next/link";
+import SubjectPage from "@/components/layouts/subject-page";
 
 type GradeType = {
   en: string;
@@ -22,7 +20,7 @@ export default function Page() {
       </header>
       <div className="grid grid-cols-1 md:grid-cols-3 p-5 gap-5">
         {gradesTypes.map((gradeType) => (
-          <BookCard />
+          <SubjectPage courses={gradeType} />
         ))}
       </div>
       <footer className="w-full mt-auto">

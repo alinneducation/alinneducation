@@ -1,8 +1,12 @@
-import BookCard, { SubjectCard } from "./course-card";
+import { SubjectCard } from "./course-card";
 import Footer from "./footer";
 import Navbar from "./navbar";
 
-export default function SubjectPage({ courses }: any) {
+export default function SubjectPage({
+  courses,
+}: {
+  courses: { my: string; en: string; url: string }[];
+}) {
   return (
     <div className="flex flex-col max-w-full min-h-screen">
       <header className="block sticky top-0 light z-50">

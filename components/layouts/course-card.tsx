@@ -15,7 +15,11 @@ export function GradeCard({ course }: any) {
   );
 }
 
-export function SubjectCard({ course }: any) {
+export function SubjectCard({
+  course,
+}: {
+  course: { my: string; en: string; url: string };
+}) {
   const pathName = usePathname();
   return (
     <div className="flex flex-col w-36 h-36 border rounded-lg items-center justify-center space-y-5 ">

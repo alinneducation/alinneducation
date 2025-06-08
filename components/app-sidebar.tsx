@@ -1,24 +1,6 @@
 "use client";
 
 import * as React from "react";
-import {
-  AudioWaveform,
-  Book,
-  BookA,
-  BookDown,
-  BookImageIcon,
-  BookOpen,
-  BookOpenText,
-  BookTemplateIcon,
-  Bot,
-  Command,
-  Frame,
-  GalleryVerticalEnd,
-  Map,
-  PieChart,
-  Settings2,
-  SquareTerminal,
-} from "lucide-react";
 
 import { NavMain } from "@/components/nav-main";
 import { NavUser } from "@/components/nav-user";
@@ -31,9 +13,7 @@ import {
   SidebarContent,
   SidebarFooter,
   SidebarRail,
-  SidebarMenuItem,
   SidebarMenuButton,
-  SidebarMenu,
 } from "@/components/ui/sidebar";
 
 import { usePathname } from "next/navigation";

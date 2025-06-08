@@ -1,6 +1,6 @@
 "use client";
 
-import { Book, BookOpen, ChevronRight, type LucideIcon } from "lucide-react";
+import { BookOpen, ChevronRight } from "lucide-react";
 
 import {
   Collapsible,

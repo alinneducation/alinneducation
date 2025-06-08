@@ -2,11 +2,7 @@ import type { Metadata } from "next";
 import { data } from "@/components/grade-12/mathematics/data";
 import gradeType from "@/data/gradeType.json";
 
-import {
-  SidebarInset,
-  SidebarProvider,
-  SidebarTrigger,
-} from "@/components/ui/sidebar";
+import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
 
 import {
   AppContent,

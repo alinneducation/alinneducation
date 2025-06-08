@@ -14,8 +14,6 @@ import {
 } from "@/components/ui/sheet";
 import { Button } from "@/components/ui/button";
 
-import { usePathname } from "next/navigation";
-
 const navItems = [
   { id: 1, path: "/", title: "Home" },
   { id: 2, path: "/courses", title: "Courses" },
@@ -26,7 +24,6 @@ const navItems = [
 const SIDEBAR_WIDTH_MOBILE = "18rem";
 
 export default function Navbar() {
-  const param = usePathname();
   return (
     <nav className="bg-white dark:bg-zinc-950 sticky w-full top-0 start-0 border-b border-gray-200 dark:border-gray-600">
       <div className=" flex flex-wrap w-full items-center justify-between mx-auto py-4 px-5">
@@ -108,7 +105,7 @@ export default function Navbar() {
 }
 
 export function ThemeMode() {
-  const { theme, setTheme } = useTheme();
+  const { setTheme } = useTheme();
 
   return (
     <div className="flex items-center justify-center cursor-pointer">

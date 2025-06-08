@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { BookOpen, ChevronsUpDown, Plus } from "lucide-react";
+import { BookOpen, ChevronsUpDown } from "lucide-react";
 import grades from "@/data/grades.json";
 
 import {
@@ -10,7 +10,6 @@ import {
   DropdownMenuItem,
   DropdownMenuLabel,
   DropdownMenuSeparator,
-  DropdownMenuShortcut,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import {
@@ -76,7 +75,7 @@ export function TeamSwitcher({
             <DropdownMenuLabel className="text-xs text-muted-foreground">
               ဘာသာရပ်များ
             </DropdownMenuLabel>
-            {teams.subjects.map((team, index) => (
+            {teams.subjects.map((team) => (
               <DropdownMenuItem
                 key={team.subject}
                 onClick={() => {

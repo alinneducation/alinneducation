@@ -4,7 +4,7 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "@/components/middle/teacher's-guide";
+} from "@/components/middle/year-plan";
 import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Grade 7 English လပိုင်းမာတိကာ",
@@ -57,7 +57,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 4</TableData>
           <TableData align="left" className="pl-5">
-            Let's send a postcard
+            Let&lsquos send a postcard
           </TableData>
           <TableData>3</TableData>
         </TableRow>
