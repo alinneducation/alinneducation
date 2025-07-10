@@ -86,7 +86,7 @@ export default function PassQuestion({
         </p>
       </QuestionTitle>
 
-      {question1.map((data: any, index: any) => (
+      {question1.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p>
@@ -101,14 +101,14 @@ export default function PassQuestion({
           <span className="float-end">(10 marks) </span>
         </p>
       </QuestionTitle>
-      {question2.map((data: any, index: any) => (
+      {question2.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p>
             <p>{data["question-item-text"]}</p>
           </QuestionItem>
           <SelectAnswer>
-            {data.options.map((option: any, index: any) => (
+            {data.options.map((option, index) => (
               <p key={index}>{option}</p>
             ))}
           </SelectAnswer>
@@ -121,7 +121,7 @@ export default function PassQuestion({
           <span className="float-end">(10 marks) </span>
         </p>
       </QuestionTitle>
-      {question3.map((data: any, index: any) => (
+      {question3.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p>
@@ -139,7 +139,7 @@ export default function PassQuestion({
           verce.<span className="float-end">(5 marks) </span>
         </p>
       </QuestionTitle>
-      {question4a.map((data: any, index: any) => (
+      {question4a.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p>
@@ -158,7 +158,7 @@ export default function PassQuestion({
           <span className="float-end">(5 marks) </span>
         </p>
       </QuestionTitle>
-      {question4b.map((data: any, index: any) => (
+      {question4b.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p>
@@ -183,7 +183,7 @@ export default function PassQuestion({
           <span className="float-end">(5 marks) </span>
         </p>
       </QuestionTitle>
-      {question5.A.map((data: any, index: any) => (
+      {question5.A.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p>
@@ -201,7 +201,7 @@ export default function PassQuestion({
           <span className="float-end">(5 marks) </span>
         </p>
       </QuestionTitle>
-      {question5.B.map((data: any, index: any) => (
+      {question5.B.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p>
@@ -227,7 +227,7 @@ export default function PassQuestion({
           <span className="float-end">(5 marks) </span>
         </p>
       </QuestionTitle>
-      {question6.A.map((data: any, index: any) => (
+      {question6.A.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p>
@@ -245,7 +245,7 @@ export default function PassQuestion({
           <span className="float-end">(5 marks) </span>
         </p>
       </QuestionTitle>
-      {question6.B.map((data: any, index: any) => (
+      {question6.B.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p>
@@ -265,13 +265,13 @@ export default function PassQuestion({
         </p>
       </QuestionTitle>
       <DialogueBox>
-        {question7a.expressions.map((data: any, index: any) => (
+        {question7a.expressions.map((data, index) => (
           <p className="min-w-1/4" key={index}>
             {data}
           </p>
         ))}
       </DialogueBox>
-      {question7a.questions.map((data: any, index: any) => (
+      {question7a.questions.map((data, index) => (
         <QuestionItem key={index}>
           <p className="min-w-1/6">{data["question-item-text"][0]}</p>
           <p> :</p>
@@ -287,13 +287,13 @@ export default function PassQuestion({
         </p>
       </QuestionTitle>
       <DialogueBox>
-        {question7b.expressions.map((data: any, index: any) => (
+        {question7b.expressions.map((data, index) => (
           <p className="min-w-1/4" key={index}>
             {data}
           </p>
         ))}
       </DialogueBox>
-      {question7b.questions.map((data: any, index: any) => (
+      {question7b.questions.map((data, index) => (
         <QuestionItem key={index}>
           <p className="w-5 md:w-7">{data["question-item-number"]}</p>
           <div>

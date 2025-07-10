@@ -120,7 +120,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 4</TableData>
           <TableData align="left" className="pl-5">
-            Let's play in the school band!
+            Let’s play in the school band!
           </TableData>
           <TableData>3</TableData>
         </TableRow>
@@ -208,7 +208,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 4</TableData>
           <TableData align="left" className="pl-5">
-            Let's try these experiments!
+            Let’s try these experiments!
           </TableData>
           <TableData>3</TableData>
         </TableRow>
@@ -239,7 +239,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 4</TableData>
           <TableData align="left" className="pl-5">
-            Let's save our earth!
+            Let’s save our earth!
           </TableData>
           <TableData>3</TableData>
         </TableRow>

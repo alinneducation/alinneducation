@@ -209,7 +209,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 4</TableData>
           <TableData align="left" className="pl-5">
-            Dos and Don'ts in sports and games
+            Dos and Don’ts in sports and games
           </TableData>
           <TableData>3</TableData>
         </TableRow>
@@ -393,7 +393,7 @@ export default function Page() {
           <TableData rowSpan={4}>Unit 10</TableData>
           <TableData>Lesson 1</TableData>
           <TableData align="left" className="pl-5">
-            Let's take part in the school concert!
+            Let’s take part in the school concert!
           </TableData>
           <TableData>4</TableData>
           <TableData rowSpan={4}>14</TableData>
@@ -409,7 +409,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 3</TableData>
           <TableData align="left" className="pl-5">
-            She's quite intelligent, but rather lazy
+            She’s quite intelligent, but rather lazy
           </TableData>
           <TableData>3</TableData>
         </TableRow>
@@ -448,7 +448,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 4</TableData>
           <TableData align="left" className="pl-5">
-            Let's write a weather forecast!
+            Let’s write a weather forecast!
           </TableData>
           <TableData>3</TableData>
         </TableRow>

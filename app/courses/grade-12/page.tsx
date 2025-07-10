@@ -1,6 +1,5 @@
 import Footer from "@/components/layouts/footer";
 import Navbar from "@/components/layouts/navbar";
-import SubjectPage from "@/components/layouts/subject-page";
 import Link from "next/link";
 
 type GradeType = {

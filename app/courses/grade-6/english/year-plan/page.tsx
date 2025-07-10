@@ -193,7 +193,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 2</TableData>
           <TableData align="left" className="pl-5">
-            Let's read a short note!
+            Let’s read a short note!
           </TableData>
           <TableData>4</TableData>
         </TableRow>
@@ -217,7 +217,7 @@ export default function Page() {
           <TableData rowSpan={4}>Unit 6</TableData>
           <TableData>Lesson 1</TableData>
           <TableData align="left" className="pl-5">
-            Let's eat out!
+            Let’s eat out!
           </TableData>
           <TableData>4</TableData>
           <TableData rowSpan={4}>14</TableData>
@@ -232,7 +232,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 3</TableData>
           <TableData align="left" className="pl-5">
-            <p>What's the difference: countable and </p>
+            <p>What’s the difference: countable and </p>
             <p>uncountable?</p>
           </TableData>
           <TableData>3</TableData>
@@ -240,7 +240,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 4</TableData>
           <TableData align="left" className="pl-5">
-            Let's go shopping!
+            Let’s go shopping!
           </TableData>
           <TableData>3</TableData>
         </TableRow>

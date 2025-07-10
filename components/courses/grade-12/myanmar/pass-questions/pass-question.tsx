@@ -76,7 +76,7 @@ export default function PassQuestion({
           <span className="float-end">(၁၀ မှတ်) </span>
         </p>
       </QuestionTitle>
-      {question1a.map((data, index: any) => (
+      {question1a.map((data, index) => (
         <QuestionItem key={index}>
           <p>{data["question-item-number"]}</p>
           <p>{data["question-item-text"]}</p>
@@ -90,7 +90,7 @@ export default function PassQuestion({
           <span className="float-end">(၁၀ မှတ်) </span>
         </p>
       </QuestionTitle>
-      {question1b.map((data, index: any) => (
+      {question1b.map((data, index) => (
         <QuestionItem key={index}>
           <p>{data["question-item-number"]}</p>
           <p>{data["question-item-text"]}</p>
@@ -104,14 +104,14 @@ export default function PassQuestion({
           <span className="float-end">(၁၀ မှတ်) </span>
         </p>
       </QuestionTitle>
-      {question1c.map((data, index: any) => (
+      {question1c.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p>
             <p>{data["question-item-text"]}</p>
           </QuestionItem>
           <SelectAnswer>
-            {data.options.map((option, index: any) => (
+            {data.options.map((option, index) => (
               <p key={index}>{option}</p>
             ))}
           </SelectAnswer>
@@ -134,7 +134,7 @@ export default function PassQuestion({
         <p> အောက်ပါဝေါဟာရတို့အနက် ငါးခု၏ အဓိပ္ပာယ်ကို တိကျစွာဖော်ပြပါ။</p>
       </QuestionItem>
       <div className="flex pl-15 flex-wrap">
-        {question2.question1.map((data, index: any) => {
+        {question2.question1.map((data, index) => {
           const punctuation =
             index === question2.question1.length - 1 ? "။" : "၊";
           return (
@@ -153,7 +153,7 @@ export default function PassQuestion({
         </p>
       </QuestionItem>
       <div className="flex pl-15 flex-wrap">
-        {question2.question2.map((data, index: any) => {
+        {question2.question2.map((data, index) => {
           const punctuation =
             index === question2.question1.length - 1 ? "။" : "၊";
           return (
@@ -202,7 +202,7 @@ export default function PassQuestion({
         <p>၆။ နှစ်သက်ရာတစ်ခုကို စာစီကုံးပါ။ </p>
         <p> (၁၀ မှတ်)</p>
       </QuestionTitle>
-      {question6.map((data, index: any) => (
+      {question6.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p> {data["question-item-title"]}
@@ -220,7 +220,7 @@ export default function PassQuestion({
           <span className="float-end">(၁၀ မှတ်)</span>
         </p>
       </QuestionTitle>
-      {question7.map((data, index: any) => (
+      {question7.map((data, index) => (
         <div key={index}>
           <QuestionItem>
             <p>{data["question-item-number"]}</p>

@@ -280,9 +280,9 @@ function SidebarTrigger({
 }
 
 function CustomSidebarTrigger({
-  className,
-  onClick,
-  ...props
+  // className,
+  // onClick,
+  // ...props
 }: React.ComponentProps<typeof Button>) {
   const { toggleSidebar } = useSidebar();
 
@@ -535,7 +535,7 @@ function SidebarMenuButton({
   tooltip?: string | React.ComponentProps<typeof TooltipContent>;
 } & VariantProps<typeof sidebarMenuButtonVariants>) {
   const Comp = asChild ? Slot : "button";
-  const { isMobile, state } = useSidebar();
+  // const { isMobile, state } = useSidebar();
 
   const button = (
     <Comp
