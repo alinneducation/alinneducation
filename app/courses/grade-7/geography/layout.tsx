@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
-import subjects from "@/components/middle/subjects.json";
-
+import subjects from "@/datas/middle/subjects.json";
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
 
 import {
