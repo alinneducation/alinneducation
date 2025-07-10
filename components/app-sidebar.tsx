@@ -16,7 +16,7 @@ import {
   SidebarMenuButton,
 } from "@/components/ui/sidebar";
 
-import { usePathname } from "next/navigation";
+
 import { ReactNode } from "react";
 import Link from "next/link";
 import { ThemeMode } from "./layouts/navbar";
@@ -28,12 +28,26 @@ type GradeType = {
   name: string;
   subjects: Subjects[];
 };
+
+type Item = {
+  title: string;
+  url: string;
+}
+
+type Data = {
+  user: {
+    name: string;
+    email: string;
+    avatar:string
+  };
+  navMain: Item[];
+}
 export function AppSidebar({
   data,
   teams,
   activeTeam,
 }: {
-  data: any;
+  data: Data;
   teams: GradeType;
   activeTeam: Subjects;
 }) {
