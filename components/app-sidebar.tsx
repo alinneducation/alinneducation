@@ -59,7 +59,6 @@ export function AppSidebar({
   );
 }
 export function AppSidebarNav() {
-  const pathName = usePathname().split("/")[4];
 
   return (
     <div className="flex w-full h-24 md:h-8 flex-col sticky top-0">

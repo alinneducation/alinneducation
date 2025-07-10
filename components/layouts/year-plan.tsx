@@ -34,7 +34,7 @@ export const TableData = ({
   rowSpan?: number;
   colSpan?: number;
   align?: "center" | "left";
-  className?: any;
+  className?: string;
 }) => {
   return (
     <td

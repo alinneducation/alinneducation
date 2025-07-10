@@ -1,7 +1,11 @@
 import { SubjectCard } from "./course-card";
 import Footer from "./footer";
 import Navbar from "./navbar";
-
+type Item = {
+  en: string;
+  my: string;
+  url: string;
+};
 export default function SubjectPage({
   courses,
 }: {
@@ -13,7 +17,7 @@ export default function SubjectPage({
         <Navbar />
       </header>
       <div className="grid grid-cols-2 md:grid-cols-3 w-full gap-5 my-5">
-        {courses.map((item: any) => {
+        {courses.map((item: Item) => {
           return (
             <div key={item.en} className="flex justify-center w-full">
               <SubjectCard course={item} />

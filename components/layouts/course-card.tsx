@@ -2,8 +2,12 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Button } from "../ui/button";
-
-export function GradeCard({ course }: any) {
+type Grade = {
+  en: string;
+  my: string;
+  url: string;
+};
+export function GradeCard({ course }:{course: Grade}) {
   const pathName = usePathname();
   return (
     <div className="flex flex-col w-36 h-36 border rounded-lg items-center justify-center space-y-5 ">
