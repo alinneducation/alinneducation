@@ -1,4 +1,4 @@
-import Intro from "@/components/grade-12/myanmar/intro";
+import Intro from "@/components/courses/grade-12/myanmar/intro";
 import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Grade 12 Myanmar Pass Questions(2024)-1",

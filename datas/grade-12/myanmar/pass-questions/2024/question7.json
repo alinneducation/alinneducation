@@ -1,0 +1,55 @@
+{
+    "question-number": "၇။",
+    "question-text": "အောက်ပါအဆိုတို့အနက် တစ်ခုကို ထောက်ခံ၍ဖြစ်စေ၊ ကန့်ကွက်၍ဖြစ်စေ ဆွေးနွေးပါ။",
+    "marks": "(၁၀ မှတ်)",
+    "set1": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "သားသမီးများသည် ဖခင်ထက် မိခင်ကို ပို၍ချစ်ကြသည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "သည်းခံခြင်းသည် မာန်မာနထားခြင်းထက် ပို၍အောင်မြင်စေသည်။"
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "ဆောင်းရာသီသည် နွေရာသီထက် ပို၍ပျော်ရွှင်ဖွယ်ကောင်းသည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "စာပေတွင် ကဗျာသည် စိတ်ဝင်စားစရာ အကောင်းဆုံးဖြစ်သည်။"
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "ဇွဲရှိခြင်းသည် အရာရာကို အောင်မြင်စေနိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "စာဖတ်ခြင်းက အင်တာနက်ကြည်ခြင်းထက် ပို၍ဗဟုသုတရသည်။"
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "သင်္ကြန်ပွဲတော်သည် မြန်မာလူမျိုးတို့အတွက် ပျော်စရာအကောင်းဆုံးဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "စာဖတ်ခြင်းထက် အင်တာနက်သုံးခြင်းက ပိုအကျိုးရှိသည်။"
+        }
+    ],
+    "set5": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "စိတ်အလှကို ရုပ်အလှထက် ပို၍နှစ်သက်သည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "ပညာသည် ငွေထက် ပို၍အရေးပါသည်။"
+        }
+    ]
+}

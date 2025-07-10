@@ -1,4 +1,4 @@
-import { Poem2 } from "@/components/grade-12/english/poems/poems";
+import { Poem2 } from "@/components/courses/grade-12/english/poems/poems";
 import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Grade 12 Myanmar Pass Questions(2024)-1",

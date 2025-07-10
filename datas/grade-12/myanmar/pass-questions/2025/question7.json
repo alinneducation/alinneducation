@@ -1,0 +1,125 @@
+{
+    "question-number": "၇။",
+    "question-text": "အောက်ပါအဆိုတို့အနက် တစ်ခုကို ထောက်ခံ၍ဖြစ်စေ၊ ကန့်ကွက်၍ဖြစ်စေ ဆွေးနွေးပါ။",
+    "marks": "(၁၀ မှတ်)",
+    "set1": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "ကဗျာသင်ကြားရခြင်းသည် စကားပြေသင်ကြားရခြင်းထက် ပို၍စိတ်ဝင်စားဖွယ်ကောင်းသည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "ဥပဒေအသိပညာသည် လူတိုင်းသိရှိထားသင့်သော ပညာရပ်တစ်ခုဖြစ်သည်။"
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "သီချင်းနားထောင်ခြင်းသည် စိတ်ကိုရွှင်လန်းစေသည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "ပစ္စည်းဥစ္စာပြည့်စုံခြင်းထက် ကိုယ်ကျင့်တရားကောင်းမွန်ခြင်းက ပိုအရေးကြီးသည်။"
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "ရုပ်လှခြင်းထက် စိတ်လှခြင်းက ပိုကောင်းသည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "ညီအစ်ကို မောင်နှမ များတာကောင်းသည်။"
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "လောက၌ အတတ်ပညာနှင့်တူသော မိတ်ဆွေကောင်းသည်မရှိ။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "အားကစားလိုက်စားသူသည် ကိုယ်ရောစိတ်ပါ ကျန်းမာစေသည်။"
+        }
+    ],
+    "set5": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "မိမိကိုယ်ကို ယုံကြည်ခြင်းက ဘဝအင်အားဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "စာတွေ့ထက် ကိုယ်တွေ့ကို ပို၍ အားကိုသင့်သည်။"
+        }
+    ],
+    "set6": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "နည်းပညာက လူသားဘဝကို မြှင့်တင်နိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "စာစီစာကုံးထက် အဆိုအချေက စိတ်ဝင်စားစရာ ပိုကောင်းသည်။"
+        }
+    ],
+    "set7": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "နွေရာသီထက် ဆောင်းရာသီက ပို၍ သာယာလှပသည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "ငွေကြေးချမ်းသာခြင်းသည် အရာရာပြီးမြောက်စေနိုင်သည်။"
+        }
+    ],
+    "set8": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "ကဗျာသည် စကားပြေထက် ပို၍ စိတ်ဝင်စားဖွယ်ကောင်းသည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "ငြင်းခုံခြင်းထက် ဆွေးနွေးခြင်းက ပိုကောင်းသည်။"
+        }
+    ],
+    "set9": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "ရသစာပေသည် စိတ်နှလုံးကို ပြုပြင်ပေးနိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "စိတ်ကူးထက် လက်တွေ့က ပို၍ အရေးပါသည်။"
+        }
+    ],
+    "set10": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": ""
+        }
+    ],
+    "set11": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": ""
+        }
+    ],
+    "set12": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": ""
+        }
+    ]
+}

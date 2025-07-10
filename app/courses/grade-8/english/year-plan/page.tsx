@@ -4,7 +4,7 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "@/components/middle/year-plan";
+} from "@/components/layouts/year-plan";
 import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Grade 7 English လပိုင်းမာတိကာ",

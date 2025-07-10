@@ -1,0 +1,480 @@
+{
+    "question-number": "V.",
+    "question-text": "Read the passage.",
+    "question-a-number": "(A)",
+    "question-a-text": "Find the bold-faced words in the passage that are similar in meaning to the following. There is an extra.",
+    "question-a-marks": "(5 marks)",
+    "question-b-number": "(B)",
+    "question-b-text": "Answer the following questions. Give complete answers.",
+    "question-b-marks": "(10 marks)",
+    "set1": {
+        "passage": "<p>Research indicates that sleep needs vary among individuals and age groups. Two factors that play a major role in the amount required for productivity and happiness are basal sleep need and sleep debt. Basa sleep need is the amount required for optimal performance and sleep debt is the cumulative loss from poor habits or interruptions. Healthy adults generally need seven to eight hours of sleep. though sleep debt may still cause fatigue. Lack of sleep can impair productivity, memory, and health, potentially leading to diabetes, heart disease, and increased mortality. Oversleeping’s impact is often linked with depression and low socioeconomic status. To determine personal sleep needs, you should observe your own productivity and alertness and the feeling after different amounts of sleep. There are a few things you can do to improve your quality of sleep: establishing a consistent sleep schedule, creating a relaxing bedtime routine, creating a comfortable sleep environment, and avoiding electronics in bed. General sleep guidelines suggest varying hours based on age: 12-18 for newborns, 14-15 for infants, 12-14 for toddlers, 11-13 for preschoolers, 10-11 for school-aged children, 8.59.25 for teens, and 7-9 for adults. Prioritizing sleep can enhance mood and productivity.</p>",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": "with the capacity to develop or happen in the future ="
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": "acting or done in the same way over time, especially so as to be fair or accurate ="
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": "best or most favourable ="
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": "increasing or increased in quantity, degree, or force by successive additions ="
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": "extremely tiredness resulting from mental or physical exertion or illness ="
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": "What are some consequences of not getting enough sleep?"
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": "What are some factors that might also be linked with oversleeping?"
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": "How can you determine how much sleep you need?"
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": "What are some practical tips for improving sleep quality?"
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": "Why is it important to make sleep a priority?"
+            }
+        ]
+    },
+    "set2": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set3": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set4": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set5": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set6": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set7": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set8": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set9": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set10": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    }
+}

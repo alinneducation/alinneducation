@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import { BookOpen, ChevronsUpDown } from "lucide-react";
-import grades from "@/data/grades.json";
+import grades from "@/datas/grades.json";
 
 import {
   DropdownMenu,

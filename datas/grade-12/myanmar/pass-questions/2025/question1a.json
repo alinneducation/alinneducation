@@ -1,0 +1,509 @@
+{
+    "question-number": "၁။(က)",
+    "question-text": "အောက်ပါတို့ကို မှားလျှင်(မှား)၊ မှန်လျှင်(မှန်)ဟု ဖြေဆိုပါ။",
+    "marks": "(၁၀ မှတ်)",
+    "set1": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "စကားများ၏နောက်ကွယ်တွင် မမြင်ရသောအနက်သဘောများ ကိန်းအောင်းလျက်ရှိသည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "မည်သည့်ဘာသာစကားတွင်မဆို အသံအနိမ့်အမြင့်သည် အတိမ်းအစောင်းခံနိုင်သော တဘောတရားတစ်ရပ်ဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": "လေးလေးနက်နက်ပြောချင်သော အရေးကြီးသည့် အကြောင်းအရာများကို ဖော်ညွှန်းလိုသည့်အခါတွင် အသံလေးကိုသုံးသည်။"
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": "အသံကြည်လင်ပီသမှုရှိစေရန် မေးရိုးများလွတ်လွတ်လပ်လပ်ရှိပြီး ပွင့်နေသောအနေအထားတွင် ထားပါ။"
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": "မင်းယုဝေသည် ‘အီစွပ်ပုံပြင်များ’ စာအုပ်ဖြင့် အမျိုးသားစာပေဆု ရရှိခဲ့သည်။"
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": "အညာမင်္ဂလာဆောင်လေးချိုးကြီးသည် သခင်ကိုယ်တော်မှိုင်းရေးသော ဗိုလ်ဋီကာမှ ထုတ်နုတ်ထားသည်။"
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": "ညောင်ရမ်းကြီးသမီးစကားပြေသည် ပုဂံခေတ်ဦးတွင်ရေးထိုးခဲ့သော ကျောက်စာဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": "စာရေးသူသည် သူရေးမည့် အကြောင်းအရာကို နယ်နိမိတ် ကန့်သတ်မထားသင့်ပါ။"
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": "အဆက်အစပ်ပြေပြစ်မှုသဘောသည် အစီအစဉ်ကောင်း၏သဘောလက္ခဏာတစ်ရပ်ဖြစ်ပါသည်။"
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": "ရေးဟန်၏သွင်ပြင် ၃ ရပ်တွင် စာရေးသူ၏ပင်ကိုစရိုက်သွင်ပြင်သည် အရေးအပါဆုံးဖြစ်သည်။"
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "ဘာသာစကားတိုင်းတွင် အသံအနိမ့်အမြင့်သည် အတိမ်းအစောင်းမခံသော သဘောတရားတစ်ခုဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "စကားကိုအမြန်ပြောဆိုခြင်းသည် နားထောင်သူကို ငြီးငွေ့စေနိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": "အသံကျယ်လောင်မှုထက် အသံမာကျောမှုက အသံအရည်အသွေးကို ပိုမိုကောင်းမွန်စေသည်။"
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": "စကားပြောနှုန်းကိုတိုင်းတာရာတွင် တစ်စက္ကန့်အတွင်းပြောသော စကားလုံးအရေအတွက်ဖြင့်တိုင်းတာသည်။"
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": "ဒဂုန်ဦးစန်းငွေသည် ဒဂုန်မဂ္ဂဇင်းတွင် ပေါက္ကံမောင်တင်အမည်ဖြင့် ကဗျာများစတင်ရေးဖွဲ့ခဲ့သည်။"
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": "ဒေါက်တာကျော်စိန်သည် လူငယ်လမ်းညွှန်စာမူဖြင့် သုတပဒေသာ(ဝိဇ္ဇာ)ပညာရပ် ပထမဆုရရှိခဲ့သည်။"
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": "သံချိုကဗျာများသည် အများအားဖြင့် ရုပ်သေးပွဲတွင် လက်တန်းဖွဲ့ဆိုရသော ကဗျာအမျိုးအစားဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": "ရေးဟန်ဟူသည် ခေတ်တစ်ခေတ်တွင် ယေဘုယျအားဖြင့်တွေ့ရသော သွင်ပြင်လက္ခဏာဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": "စာရေးသူ၏စေတနာ၊ ရည်ရွယ်ချက်၊ သဘောထားတို့က အကြောင်းအရာ၏ နယ်နိမိတ်ကို ကန့်သတ်ပေးသည်။"
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": "စကားပြေအဖွဲ့တစ်ခုသည် သဒ္ဒါမှန်ပြီး ဝါကျဖွဲ့ထုံးမှန်ကန်လျှင် စကားပြေကောင်းဟု သတ်မှတ်နိုင်သည်။"
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "အသံအားကို များများသုံးလိုလျှင် ရင်ဝန်းခြားကြွက်သား(ဒိုင်ယာဖရမ်)အင်အားကို အသုံးပြုနိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "စကားပြောဆိုသည့်နှုန်း အနှေးအမြန်သည် နားလည်နိုင်မှုအပေါ် အကျိုးသက်ရောက်ခြင်းမရှိနိုင်ပါ။"
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": "စကားပြောနှုန်းမြန်လျှင် နားထောင်သူအတွက် ငြီးငွေစရာဖြစ်သွားနိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": "နာသူအတွက် အကျိုးရှိမှုများလေလေ ယဉ်ကျေးချေငံမှု ရှိလေလေဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": "“သဒ္ဒါမှာရှင်မဟာကစ္စည်း၊ ကဗျာမှာရှင်မဟာရဋ္ဌသာရတည်း” ဟု ဆိုစမှတ်ပြုကြသည်။"
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": "သံချိုများသည် ရုပ်သေးပွဲများတွင် လက်တန်းဖွဲ့ဆိုကြပြီး ပုံစံမှာ လေးချိုးကဗျာပုံစံပင်ဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": "“လက်ဖက်ရည်ကြမ်းဝိုင်း” ကဗျာကို ဗန်မော်ညိုနွဲ့က ရေးသားခဲ့သည်။"
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": "စီစဉ်ပုံနေရာမကျသော်လည်း အချက်အလက်များက စိတ်ဝင်စားစရာကောင်းလျှင် စကားပြေကောင်းဖြစ်နိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": "စာရေးသူ ရေးရမည့်အကြောင်းအရာကို စာရေးသူ၏ စေတနာက ရွေးချယ်ပေးသည်။"
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": "စကားပြေတွင် ရေးဟန်ကို နယ်နိမိတ်အတိုင်းအတာ အမျိုးမျိုးဖြင့် အသုံးပြုလေ့ရှိသည်။"
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "စကားပြောရာတွင်အသံတိုးတိုးဖြင့် ပြောဆိုခြင်းထက် အသံကျယ်လောင်မှုဖြင့်ပြောဆိုခြင်းက ပိုမိုထိရောက်သည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "မိမိ၏လေယူလေသိမ်းကထူးခြားနေလျှင် စကားပြောနှုန်းကို သတိထားရမည်။"
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": "ရက်ရောမှုလမ်းညွှန်သည် အသိအမှတ်ပြုလမ်းညွှန်နှင့် အပြန်အလှန်သဘောဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": "အသံကြည်လင်ပီသမှုရှိစေရန် မေးရိုးများကို ပွင့်နေသောအနေအထားတွင် ထားရမည်။"
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": "ဦးစိန်တင်သည် တင်တင်ထွေးအမည်ဖြင့် စာပေဆိုင်ရာဆောင်းပါးများကို များစွာရေးသားခဲ့သည်။"
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": "အိုင်ချင်းကဗျာများကို တောင်တွင်းရှင်ငြိမ်းမယ်အပြင် လက်ဝဲသုန္ဒရနှင့် ကင်းဝန်မင်းကြီးတို့လည်းရေးခဲ့ကြသည်။"
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": "ညောင်ရန်းကြီးသမီးစကားပြေကို ပင်းယခေတ်တွင် ရေးသားခဲ့သည်။"
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": "စကားသုံးပုံ၊ဝါကျဖွဲ့ပုံစသည်တို့က ပင်ကိုဟန်ကို ဖော်ပြနေပါသည်။"
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": "စကားပြောရာ၌ လေးနက်သောပညာရပ်အကြောင်းကို ပြောလျှင် တည်တည်မှန်မှန်ပြောပေလိမ့်မည်။"
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": "စကားပြေအဖွဲ့တစ်ခုသည် သဒ္ဒါမှန်ပြီး ဝါကျဖွဲ့ထုံးမှန်လျှင် စကားပြေကောင်းဟု သတ်မှတ်နိုင်ပါသည်။"
+        }
+    ],
+    "set5": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "ပြောသူနှင့် နာသူတို့ သဟဇာတဖြစ်မှု၊ ပူးပေါင်းလုပ်ဆောင်မှုကို ဖော်ညွှန်းသည့် စကားမျိုးကို ပေါင်းဖွဲ့စည်းလုံးမှုနည်းပရိယာယ်အဖြစ် မှတ်ယူနိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "လိမ္မာပါးနပ်မှုလမ်းညွှန်၏ သွင်ပြင်လက္ခဏာတစ်ရပ်မှာ နာသူကို ရွေးချယ်ခွင့် မပေးခြင်းဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": "အသံကြိးများ၏ တင်းအားကို အလျှော့အတင်းပြုပေးခြင်းဖြင့် နိမ့်မြင့်သံပြောင်းလဲစေပါသည်။"
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": "သင်၏ အသံကို ကြည်လင်ပီသစေရန် မေးရိုးများကို လွတ်လွတ်လပ်လပ်ရှိပြီး ပွင့်နေသော အနေအထားတွင် ထားပါ။"
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": "မလုပ်မစားဝတ္ထုတိုကို ပီမိုးနင်းက ကိုလိုနီခေတ်တွင် ရေးသားသည်။"
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": "ပဒေသာလက်ရာကဗျာကို တက္ကသိုလ်တောသား စပ်ဆိုသည်။"
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": "ပညာဖြင့် အသက်မွေးသောသူ၏ အသက်ရှင်ခြင်းသည်လျှင် မြတ်သော အသက်ရှင်ခြင်းမည်၏။"
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": "စာရေးလိုသောအကြောင်းအရာနှင့်စပ်၍ စာရေးသူတွင် ကိုယ်နှုတ်နှလုံးအတွေ့အကြုံ မလိုပါ။"
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": "စာရေးသူသည် သိသမျှအကြောင်းအရာကို အကုန်ချရေးနိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": "ဖတ်သူ၏ စိတ်အာရုံကို ဆွဲငင်နိုင်သည့် ရေးဟန်မျိုးကို သုံးက ယင်းစာသည် လေးနက်ထင်ရှားလာတတ်သည်။"
+        }
+    ],
+    "set6": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "အသံအနိမ့်အမြင့်နှင့် ဝါကျနိမ့်မြင့်သံ တိမ်းစောင်းသော်လည်း သတ်မှတ်အနက် ရနိုင်ပါသည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "ဝဏ္ဏတစ်ခုကို ထုတ်လုပ်ရာတွင် သုံးသည့် အားထုတ်မှု အတိုင်းအတာပမာဏသည် အသံအလေးအပေါ့ ဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": "အနှေးနှုန်းဆိုသည်မှာ တစ်မိနစ်အတွင်း စာလုံးရေ ၁၁၀အောက် နိမ့်သောပြောနှုန်းဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": "ကြားနိုင်မှုအတွက် အသံအတိုးအကျယ်ကို ထိန်းညှိပေးမှုသည် အရေးမကြီးပါ။"
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": "သစ္စာနှင့် ပညာစကားပြေသည် ပုဂံခေတ်တွင် ရေးသောစကားပြေဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": "ပေါ်နွေလလျှင်ရတုကို နတ်ရှင်နောင်က ညောင်ရမ်းခေတ်တွင် ရေးဖွဲ့သည်။"
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": "ညောင်းရမ်းကြီးသမီးသည် အရပ် ၅ပါး ပြုသည်။"
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": "စာရေးတတ်ခြင်းထက် အကြောင်းအရာစုံကို စုဆောင်းတတ်ခြင်းက ပိုခဲယဉ်းသည်။"
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": "စာရေးသူသည် အကြောင်းအရာအမျိုးမျိုးထဲမှ တစ်ခုခုကို ရွေးချယ်ရမြဲဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": "အလေးပေးလိုသောအချက်သည် စာ၏ အလယ်ပိုင်းတွင် ရှိနိုင်သည်။"
+        }
+    ],
+    "set7": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "အသံအနိမ့်အမြင့်နှင့် ဝါကျနိမ့်မြင့်သံသည် ထိရောက်သောစကားပြောဆိုမှုတွင် အရေးပါသည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "စကားပြောဆိုသည့်နှုန်း အနှေးအမြန်သည် နားလည်မှုကို အကျိုးမသက်ရောက်နိုင်ပါ။"
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": "အပြန်အလှန်ပြောဆိုရာတွင် တစ်မိနစ်အတွင်း ၁၂၀-၁၄၀နှုန်းဖြင့် ပြောဆိုရသည်။"
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": "စိတ်ဓာတ်ရင့်ကျက်တည်ငြိမ်ခြင်း စကားပြေကို ကိုလိုနီခေတ်တွင် ရေးသားခဲ့သည်။"
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": "ပေါင်းရှစ်ယောက်ကောက်စိုက်သူ ကဗျာသည် ညည်းချင်းကဗျာ အမျိုးအစားဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": "ပေါ်နွေလလျှင်ရတုကို နတ်ရှင်နောင်က အင်းဝခေတ်တွင် ရေးဖွဲ့ခဲ့သည်။"
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": "လူအချင်းချင်းဆက်သွယ်ရာတွင် ကိုယ်ဟန်အမူအယာဖြင့်လည်း ဆက်သွယ်နိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": "စကားပြေရေးရာတွင် စိတ်ဝင်စားမှုအစဉ်ဖြင့် စဉ်ခြင်းကို သုံးလေ့မရှိပါ။"
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": "စာရေးသူ၏ ကျော်ကြားလိုမှုက စာရေးစရာအကြောင်းအရာကို ရွေးချယ်ပေးသည်။"
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": "ခေတ်၏သွင်ပြင်သည် ရေးဟန်၏ အရေးပါဆုံးသွင်ပြင်တစ်ခုဖြစ်သည်။"
+        }
+    ],
+    "set8": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "အလွန်ဝမ်းသာ၊ အံ့ဩ၊ စိတ်ဆိုးသည့်အခါမျိုးတို့တွင် အသံတိုးတိုးပေါ့ပေါ့ ပြောဆိုရသည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "စကားလုံးရိုးရိုးဖြင့် ပြောဆိုခြင်းသည် တင်စားသော စကားလုံးများဖြင့် ပြောဆိုခြင်းထက် ပရိသတ်ကို ပိုမိုနားလည်စေနိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": "အသံကြည်လင်ပီသမှု ရှိစေရန်အတွက် အံ့ကြိတ်ထားရမည်။"
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": "လိမ္မာပါးနပ်မှုလမ်းညွှန်က တစ်ဖက်လူကို အခြေပြုသည်။ ရက်ရောမှုလမ်းညွှန်က မိမိကိုယ်ကို အခြေပြုသည်။"
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": "ခေတ် စကားပြေကို သိပ္ပံမောင်ဝ ရေးသည်။"
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": "ပေါ်နွေလလျှင် ကဗျာသည် နတ်ရှင်နောင်၏ ကဗျာများထဲမှ အကောင်းဆုံးနှင့် အထင်ရှားဆုံး ကဗျာဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": "ရေသည်ပြဇာတ်သည် စာဆိုဦးကြင်ဥ ရေးဖွဲ့ခဲ့သော ပြဇာတ်ဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": "စာရေးရမည့် အကြောင်းအရာကို စေတနာက ရွေးချယ်ပေးပါသည်။"
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": "တိကျမှုသည် စကားပြေရေးဟန်ကောင်း၏ အခြေခံလက္ခဏာတစ်ရပ်ဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": "ရေးဟန်သွင်ပြင် (၃)ရပ်တွင် ခေတ်၏သွင်ပြင်သည် အရေးပါဆုံး ဖြစ်သည်။"
+        }
+    ],
+    "set9": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": "အသံအနိမ့်အမြင့်သည် စကားသံဆိုင်ရာ သဘောတရားတစ်ခု ဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": "စကားပြောဆိုရာတွင် အရေးမကြီးသည့်အကြောင်းအရာကိုဖော်ညွှန်းသောစကားမျိုးတွင် အသံလေးကိုသုံးသည်။"
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": "စကားလုံးရိုးရိုးဖြင့်ပြောဆိုခြင်းသည် တင်စားသောစကားလုံးများထက် ပိုမိုနားလည်စေနိုင်သည်။"
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": "အဆိုတော်များသည် အသံကျယ်လိုလျှင် လည်မျိုကို အသုံးပြုသည်။"
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": "မလုပ်မစားဝတ္ထုတိုကို ပီမိုးနင်း ရေးသားခဲ့သည်။"
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": "မောင်းထောင်ဦးကျော်လှ၏ ဇာတိမှာ မုံရွာခရိုင် ဘုတလင်နယ် ဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": "ကမ္ဘောဇသို့ ကဗျာကို လွတ်လပ်ရေးခေတ်တွင် ရေးဖွဲ့ခဲ့သည်။"
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": "စာရေးတတ်ခြင်းပညာထက် စာရေးရန်အကြောင်းမျိုးစုံးကိုစုဆောင်းတတ်သောပညာက ခဲယဉ်းသည်။"
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": "စည်းလုံးညီညွတ်မှုသဘောသည် အစီအစဉ်ကောင်း၏ သဘောလက္ခဏာတစ်ရပ်ဖြစ်သည်။"
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": "တိကျမှုသည် စကားပြေကောင်း၏ အခြေခံလိုအပ်ချက်တစ်ရပ်ဖြစ်သည်။"
+        }
+    ],
+    "set10": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": ""
+        }
+    ],
+    "set11": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": ""
+        }
+    ],
+    "set12": [
+        {
+            "question-item-number": "(၁)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၂)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၃)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၄)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၅)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၆)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၇)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၈)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၉)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(၁၀)",
+            "question-item-text": ""
+        }
+    ]
+}

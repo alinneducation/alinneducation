@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import subjects from "@/components/middle/subjects.json";
+import subjects from "@/datas/middle/subjects.json";
 
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
 
@@ -27,7 +27,7 @@ const data = {
     },
     {
       title: "လပိုင်းမာတိကာ",
-      url: "/english/teacher's-guide",
+      url: "/english/year-plan",
     },
     {
       title: "လေ့ကျင့်ခန်းနှင့်အဖြေများ",
