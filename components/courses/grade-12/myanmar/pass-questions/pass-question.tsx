@@ -117,11 +117,6 @@ export default function PassQuestion({
           </SelectAnswer>
         </div>
       ))}
-
-      <SelectAnswer>
-        <p>(က) အနေအထားမှန်ကန်မှု</p> <p>(ခ) စည်းလုံးညီညွတ်မှု</p>
-        <p>(ဂ) တစ်သမတ်တည်း</p>
-      </SelectAnswer>
       <QuestionTitle>
         <p>၂။ </p>
         <p className="w-full">
