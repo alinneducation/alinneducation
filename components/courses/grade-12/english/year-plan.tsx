@@ -542,7 +542,3 @@ export default function YearPlan() {
     </table>
   );
 }
-
-function ComponentSection() {
-  return <TableData>f</TableData>;
-}
