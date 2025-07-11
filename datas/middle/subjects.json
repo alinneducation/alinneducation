@@ -3,27 +3,38 @@
     "subjects": [
         {
             "url": "myanmar",
-            "subject": "မြန်မာစာ"
+            "en": "Myanmar",
+            "my": "မြန်မာစာ"
         },
         {
             "url": "english",
-            "subject": "အင်္ဂလိပ်စာ"
+            "en": "English",
+            "my": "အင်္ဂလိပ်စာ"
         },
         {
             "url": "mathematics",
-            "subject": "သင်္ချာ"
+            "en": "Mathematics",
+            "my": "သင်္ချာ"
         },
         {
             "url": "geography",
-            "subject": "ပထဝီဝင်"
+            "en": "Geography",
+            "my": "ပထဝီဝင်"
         },
         {
             "url": "history",
-            "subject": "သမိုင်း"
+            "en": "History",
+            "my": "သမိုင်း"
         },
         {
             "url": "science",
-            "subject": "သိပ္ပံ"
+            "en": "Science",
+            "my": "သိပ္ပံ"
+        },
+        {
+            "url": "physical",
+            "en": "Physical",
+            "my": "ကာယပညာ"
         }
     ]
 }

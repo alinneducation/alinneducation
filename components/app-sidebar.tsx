@@ -16,13 +16,13 @@ import {
   SidebarMenuButton,
 } from "@/components/ui/sidebar";
 
-
 import { ReactNode } from "react";
 import Link from "next/link";
 import { ThemeMode } from "./layouts/navbar";
 type Subjects = {
   url: string;
-  subject: string;
+  en: string;
+  my: string;
 };
 type GradeType = {
   name: string;
@@ -32,16 +32,16 @@ type GradeType = {
 type Item = {
   title: string;
   url: string;
-}
+};
 
 type Data = {
   user: {
     name: string;
     email: string;
-    avatar:string
+    avatar: string;
   };
   navMain: Item[];
-}
+};
 export function AppSidebar({
   data,
   teams,
@@ -73,7 +73,6 @@ export function AppSidebar({
   );
 }
 export function AppSidebarNav() {
-
   return (
     <div className="flex w-full h-24 md:h-8 flex-col sticky top-0">
       <div className="flex md:hidden px-4 bg-white dark:bg-zinc-950 w-full h-16 shadow-2xl items-center sticky mt-0">

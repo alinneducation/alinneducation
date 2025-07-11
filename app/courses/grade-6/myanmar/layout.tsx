@@ -120,18 +120,16 @@ export default function Grade12Layout({
   children: React.ReactNode;
 }>) {
   return (
-    <div>
-      <SidebarProvider>
-        <AppSidebar
-          data={data}
-          teams={subjects}
-          activeTeam={subjects.subjects[0]}
-        />
-        <SidebarInset>
-          <AppSidebarNav />
-          <AppContent>{children}</AppContent>
-        </SidebarInset>
-      </SidebarProvider>
-    </div>
+    <SidebarProvider>
+      <AppSidebar
+        data={data}
+        teams={subjects}
+        activeTeam={subjects.subjects[0]}
+      />
+      <SidebarInset>
+        <AppSidebarNav />
+        <AppContent>{children}</AppContent>
+      </SidebarInset>
+    </SidebarProvider>
   );
 }

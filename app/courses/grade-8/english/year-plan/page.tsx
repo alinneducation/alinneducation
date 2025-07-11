@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 };
 export default function Page() {
   return (
-    <table className="table-auto table border-2 w-full">
+    <table className="table-auto table border-2 w-full text-sm md:text-base">
       <TableHeader>
         <TableRow>
           <TableHead>Unit</TableHead>

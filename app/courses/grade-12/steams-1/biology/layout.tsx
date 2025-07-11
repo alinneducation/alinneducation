@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { data } from "@/components/courses/grade-12/biology/data";
-import gradeType from "@/datas/gradeType.json";
+import {steams1} from "@/datas/high/subjects.json";
 
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
 
@@ -25,8 +25,8 @@ export default function Grade12Layout({
       <SidebarProvider>
         <AppSidebar
           data={data}
-          teams={gradeType["steams-1"]}
-          activeTeam={gradeType["steams-1"].subjects[5]}
+          teams={steams1}
+          activeTeam={steams1.subjects[5]}
         />
         <SidebarInset>
           <AppSidebarNav />

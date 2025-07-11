@@ -1,0 +1,107 @@
+{
+    "stams": {
+        "name": "stams",
+        "subjects": [
+            {
+                "url": "myanmar",
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "url": "english",
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "url": "mathematics",
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "url": "geography",
+                "en": "Geography",
+                "my": "ပထဝီဝင်"
+            },
+            {
+                "url": "history",
+                "en": "History",
+                "my": "သမိုင်း"
+            },
+            {
+                "url": "economic",
+                "en": "Economic",
+                "my": "ဘောဂဗေဒ"
+            }
+        ]
+    },
+    "steams1": {
+        "name": "steams-1",
+        "subjects": [
+            {
+                "url": "myanmar",
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "url": "english",
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "url": "mathematics",
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "url": "chemistry",
+                "en": "Chemistry",
+                "my": "ဓာတုဗေဒ"
+            },
+            {
+                "url": "physics",
+                "en": "Physics",
+                "my": "ရူပဗေဒ"
+            },
+            {
+                "url": "biology",
+                "en": "Biology",
+                "my": "ဇီဝဗေဒ"
+            }
+        ]
+    },
+    "steams2": {
+        "name": "steams-2",
+        "subjects": [
+            {
+                "url": "myanmar",
+                "en": "Myanmar",
+                "my": "မြန်မာစာ"
+            },
+            {
+                "url": "english",
+                "en": "English",
+                "my": "အင်္ဂလိပ်စာ"
+            },
+            {
+                "url": "mathematics",
+                "en": "Mathematics",
+                "my": "သင်္ချာ"
+            },
+            {
+                "url": "chemistry",
+                "en": "Chemistry",
+                "my": "ဓာတုဗေဒ"
+            },
+            {
+                "url": "physics",
+                "en": "Physics",
+                "my": "ရူပဗေဒ"
+            },
+            {
+                "url": "economic",
+                "en": "Economic",
+                "my": "ဘောဂဗေဒ"
+            }
+        ]
+    }
+}

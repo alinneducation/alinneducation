@@ -22,7 +22,8 @@ import { usePathname, useRouter } from "next/navigation";
 
 type Subjects = {
   url: string;
-  subject: string;
+  en: string;
+  my: string;
 };
 type GradeType = {
   name: string;
@@ -61,7 +62,7 @@ export function TeamSwitcher({
                 <span className="truncate font-semibold pb-1">
                   {activeGrade[0].my}
                 </span>
-                <span className="truncate text-xs">{activeTeam.subject}</span>
+                <span className="truncate text-xs">{activeTeam.my}</span>
               </div>
               <ChevronsUpDown className="ml-auto" />
             </SidebarMenuButton>
@@ -77,7 +78,7 @@ export function TeamSwitcher({
             </DropdownMenuLabel>
             {teams.subjects.map((team) => (
               <DropdownMenuItem
-                key={team.subject}
+                key={team.my}
                 onClick={() => {
                   router.replace(
                     `/courses/${gradePath}/${teams.name}/${team.url}/intro`
@@ -92,7 +93,7 @@ export function TeamSwitcher({
                   <span className="truncate font-semibold pb-1">
                     {activeGrade[0].my}
                   </span>
-                  <span className="truncate text-xs">{team.subject}</span>
+                  <span className="truncate text-xs">{team.my}</span>
                 </div>
               </DropdownMenuItem>
             ))}
