@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
-    <div className="min-h-screen">
+    <div>
       <Button>Hello World!</Button>
     </div>
   );
