@@ -3,7 +3,6 @@ import * as React from "react";
 import { MenuIcon, MoonIcon, SunIcon } from "lucide-react";
 import { useTheme } from "next-themes";
 import Link from "next/link";
-import { createClient } from "@/utils/supabase/client";
 import {
   Sheet,
   SheetTrigger,
