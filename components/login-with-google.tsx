@@ -10,6 +10,10 @@ export default function LoninWithGoogle() {
         redirectTo: `${window.location.origin}/auth/callback`,
       },
     });
+    if (data) {
+    }
+    if (error) {
+    }
   };
 
   return <Button onClick={handleGoogleLogin}>Login with Google</Button>;
