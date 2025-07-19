@@ -15,7 +15,7 @@ export default function Page() {
     <table className="table-auto table border-2 w-full text-sm md:text-base">
       <TableHeader>
         <TableRow>
-          <TableHead>သတင်းပတ်</TableHead>
+          <TableHead>သီတင်းပတ်</TableHead>
           <TableHead>အချိန်</TableHead>
           <TableHead>အခန်းခေါင်းစဉ်</TableHead>
           <TableHead>သင်ခန်းစာခေါင်းစဉ်</TableHead>

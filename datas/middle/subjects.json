@@ -35,6 +35,11 @@
             "url": "physical",
             "en": "Physical",
             "my": "ကာယပညာ"
+        },
+        {
+            "url": "art",
+            "en": "Art",
+            "my": "အနုပညာ(ပန်းချီ)"
         }
     ]
 }

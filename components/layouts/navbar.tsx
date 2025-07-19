@@ -3,7 +3,8 @@ import * as React from "react";
 import { MenuIcon, MoonIcon, SunIcon } from "lucide-react";
 import { useTheme } from "next-themes";
 import Link from "next/link";
-
+import AccountForm from "../../components/account-form";
+import { createClient } from "@/utils/supabase/client";
 import {
   Sheet,
   SheetTrigger,
@@ -13,6 +14,7 @@ import {
   SheetHeader,
 } from "@/components/ui/sheet";
 import { Button } from "@/components/ui/button";
+import LoginWithGoogle from "../login-with-google";
 
 const navItems = [
   { id: 1, path: "/", title: "Home" },
@@ -24,6 +26,15 @@ const navItems = [
 const SIDEBAR_WIDTH_MOBILE = "18rem";
 
 export default function Navbar() {
+  const handleGoogleLogin = async () => {
+    const supabase = createClient();
+    const { data, error } = await supabase.auth.signInWithOAuth({
+      provider: "google",
+      options: {
+        redirectTo: `${window.location.origin}/auth/callback`,
+      },
+    });
+  };
   return (
     <nav className="bg-white dark:bg-zinc-950 sticky w-full top-0 start-0 border-b border-gray-200 dark:border-gray-600">
       <div className=" flex flex-wrap w-full items-center justify-between mx-auto py-4 px-5">
@@ -95,9 +106,10 @@ export default function Navbar() {
           </ul>
         </div>
         <div className="flex  space-x-3">
-          <Button>Sign In</Button>
-          <Button>Sign Up</Button>
+          {/* <Button>Sign In</Button>
+          <Button>Sign Up</Button> */}
           <ThemeMode />
+          <LoginWithGoogle />
         </div>
       </div>
     </nav>
