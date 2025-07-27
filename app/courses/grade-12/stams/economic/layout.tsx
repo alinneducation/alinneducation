@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import {stams} from "@/datas/high/subjects.json";
-import { data } from "@/components/courses/grade-12/economic/data";
+import { stams } from "@/datas/high/subjects.json";
+import { categories } from "@/datas/grade-12/economic/categories.json";
 
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
 
@@ -23,7 +23,7 @@ export default function Grade12Layout({
   return (
     <SidebarProvider>
       <AppSidebar
-        data={data}
+        data={categories}
         teams={stams}
         activeTeam={stams.subjects[5]}
       />
