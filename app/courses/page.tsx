@@ -1,9 +1,9 @@
 import Footer from "@/components/layouts/footer";
 import { GradeCard } from "@/components/layouts/subject-card";
 import Navbar from "@/components/layouts/navbar";
-import { primary } from "@/datas/primary/grades.json";
-import { middle } from "@/datas/middle/grades.json";
-import { high } from "@/datas/high/grades.json";
+import primary from "@/datas/primary/grades.json";
+import middle from "@/datas/middle/grades.json";
+import high from "@/datas/high/grades.json";
 
 export default function Courses() {
   return (
@@ -13,7 +13,7 @@ export default function Courses() {
         မူလတန်းဆင့်
       </h1>
       <div className="grid grid-cols-2 md:grid-cols-3 w-full gap-5 my-5">
-        {primary.map((grade) => (
+        {primary.primary.map((grade) => (
           <div key={grade.en} className="flex justify-center w-full">
             <GradeCard course={grade} />
           </div>
@@ -23,7 +23,7 @@ export default function Courses() {
         အလယ်တန်းဆင့်
       </h1>
       <div className="grid grid-cols-2 md:grid-cols-3 w-full gap-5 my-5">
-        {middle.map((grade) => (
+        {middle.middle.map((grade) => (
           <div key={grade.en} className="flex justify-center w-full">
             <GradeCard course={grade} />
           </div>
@@ -33,7 +33,7 @@ export default function Courses() {
         အထက်တန်းဆင့်
       </h1>
       <div className="grid grid-cols-2 md:grid-cols-3 w-full gap-5 my-5">
-        {high.map((grade) => (
+        {high.high.map((grade) => (
           <div key={grade.en} className="flex justify-center w-full">
             <GradeCard course={grade} />
           </div>
