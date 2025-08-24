@@ -31,7 +31,7 @@ const items = [
     lesson: "Lesson 3",
     title: "Greetings for special events",
   },
-  { url: "#lesson-4", lesson: "Lesson 4", title: "Let's send a postcard!" },
+  { url: "#lesson-4", lesson: "Lesson 4", title: "Let’s send a postcard!" },
 ];
 export default function Page() {
   return (

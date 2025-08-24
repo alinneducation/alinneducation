@@ -4,9 +4,6 @@ import question2 from "@/datas/grade-12/biology/pass-questions/2024/question2.js
 import question3 from "@/datas/grade-12/biology/pass-questions/2024/question3.json";
 import question4 from "@/datas/grade-12/biology/pass-questions/2024/question4.json";
 import question5 from "@/datas/grade-12/biology/pass-questions/2024/question5.json";
-import question6 from "@/datas/grade-12/english/pass-questions/2024/question6.json";
-import question7a from "@/datas/grade-12/english/pass-questions/2024/question7a.json";
-import question7b from "@/datas/grade-12/english/pass-questions/2024/question7b.json";
 import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "ဒွါဒသမတန်း အင်္ဂလိပ်စာ ၂၀၂၄ မေးခွန်း(၁)",

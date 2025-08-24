@@ -5,7 +5,6 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
-import { Button } from "@/components/ui/button";
 import Q24 from "@/datas/grade-12/english/pass-questions/2024/question1.json";
 import Q25 from "@/datas/grade-12/english/pass-questions/2025/question1.json";
 import { Metadata } from "next";

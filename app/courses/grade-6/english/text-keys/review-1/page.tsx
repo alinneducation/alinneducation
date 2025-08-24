@@ -23,7 +23,7 @@ const items = [
     lesson: "Lesson 3",
     title: "Greetings for special events",
   },
-  { url: "#lesson-4", lesson: "Lesson 4", title: "Let's send a postcard!" },
+  { url: "#lesson-4", lesson: "Lesson 4", title: "Let’s send a postcard!" },
 ];
 export default function Page() {
   return (
@@ -47,7 +47,7 @@ export default function Page() {
           <Exercise>Exercise 1</Exercise>
         </div>
         <div id="lesson-4" className="w-full min-h-screen">
-          <Lesson>Lesson 4 : Let's send a postcard!</Lesson>
+          <Lesson>Lesson 4 : Let’s send a postcard!</Lesson>
           <Skill>Writing</Skill>
           <Exercise>Exercise 1</Exercise>
         </div>
