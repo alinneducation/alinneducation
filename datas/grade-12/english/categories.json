@@ -15,24 +15,46 @@
         "url": "english/year-plan"
       },
       {
-        "title": "POEMS",
+        "title": "Poems Lessons",
         "url": "#",
         "items": [
           {
-            "title": "Poem 1: The Library",
+            "title": "The Library",
             "url": "/english/poems/the-library"
           },
           {
-            "title": "Poem 2: The Quiet Life",
+            "title": "The Quiet Life",
             "url": "/english/poems/the-quiet-life"
           },
           {
-            "title": "Poem 3: The Road Not Taken",
+            "title": "The Road Not Taken",
             "url": "/english/poems/the-road-not-taken"
           },
           {
-            "title": "Poem 4: Windy Nights",
+            "title": "Windy Nights",
             "url": "/english/poems/windy-nights"
+          }
+        ]
+      },
+      {
+        "title": "မေးခွန်းဟောင်းများ",
+        "url": "#",
+        "items": [
+          {
+            "title": "မေးခွန်းနံပါတ်(၁)",
+            "url": "/english/pass-questions/question-1"
+          },
+          {
+            "title": "မေးခွန်းနံပါတ်(၂)",
+            "url": "/english/pass-questions/question-2"
+          },
+          {
+            "title": "မေးခွန်းနံပါတ်(၃)",
+            "url": "/english/pass-questions/question-3"
+          },
+          {
+            "title": "မေးခွန်းနံပါတ်(၄)",
+            "url": "/english/pass-questions/question-4"
           }
         ]
       },

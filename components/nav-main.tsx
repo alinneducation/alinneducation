@@ -22,7 +22,6 @@ import { usePathname } from "next/navigation";
 
 export function NavMain({
   items,
-  gradeType,
 }: {
   items: {
     title: string;
@@ -32,7 +31,6 @@ export function NavMain({
       url: string;
     }[];
   }[];
-  gradeType: string;
 }) {
   const pathName = usePathname().split("/")[2];
   return (
@@ -44,7 +42,7 @@ export function NavMain({
             {item.items == null ? (
               <SidebarMenuButton>
                 <BookOpen className="invisible" />
-                <Link href={`/courses/${pathName}/${gradeType}/${item.url}`}>
+                <Link href={`/courses/${pathName}/${item.url}`}>
                   {item.title}
                 </Link>
               </SidebarMenuButton>
@@ -67,9 +65,7 @@ export function NavMain({
                       {item.items?.map((subItem) => (
                         <SidebarMenuSubItem key={subItem.title}>
                           <SidebarMenuSubButton asChild>
-                            <Link
-                              href={`/courses/${pathName}/${gradeType}/${subItem.url}`}
-                            >
+                            <Link href={`/courses/${pathName}/${subItem.url}`}>
                               <span>{subItem.title}</span>
                             </Link>
                           </SidebarMenuSubButton>

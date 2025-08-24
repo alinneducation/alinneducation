@@ -1,0 +1,109 @@
+{
+    "question-number": "5.",
+    "question-text": "Answer any FOUR question.",
+    "marks": "(40 marks)",
+    "set1": [
+        {
+            "question-item-number": "a.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "b.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "c.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "d.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "e.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "f.",
+            "question-item-text": ""
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "a.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "b.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "c.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "d.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "e.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "f.",
+            "question-item-text": ""
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "a.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "b.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "c.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "d.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "e.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "f.",
+            "question-item-text": ""
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "a.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "b.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "c.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "d.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "e.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "f.",
+            "question-item-text": ""
+        }
+    ]
+}

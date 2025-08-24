@@ -1,0 +1,553 @@
+{
+    "question-number": "3.",
+    "question-text": "Choose the correct answer from the following.",
+    "marks": "(15 marks)",
+    "set1": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "The unite of angular velocity is ----------.",
+            "options": [
+                "(A) metre per second",
+                "(B) radian per second",
+                "(C) radian per second squared"
+            ]
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": "Bernoulli's equation can be derived using the ---------- principle to a fluid flowing in a tube.",
+            "options": [
+                "(A) work energy",
+                "(B) kinetic energy",
+                "(C) potential energy"
+            ]
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": "Conversion of light energy into ---------- is based on phenomenon called photovoltaic effect.",
+            "options": [
+                "(A) heat energy",
+                "(B) chemical energy",
+                "(C) electrical energy"
+            ]
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": "In an ---------- process, the volume is constant so that work done is zero.",
+            "options": [
+                "(A) isobaric",
+                "(B) isochoric",
+                "(C) isothemal"
+            ]
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": "What material has the lowest speed of sound?",
+            "options": [
+                "(A) in solids",
+                "(B) in liquids",
+                "(C) in gases"
+            ]
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": "Which type of lenes are used in telescope?",
+            "options": [
+                "(A) convex",
+                "(B) mirror",
+                "(C) concave"
+            ]
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": "Wavefront is always ---------- to the direction of propagation (or) rays.",
+            "options": [
+                "(A) perpendicular",
+                "(B) opposite",
+                "(C) parallel"
+            ]
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": "Which one is non-polarized capacitors?",
+            "options": [
+                "(A) supercapacitors",
+                "(B) electrolytic capacitors",
+                "(C) film capacitors"
+            ]
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": "A ---------- is an electrical device that stores electrical energy in the form of an electric field.",
+            "options": [
+                "(A) resistor",
+                "(B) capacitor",
+                "(C) transistor"
+            ]
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": "When a battery is connected to an external circuit, the terminal voltage of a battery is ----------.",
+            "options": [
+                "(A) V = E",
+                "(B) V = E - Ir",
+                "(C) V = E + Ir"
+            ]
+        },
+        {
+            "question-item-number": "(xi)",
+            "question-item-text": "There are ---------- joule in one kilowatt hour (1 kWh).",
+            "options": [
+                "(A) 4.2",
+                "(B) 3.6 x 10<sup>6</sup>",
+                "(C) 1000"
+            ]
+        },
+        {
+            "question-item-number": "(xii)",
+            "question-item-text": "The voltage of ---------- goes alternately negative and positive, making the current flow backwords and forwards through the circuit.",
+            "options": [
+                "(A) live wire",
+                "(B) neutral wire",
+                "(C) earth wire"
+            ]
+        },
+        {
+            "question-item-number": "(xiii)",
+            "question-item-text": "Which electrical component is used to control the brightness of street lamps?",
+            "options": [
+                "(A) LED",
+                "(B) LDR",
+                "(C) thermistor"
+            ]
+        },
+        {
+            "question-item-number": "(xiv)",
+            "question-item-text": "---------- are massless and move ate the speed of light in vacuum.",
+            "options": [
+                "(A) Photons",
+                "(B) Neutrons",
+                "(C) Electrons"
+            ]
+        },
+        {
+            "question-item-number": "(xv)",
+            "question-item-text": "When an animal or a plant dies carbon cycle stops and the carbon-14 in the remain gradually ---------- by radioactive decay.",
+            "options": [
+                "(A) decreses",
+                "(B) increases",
+                "(C) constant"
+            ]
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "Centripetal force of ---------- is required to move a body of mass 2 kg with a speed of l m s<sup>-1</sup> in a uniform circular motion of radius 5 m.",
+            "options": [
+                "(A) 1.2 N",
+                "(B) 1.3 N",
+                "(C) 0.4 N"
+            ]
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": "The viscosity of liquids ---------- with an increase in temperatuure.",
+            "options": [
+                "(A) decreases",
+                "(B) increases",
+                "(C) remains constant"
+            ]
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": "Biomass is renewable ---------- material that comes from plants and animals.",
+            "options": [
+                "(A) metallic",
+                "(B) inorganic",
+                "(C) organic"
+            ]
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": "---------- is the ratio of the total emissive power of an object to that of the blackbody, at the same temperature and wavelength",
+            "options": [
+                "(A) Conductivity",
+                "(B) Emissivity",
+                "(C) Resistivity"
+            ]
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": "The intensity of a sound wave is directly proportional to the square of the ----------  of the wave.",
+            "options": [
+                "(A) frequency",
+                "(B) amplitude",
+                "(C) wavelength"
+            ]
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": "---------- is the defect of vision in which distant objects are seen clearly, but objects nearby are blurry.",
+            "options": [
+                "(A) Farsightedness",
+                "(B) Nearsightedness",
+                "(C) Blindness"
+            ]
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": "Monochromatic light has a single ----------.",
+            "options": [
+                "(A) wavelength",
+                "(B) amplitude",
+                "(C) intensity"
+            ]
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": "Insulating materials have the dielectric constant values of ----------.",
+            "options": [
+                "(A) one",
+                "(B) greater than one",
+                "(C) less than one"
+            ]
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": "The equivalent capacitance ---------- when the individual capacitors are connected in series.",
+            "options": [
+                "(A) increases",
+                "(B) decreases",
+                "(C) does not change"
+            ]
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": "The heating element of an electric iron is controlled by a ---------- that switches the current on and off to maintain the selected temperature.",
+            "options": [
+                "(A) capacitor",
+                "(B) thermostat",
+                "(C) resistor"
+            ]
+        },
+        {
+            "question-item-number": "(xi)",
+            "question-item-text": "---------- is the rate of transfer of electrical energy.",
+            "options": [
+                "(A) Electrical power",
+                "(B) Electrical energy",
+                "(C) Electromotive force"
+            ]
+        },
+        {
+            "question-item-number": "(xii)",
+            "question-item-text": "What is the SI unit of magnetic flux density?",
+            "options": [
+                "(A) weber",
+                "(B) tesla",
+                "(C) ampere per metre"
+            ]
+        },
+        {
+            "question-item-number": "(xiii)",
+            "question-item-text": "What is the output of XNOR gate is both inputs are the same?",
+            "options": [
+                "(A) 0",
+                "(B) 2",
+                "(C) 1"
+            ]
+        },
+        {
+            "question-item-number": "(xiv)",
+            "question-item-text": "Time dilation becomes apparent especially as the speed of the system approaches that of ----------.",
+            "options": [
+                "(A) light",
+                "(B) sound",
+                "(C) none of A and B"
+            ]
+        },
+        {
+            "question-item-number": "(xv)",
+            "question-item-text": "The statement “radium has a half-life of 1620 years” means that if we start with N<sub>0</sub> atoms of radium, ---------- will remain after 1620 years.",
+            "options": [
+                "(A) N<sub>0</sub>/2",
+                "(B) N<sub>0</sub>/4",
+                "(C) N<sub>0</sub>/8 atoms"
+            ]
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "Some of the examples of rotational motion are ----------.",
+            "options": [
+                "(A) motion of the fan blades",
+                "(B) The moon orbiting the earth",
+                "(C) motion of the earth around the sun"
+            ]
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": "One of the centripetal force is ----------.",
+            "options": [
+                "(A) nuclear force",
+                "(B) tension force",
+                "(C) deforming force"
+            ]
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": "Non-renewable energy resources include ----------.",
+            "options": [
+                "(A) coal",
+                "(B) wind",
+                "(C) solar"
+            ]
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": "In fluid, heat is mainly transferred by ----------",
+            "options": [
+                "(A) conduction",
+                "(B) convection",
+                "(C) radiation"
+            ]
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": "Reflection of sound obeys the laws of ----------.",
+            "options": [
+                "(A) reflection",
+                "(B) refraction",
+                "(C) emission"
+            ]
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": "A microscope uses lenses to make ---------- images of objects.",
+            "options": [
+                "(A) clear",
+                "(B) reduced",
+                "(C) enlarged"
+            ]
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": "Constructive interference has ---------- intensity.",
+            "options": [
+                "(A) minimum",
+                "(B) maximum",
+                "(C) normal"
+            ]
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": "Which capacitor is used as a tuning capacitor?",
+            "options": [
+                "(A) Electrolytic capacitor",
+                "(B) Ceramic capacitor",
+                "(C) Variable capacitor"
+            ]
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": "In an electric generator, ---------- energy is converted into electrical energy.",
+            "options": [
+                "(A) mechanical",
+                "(B) optical",
+                "(C) thermal"
+            ]
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": "The unit of electrical power <i>P</i> is ----------.",
+            "options": [
+                "(A) joule (J)",
+                "(B) watt (W)",
+                "(C) ampere (A)"
+            ]
+        },
+        {
+            "question-item-number": "(xi)",
+            "question-item-text": "---------- current is good in long distance distribution of electrical power.",
+            "options": [
+                "(A) AC",
+                "(B) DC",
+                "(C) unidirectional"
+            ]
+        },
+        {
+            "question-item-number": "(xii)",
+            "question-item-text": "Most generators give out ----------.",
+            "options": [
+                "(A) alternating current",
+                "(B) direct current",
+                "(C) both current"
+            ]
+        },
+        {
+            "question-item-number": "(xiii)",
+            "question-item-text": "---------- is used to control the brightness of the night lamp.",
+            "options": [
+                "(A) LED",
+                "(B) LDR",
+                "(C) LCD"
+            ]
+        },
+        {
+            "question-item-number": "(xiv)",
+            "question-item-text": "A photodiode converts ---------- into electrical current.",
+            "options": [
+                "(A) light",
+                "(B) resistance",
+                "(C) temperature"
+            ]
+        },
+        {
+            "question-item-number": "(xv)",
+            "question-item-text": "---------- rays cannot be deflected by electric and magnetic fields.",
+            "options": [
+                "(A) Gamma",
+                "(B) Beta",
+                "(C) Alpha"
+            ]
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "A ball attached to a srting is whirled around a vertical circle. At the bottom of the arc,",
+            "options": [
+                "(A) it has no net force.",
+                "(B) it has a net force acting upward.",
+                "(C) it has a net force acting downward."
+            ]
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": "Which of the following is the SI unit of surface rension?",
+            "options": [
+                "(A) newtion (N)",
+                "(B) joule (J)",
+                "(C) newton per metre (Nm<sup>-1</sup>)"
+            ]
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": "Which of the following energy sources is considered a renewable energy source?",
+            "options": [
+                "(A) Coal",
+                "(B) Natural gas",
+                "(C) Wind"
+            ]
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": "Which of the following fields is primarily concerned with the study of systems involving energy in the form of heat and work?",
+            "options": [
+                "(A) Themodynamics",
+                "(B) Optics",
+                "(C) Electrostatics"
+            ]
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": "What does audibility refer to?",
+            "options": [
+                "(A) The quality of being able to be heard",
+                "(B) The loudness of a sound",
+                "(C) The frequency of a sound wave"
+            ]
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": "Which part of the eye functions similarly to the aperture in a camera, controlling the amount of light that enters the eye?",
+            "options": [
+                "(A) Cornea",
+                "(B) Lens",
+                "(C) Iris"
+            ]
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": "What does monochromatic light refer to?",
+            "options": [
+                "(A) Light of various wavelengths",
+                "(B) Light of a single wavelength or colour",
+                "(C) Light with no polarization"
+            ]
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": "By what percentage does the capacitance change when the distance between the two parallel of a capacitor is doubled?",
+            "options": [
+                "(A) 25 %",
+                "(B) 50 %",
+                "(C) 75 %"
+            ]
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": "What does changing the charge on a capacitor primarily affect?",
+            "options": [
+                "(A) Capacitance",
+                "(B) Voltage",
+                "(C) Resistance"
+            ]
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": "Which of the following statements is correct regarding most sources of electromotive force (EMF)?",
+            "options": [
+                "(A) EMF sources have no internal resistance.",
+                "(B) EMF sources have internal resistance.",
+                "(C) EMF sources have no internal capacitance."
+            ]
+        },
+        {
+            "question-item-number": "(xi)",
+            "question-item-text": "In what year did Joseph Henry and Michel Faraday make their independent discoveries related to electric current and magnetic fields?",
+            "options": [
+                "(A) 1813",
+                "(B) 1831",
+                "(C) 1850"
+            ]
+        },
+        {
+            "question-item-number": "(xii)",
+            "question-item-text": "Why is AC preferred over DC for long-distance power distribution of electrical power?",
+            "options": [
+                "(A) Bigger inductors",
+                "(B) Lower energy losses",
+                "(C) Thinner conductors"
+            ]
+        },
+        {
+            "question-item-number": "(xiii)",
+            "question-item-text": "What is the main function of NOT gate in digital logic?",
+            "options": [
+                "(A) Performs the digital AND operation",
+                "(B) Inverts the input signal",
+                "(C) Executes addition"
+            ]
+        },
+        {
+            "question-item-number": "(xiv)",
+            "question-item-text": "What is emitted during beta decay?",
+            "options": [
+                "(A) Alpha particle",
+                "(B) Neutrino",
+                "(C) Beta particle"
+            ]
+        },
+        {
+            "question-item-number": "(xv)",
+            "question-item-text": "What defines nuclear fission?",
+            "options": [
+                "(A) Fusion of atomic nuclei",
+                "(B) Splitting of atomic nuclei into smaller parts",
+                "(C) Combining of photons and neutrons"
+            ]
+        }
+    ]
+}

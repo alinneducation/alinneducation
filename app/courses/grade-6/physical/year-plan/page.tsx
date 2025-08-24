@@ -4,7 +4,7 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "@/components/layouts/year-plan";
+} from "@/components/layouts/table";
 import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Grade 7 English လပိုင်းမာတိကာ",
@@ -15,7 +15,7 @@ export default function Page() {
     <table className="table-auto table border-2 w-full text-sm md:text-base">
       <TableHeader>
         <TableRow>
-          <TableHead>သီတင်းပတ်</TableHead>
+          <TableHead>သတင်းပတ်</TableHead>
           <TableHead>အချိန်</TableHead>
           <TableHead>အခန်းခေါင်းစဉ်</TableHead>
           <TableHead>သင်ခန်းစာခေါင်းစဉ်</TableHead>
@@ -25,9 +25,9 @@ export default function Page() {
         <TableRow>
           <TableData>၁</TableData>
           <TableData>၂</TableData>
-          <TableData rowSpan={7}>အခန်း(၁) ကိုယ်ခန္ဓာကြံ့ခိုင်ရေး</TableData>
+          <TableData rowSpan={7}>ကိုယ်ခန္ဓာကြံ့ခိုင်ရေး</TableData>
           <TableData rowSpan={4}>
-            ကိုယ်ခန္ဓာကျန်းမားရေးနှင့်ဆက်နွှယ်သော လေ့ကျင့်ခန်းများ
+            ကိုယ်ခန္ဓာကျန်းမာရေးနှင့် ဆက်နွှယ်သော လေ့ကျင့်ခန်းများ
           </TableData>
         </TableRow>
         <TableRow>
@@ -39,50 +39,50 @@ export default function Page() {
           <TableData>၂</TableData>
         </TableRow>
         <TableRow>
-          <TableData>၄</TableData>
-          <TableData>၂</TableData>
+          <TableData rowSpan={2}>၄</TableData>
+          <TableData>၁</TableData>
+        </TableRow>
+        {/* Unit 2 */}
+        <TableRow>
+          <TableData>၁</TableData>
+          <TableData rowSpan={3}>
+            အားကစားနည်းများအလိုက် ကျွမ်းကျင်မှုရရှိစေသည့် လေ့ကျင့်ခန်းများ
+          </TableData>
         </TableRow>
         <TableRow>
           <TableData>၅</TableData>
           <TableData>၂</TableData>
-          <TableData rowSpan={3}>
-            အားကစားနည်းများအလိုက် ကျွမ်းကျင်မှုရရှိစေသည့် လေ့ကျင့်ခန်းများ
-          </TableData>
         </TableRow>
         <TableRow>
           <TableData>၆</TableData>
           <TableData>၂</TableData>
         </TableRow>
         <TableRow>
-          <TableData rowSpan={2}>၇</TableData>
-          <TableData>၁</TableData>
-        </TableRow>
-        <TableRow>
-          <TableData>၁</TableData>
-          <TableData rowSpan={8}>အခန်း(၂) အားကစားနည်းများ</TableData>
-          <TableData rowSpan={2}>
-            ကာယလှုပ်ရှားမှုနှင့် အားကစားများ လုပ်ဆောင်ရာတွင်
-            အန္တာရာယ်ကင်းရှင်းရေး
+          <TableData>၇</TableData>
+          <TableData>၂</TableData>
+          <TableData rowSpan={8}>အားကစားနည်းများ</TableData>
+          <TableData>
+            ကာယလှုပ်ရှားမှုနှင့်အားကစားလုပ်ဆောင်ရာတွင် အန္တာရာယ်ကင်းရှင်းရေး
           </TableData>
         </TableRow>
         <TableRow>
           <TableData>၈</TableData>
           <TableData>၂</TableData>
+          <TableData>ကာယပညာသင်ကြားရေးစီမံခန့်ခွဲမှု</TableData>
         </TableRow>
         <TableRow>
           <TableData>၉</TableData>
           <TableData>၂</TableData>
-          <TableData>ကိုယ်ကျင့်တရားနှင့်စံများ</TableData>
+          <TableData>တစ်ဦးချင်းကစားနည်း</TableData>
         </TableRow>
         <TableRow>
           <TableData>၁၀</TableData>
           <TableData>၂</TableData>
-          <TableData>တစ်ဦးချင်းကစားနည်း</TableData>
+          <TableData rowSpan={5}>နှစ်ယောက်တွဲကစားနည်း</TableData>
         </TableRow>
         <TableRow>
           <TableData>၁၁</TableData>
           <TableData>၂</TableData>
-          <TableData rowSpan={2}>တစ်ဦးချင်းကစားနည်း</TableData>
         </TableRow>
         <TableRow>
           <TableData>၁၂</TableData>
@@ -91,7 +91,6 @@ export default function Page() {
         <TableRow>
           <TableData>၁၃</TableData>
           <TableData>၂</TableData>
-          <TableData rowSpan={2}>နှစ်ယောက်တွဲကစားနည်း</TableData>
         </TableRow>
         <TableRow>
           <TableData>၁၄</TableData>
@@ -99,23 +98,26 @@ export default function Page() {
         </TableRow>
         <TableRow>
           <TableData>၁၅</TableData>
-          <TableData colSpan={3}>
+          <TableData> </TableData>
+          <TableData colSpan={2}>
             စာမေးပွဲအတွက်ကြိုတင်ပြင်ဆင်ခြင်း- ပြန်လှန်သင်ကြားခြင်း
           </TableData>
         </TableRow>
         <TableRow>
           <TableData>၁၆</TableData>
-          <TableData colSpan={3}>ပထမအစမ်းစာမေးပွဲ (First Exam)</TableData>
+          <TableData> </TableData>
+          <TableData colSpan={2}>ပထမနှစ်ဝက်ဆုံးစာမေးပွဲ</TableData>
         </TableRow>
+
         <TableRow>
           <TableData>၁၇</TableData>
-          <TableData colSpan={3}>ကျောင်းပိတ်ရက်</TableData>
+          <TableData>၂</TableData>
+          <TableData rowSpan={10}> </TableData>
+          <TableData rowSpan={10}>အုပ်စုလိုက်ကစားနည်း</TableData>
         </TableRow>
         <TableRow>
           <TableData>၁၈</TableData>
           <TableData>၂</TableData>
-          <TableData rowSpan={10}> </TableData>
-          <TableData rowSpan={2}>အုပ်စုလိုက်ကစားနည်း</TableData>
         </TableRow>
         <TableRow>
           <TableData>၁၉</TableData>
@@ -124,7 +126,6 @@ export default function Page() {
         <TableRow>
           <TableData>၂၀</TableData>
           <TableData>၂</TableData>
-          <TableData rowSpan={2}>အုပ်စုလိုက်ကစားနည်း</TableData>
         </TableRow>
         <TableRow>
           <TableData>၂၁</TableData>
@@ -133,12 +134,10 @@ export default function Page() {
         <TableRow>
           <TableData>၂၂</TableData>
           <TableData>၂</TableData>
-          <TableData>အုပ်စုလိုက်ကစားနည်း</TableData>
         </TableRow>
         <TableRow>
           <TableData>၂၃</TableData>
           <TableData>၂</TableData>
-          <TableData rowSpan={2}>အုပ်စုလိုက်ကစားနည်း</TableData>
         </TableRow>
         <TableRow>
           <TableData>၂၄</TableData>
@@ -147,7 +146,6 @@ export default function Page() {
         <TableRow>
           <TableData>၂၅</TableData>
           <TableData>၂</TableData>
-          <TableData rowSpan={2}>အုပ်စုလိုက်ကစားနည်း</TableData>
         </TableRow>
         <TableRow>
           <TableData>၂၆</TableData>
@@ -155,58 +153,60 @@ export default function Page() {
         </TableRow>
         <TableRow>
           <TableData>၂၇</TableData>
-          <TableData>၂</TableData>
-          <TableData>အုပ်စုလိုက်ကစားနည်း</TableData>
-        </TableRow>
-        <TableRow>
-          <TableData>၂၈</TableData>
-          <TableData colSpan={3}>
-            စာမေးပွဲအတွက်ကြိုတင်ပြင်ဆင်ခြင်း - ပြန်လှန်သင်ကြားခြင်း
-          </TableData>
-        </TableRow>
-        <TableRow>
-          <TableData>၂၉</TableData>
-          <TableData> </TableData>
-          <TableData colSpan={2}>ဒုတိယအစမ်းစာမေးပွဲ (Sexond Ecam)</TableData>
-        </TableRow>
-        <TableRow>
-          <TableData>၃၀</TableData>
-          <TableData>၂</TableData>
-          <TableData rowSpan={5}>
-            အားကစားနှင့် ဆက်နွှယ်သော ကျန်းမားရေးအသိပညာများ
-          </TableData>
-          <TableData>ကျန်းမာရေးနှင့်အာဟာရ</TableData>
-        </TableRow>
-        <TableRow>
-          <TableData>၃၁</TableData>
-          <TableData>၂</TableData>
-          <TableData rowSpan={2}>
-            ကျန်းမာရေးနှင့်ဆက်နွှယ်သော အပန်းဖြေကစားနည်းများ
-          </TableData>
-        </TableRow>
-        <TableRow>
-          <TableData>၃၂</TableData>
-          <TableData>၂</TableData>
-        </TableRow>
-        <TableRow>
-          <TableData>၃၃</TableData>
-          <TableData>၂</TableData>
-          <TableData rowSpan={2}>ကိုယ်ကာယကြံ့ခိုင်မှုလုပ်ငန်းအစီအစဉ်</TableData>
-        </TableRow>
-        <TableRow>
-          <TableData>၃၄</TableData>
-          <TableData>၂</TableData>
-        </TableRow>
-        <TableRow>
-          <TableData>၃၅</TableData>
           <TableData> </TableData>
           <TableData colSpan={2}>
             စာမေးပွဲအတွက်ကြိုတင်ပြင်ဆင်ခြင်း - ပြန်လှန်သင်ကြားခြင်း
           </TableData>
         </TableRow>
         <TableRow>
+          <TableData>၂၈</TableData>
+          <TableData> </TableData>
+          <TableData colSpan={2}>ဒုတိယနှစ်ဝက်ဆုံးစာမေးပွဲ</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData>၂၉</TableData>
+          <TableData>၂</TableData>
+          <TableData rowSpan={5}>
+            အားကစားနှင့်ဆက်နွှယ်သော ကျန်းမားရေး အသိပညာများ
+          </TableData>
+          <TableData>ကျန်းမာရေးနှင့်အာဟာရ</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData>၃၀</TableData>
+          <TableData>၂</TableData>
+          <TableData rowSpan={2}>
+            ကျန်းမာရေးနှင့်ဆက်နွှယ်သော အပန်းဖြေကစားနည်းများ
+          </TableData>
+        </TableRow>
+        <TableRow>
+          <TableData>၃၁</TableData>
+          <TableData>၂</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData>၃၂</TableData>
+          <TableData>၂</TableData>
+          <TableData rowSpan={2}>ကိုယ်ကာယကြံ့ခိုင်မှုအစီအစဉ်</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData>၃၃</TableData>
+          <TableData>၂</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData>၃၄</TableData>
+          <TableData> </TableData>
+          <TableData colSpan={2}>
+            စာမေးပွဲအတွက်ကြိုတင်ပြင်ဆင်ခြင်း - ပြန်လှန်သင်ကြားခြင်း
+          </TableData>
+        </TableRow>
+        <TableRow>
+          <TableData>၃၅</TableData>
+          <TableData> </TableData>
+          <TableData colSpan={2}>နှစ်ဆုံးစာမေးပွဲ</TableData>
+        </TableRow>
+        <TableRow>
           <TableData>၃၆</TableData>
-          <TableData colSpan={3}>နှစ်ဆုံးစာမေးပွဲ (Year End Exam)</TableData>
+          <TableData>၅၈</TableData>
+          <TableData colSpan={2}>စာသင်ချိန်စုစုပေါင်း</TableData>
         </TableRow>
       </TableBody>
     </table>

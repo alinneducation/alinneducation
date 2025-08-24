@@ -8,95 +8,111 @@
     "navMain": [
       {
         "title": "မိတ်ဆက်သင်ခန်းစာ",
-        "url": "englsih/intro"
+        "url": "english/intro"
       },
       {
         "title": "လပိုင်းမာတိကာ",
         "url": "/english/year-plan"
       },
       {
-        "title": "လေ့ကျင့်ခန်းနှင့်အဖြေများ",
+        "title": "ဖတ်စာအုပ် အဖြေများ",
         "url": "#",
         "items": [
           {
-            "title": "Genesis",
-            "url": "#"
+            "title": "Unit 1",
+            "url": "/english/text-keys/unit-1"
           },
           {
-            "title": "Explorer",
-            "url": "#"
+            "title": "Unit 2",
+            "url": "/english/text-keys/unit-2"
           },
           {
-            "title": "Quantum",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "title": "၂၀၂၄ မေးခွန်းဟောင်းများ",
-        "url": "#",
-        "items": [
-          {
-            "title": "မေးခွန်းဟောင်းများ (၁)",
-            "url": "#"
+            "title": "Unit 3",
+            "url": "/english/text-keys/unit-3"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၂)",
-            "url": "#"
+            "title": "Review 1",
+            "url": "/english/text-keys/review-1"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၃)",
-            "url": "#"
+            "title": "Project 1",
+            "url": "/english/text-keys/project-1"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၄)",
-            "url": "#"
+            "title": "Poem 1 : The Owl",
+            "url": "/english/text-keys/poem-1"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၅)",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "title": "၂၀၂၅ မေးခွန်းဟောင်းများ",
-        "url": "#",
-        "items": [
-          {
-            "title": "မေးခွန်းဟောင်းများ (၁)",
-            "url": "#"
+            "title": "Unit 4",
+            "url": "/english/text-keys/unit-4"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၂)",
-            "url": "#"
+            "title": "Unit 5",
+            "url": "/english/text-keys/unit-5"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၃)",
-            "url": "#"
+            "title": "Unit 6",
+            "url": "/english/text-keys/unit-6"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၄)",
-            "url": "#"
+            "title": "Review 2",
+            "url": "/english/text-keys/review-2"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၅)",
-            "url": "#"
+            "title": "Project 2",
+            "url": "/english/text-keys/project-2"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၆)",
-            "url": "#"
+            "title": "Poem 2 : Early to bed and Early to rise",
+            "url": "/english/text-keys/poem-2"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၇)",
-            "url": "#"
+            "title": "Unit 7",
+            "url": "/english/text-keys/unit-7"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၈)",
-            "url": "#"
+            "title": "Unit 8",
+            "url": "/english/text-keys/unit-8"
           },
           {
-            "title": "မေးခွန်းဟောင်းများ (၉)",
-            "url": "#"
+            "title": "Unit 9",
+            "url": "/english/text-keys/unit-9"
+          },
+          {
+            "title": "Review 3",
+            "url": "/english/text-keys/review-3"
+          },
+          {
+            "title": "Project 3",
+            "url": "/english/text-keys/project-3"
+          },
+          {
+            "title": "Poem 3 : The rainbow",
+            "url": "/english/text-keys/poem-3"
+          },
+          {
+            "title": "Unit 10",
+            "url": "/english/text-keys/unit-10"
+          },
+          {
+            "title": "Unit 11",
+            "url": "/english/text-keys/unit-11"
+          },
+          {
+            "title": "Unit 12",
+            "url": "/english/text-keys/unit-12"
+          },
+          {
+            "title": "Review 4",
+            "url": "/english/text-keys/review-4"
+          },
+          {
+            "title": "Project 4",
+            "url": "/english/text-keys/project-4"
+          },
+          {
+            "title": "Poem 4 : The butterfly",
+            "url": "/english/text-keys/poem-4"
           }
         ]
       }

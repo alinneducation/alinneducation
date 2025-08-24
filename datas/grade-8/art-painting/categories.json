@@ -1,0 +1,19 @@
+{
+  "categories": {
+    "user": {
+      "name": "shadcn",
+      "email": "m@example.com",
+      "avatar": "/avatars/shadcn.jpg"
+    },
+    "navMain": [
+      {
+        "title": "မိတ်ဆက်သင်ခန်းစာ",
+        "url": "art-painting/intro"
+      },
+      {
+        "title": "လပိုင်းမာတိကာ",
+        "url": "/art-painting/year-plan"
+      }
+    ]
+  }
+}

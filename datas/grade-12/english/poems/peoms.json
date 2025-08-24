@@ -1,5 +1,5 @@
 {
-    "poem1": {
+    "thelibrary": {
         "title": "THE LIBRARY",
         "contents": [
             {
@@ -88,7 +88,7 @@
             }
         ]
     },
-    "poem2": {
+    "thequietlife": {
         "title": "THE QUIET LIFE",
         "contents": [
             {
@@ -163,7 +163,7 @@
             }
         ]
     },
-    "poem3": {
+    "theroadnottaken": {
         "title": "THE ROAD NOT TAKEN",
         "contents": [
             {
@@ -228,7 +228,7 @@
             }
         ]
     },
-    "poem4": {
+    "windynights": {
         "title": "WINDY NIGHTS",
         "contents": [
             {

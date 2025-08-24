@@ -1,0 +1,550 @@
+import {
+  TableBody,
+  TableData,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "@/components/layouts/table";
+import { Metadata } from "next";
+export const metadata: Metadata = {
+  title: "Grade 7 English လပိုင်းမာတိကာ",
+  description: "Created by Alinn Education",
+};
+export default function YearPlan() {
+  return (
+    <table className="table-auto table border-2 w-full text-sm md:text-base">
+      <TableHeader>
+        <TableRow>
+          <TableHead>Unit</TableHead>
+          <TableHead>Topic</TableHead>
+          <TableHead>Component</TableHead>
+          <TableHead>Period</TableHead>
+          <TableHead>Period per Unit</TableHead>
+        </TableRow>
+      </TableHeader>
+      <TableBody>
+        {/* Unit 1 */}
+        <TableRow>
+          <TableData rowSpan={5}>1</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            GOOD MANNERS
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Unit 2 */}
+        <TableRow>
+          <TableData rowSpan={5}>2</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            KEY TO HAPPINESS
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Unit 3 */}
+        <TableRow>
+          <TableData rowSpan={5}>3</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            DIET AND NUTRITION
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Review 1 and Poem 1 */}
+        <TableRow>
+          <TableData className="border-r-0"> </TableData>
+          <TableData colSpan={2} align="left" className="border-l-0">
+            REVIEW 1
+          </TableData>
+          <TableData>2</TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData className="border-r-0"> </TableData>
+          <TableData colSpan={2} align="left" className="border-l-0">
+            POEM 1: THE LIBRARY
+          </TableData>
+          <TableData>2</TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Unit 4 */}
+        <TableRow>
+          <TableData rowSpan={5}>4</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            EMOTIONAL WELL-BEING
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Unit 5 */}
+        <TableRow>
+          <TableData rowSpan={5}>5</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            COLOURS
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Unit 6 */}
+        <TableRow>
+          <TableData rowSpan={5}>6</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            ARTIFICIAL INTELLIGENCE
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Review 2 and Poem 2 */}
+        <TableRow>
+          <TableData className="border-r-0"> </TableData>
+          <TableData colSpan={2} align="left" className="border-l-0">
+            REVIEW 2
+          </TableData>
+          <TableData>2</TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData className="border-r-0"> </TableData>
+          <TableData colSpan={2} align="left" className="border-l-0">
+            POEM 2: THE QUIET LIFE
+          </TableData>
+          <TableData>2</TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Unit 7 */}
+        <TableRow>
+          <TableData rowSpan={5}>7</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            POLLUTION:A HAZARD TO OUR ENVIRONMENT
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Unit 8 */}
+        <TableRow>
+          <TableData rowSpan={5}>8</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            RENEWABLE ENERGY
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Unit 9 */}
+        <TableRow>
+          <TableData rowSpan={5}>9</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            HELEN KELLER
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Review 3 and Poem 3 */}
+        <TableRow>
+          <TableData className="border-r-0"> </TableData>
+          <TableData colSpan={2} align="left" className="border-l-0">
+            REVIEW 3
+          </TableData>
+          <TableData>2</TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData className="border-r-0"> </TableData>
+          <TableData colSpan={2} align="left" className="border-l-0">
+            POEM 3: THE ROAD NOT TAKEN
+          </TableData>
+          <TableData>2</TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Unit 10 */}
+        <TableRow>
+          <TableData rowSpan={5}>10</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            WHY IMPROVE COMMUNICATION SKILLS?
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Unit 11 */}
+        <TableRow>
+          <TableData rowSpan={5}>11</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            A DAY’S WAIT
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Unit 12 */}
+        <TableRow>
+          <TableData rowSpan={5}>12</TableData>
+          <TableData rowSpan={5} align="left" className="pl-1">
+            INTERCULTURAL COMMUNICATION
+          </TableData>
+          <TableData align="left" className="pl-1">
+            Reading
+          </TableData>
+          <TableData>4</TableData>
+          <TableData rowSpan={5}>12</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Vocabulary
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Grammer
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Learning and Speaking
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData align="left" className="pl-1">
+            Wirting
+          </TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        {/* Review 4 and Poem 4 */}
+        <TableRow>
+          <TableData className="border-r-0"> </TableData>
+          <TableData colSpan={2} align="left" className="border-l-0">
+            REVIEW 4
+          </TableData>
+          <TableData>2</TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData className="border-r-0"> </TableData>
+          <TableData colSpan={2} align="left" className="border-l-0">
+            POEM 4: WINDY NIGHTS
+          </TableData>
+          <TableData>2</TableData>
+          <TableData>2</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData colSpan={2} align="left">
+            Total (teaching periods)
+          </TableData>
+          <TableData> </TableData>
+          <TableData>160</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData colSpan={2} align="left">
+            Reserve (revision and exam)
+          </TableData>
+          <TableData> </TableData>
+          <TableData>20</TableData>
+        </TableRow>
+        <TableRow>
+          <TableData colSpan={2} className="font-bold" align="left">
+            Total
+          </TableData>
+          <TableData> </TableData>
+          <TableData className="font-bold">180</TableData>
+        </TableRow>
+      </TableBody>
+    </table>
+  );
+}

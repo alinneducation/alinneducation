@@ -1,0 +1,494 @@
+{
+    "question-number": "VII.(A)",
+    "question-text": "Complete the dialogue with the expressions given in the box. There is an extra.",
+    "marks": "(5 marks)",
+    "set1": {
+        "expressions": [
+            "Absolutely yes.",
+            "Really? I see.",
+            "On top of that,",
+            "That’s fascinating.",
+            "Thanks for having me.",
+            "Would you like anything to drink?"
+        ],
+        "questions": [
+            {
+                "question-item-text": [
+                    "Host",
+                    "We are delighted to welcome a colour psychologist Dr. Thiri."
+                ]
+            },
+            {
+                "question-item-text": [
+                    "Dr. Thiri",
+                    "Good to see you (1)----------"
+                ]
+            },
+            {
+                "question-item-text": [
+                    "Host",
+                    "What does it say if you wear red or if you have red in your home?"
+                ]
+            },
+            {
+                "question-item-text": [
+                    "Dr. Thiri",
+                    "Red is the colour of passion. It is also an appetite stimulant, so if you use a red plate while eating, it will make you want to eat more."
+                ]
+            },
+            {
+                "question-item-text": [
+                    "Host",
+                    "(2)---------- This must be a reason why a lot of fast-food restaurants use red."
+                ]
+            },
+            {
+                "question-item-text": [
+                    "Dr.Thiri",
+                    "(3)---------- It stimulates your digestion."
+                ]
+            },
+            {
+                "question-item-text": [
+                    "Host",
+                    "Should we change the story with blue?"
+                ]
+            },
+            {
+                "question-item-text": [
+                    "Dr.Thiri",
+                    "Yes, blue is the colour of the sky and the ocean. (4)----------blue conveys strength and dependability. The colour can’t dictate your behavior but it can help you."
+                ]
+            },
+            {
+                "question-item-text": [
+                    "Host",
+                    "(5)---------- Thank you for your informative talk."
+                ]
+            }
+        ]
+    },
+    "set2": {
+        "expressions": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "questions": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    "set3": {
+        "expressions": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "questions": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    "set4": {
+        "expressions": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "questions": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    "set5": {
+        "expressions": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "questions": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    "set6": {
+        "expressions": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "questions": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    "set7": {
+        "expressions": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "questions": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    "set8": {
+        "expressions": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "questions": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    "set9": {
+        "expressions": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "questions": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    "set10": {
+        "expressions": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "questions": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    }
+}

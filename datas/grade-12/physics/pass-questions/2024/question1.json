@@ -1,0 +1,173 @@
+{
+    "question-number": "1.",
+    "question-text": "Are the following qstatements True (or) False?",
+    "marks": "(10 marks)",
+    "set1": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "The two acceleration vectors a&#x20D7<sub>c</sub> and a&#x20D7<sub>r</sub> are perpendicular to each other."
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": "The normal force F<small><small>N</small></small> exerted by a banked road is parallel to the road."
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": "Wind energy is the kinetic energy of air in motion."
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": "Convection occurs only in a liquid or a gas, never in a solid."
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": "An echo is repetition of sound due to the reflection of sound."
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": "For a vacuum, <i>k</i> = 1 and for other insulating materials <i>K</i> > 1"
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": "A source of electromotive force has an external resistance."
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": "A transformer is used to change the voltage of an alternating current."
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": "The commonly used invisible light for LED is white light."
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": "An inertial frame is a frame of reference that has no acceleration."
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "The tangential acceleration is present in nonuniform circular motion."
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": "When a skater forms a circle, he has to lean outwords."
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": "Fossil fuels are renewable sources of energy."
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": "Heat radiation does not require  material medium."
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": "The intensity of an echo is less than that of the original sound."
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": "Variable capacitor is used as tuning capacitor."
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": "The practical unit of electrical energy is the joule."
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": "A transformer is used to change the voltage of an alternating current."
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": "LCDs consume much more power than LEDs and gas-plasma displays."
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": "Gamma rays can be deflected by electric and magnetic fields."
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "In the uniform circular motion, the magnitude of the velocity remains"
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": ""
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "The centripetal force is the force acting towards the centre of curvature."
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": "The oil used in the motor car's brake system is compressible."
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": "Solar energy is indeed classified as a type of non-renewable energy."
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": "Heat conduction represents a form of energy transfer."
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": "Sound travels at different speeds depending on the medium through which it passes."
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": "When one side of a capacitor holds a positive charge, the other side holds an equal negative charge."
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": "Electromotive force is measured in volts."
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": "In Myanmar, the prevalent AC line frequency is 50 Hz, while the standard voltage utilized for residential and commercial applications falls within the voltage of 220 V to 230 V."
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": "One advantage of LEDs is their common use with low voltage and high current."
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": "The term “radioactivity” is used to describe the rate at which a radioactive sapmle undergoes decay."
+        }
+    ]
+}

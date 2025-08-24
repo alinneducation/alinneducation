@@ -18,7 +18,7 @@ import {
   SidebarMenuItem,
   useSidebar,
 } from "@/components/ui/sidebar";
-import { usePathname, useRouter } from "next/navigation";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
 
 type Subjects = {
   url: string;
@@ -39,7 +39,6 @@ export function TeamSwitcher({
   const { isMobile } = useSidebar();
 
   const pathName = usePathname();
-
   const gradePath = pathName.split("/")[2];
   const activeGrade = grades.filter((grade) => {
     const toLowerGrade = grade.en.split(" ").join("-").toLowerCase();
@@ -80,9 +79,7 @@ export function TeamSwitcher({
               <DropdownMenuItem
                 key={team.my}
                 onClick={() => {
-                  router.replace(
-                    `/courses/${gradePath}/${teams.name}/${team.url}/intro`
-                  );
+                  router.replace(`/courses/${gradePath}/${team.url}/intro`);
                 }}
                 className="gap-2 p-2"
               >

@@ -1,5 +1,6 @@
 import { createClient } from "@/utils/supabase/client";
 import { Button } from "./ui/button";
+import { FcGoogle } from "react-icons/fc";
 
 export default function LoninWithGoogle() {
   const handleGoogleLogin = async () => {
@@ -19,5 +20,12 @@ export default function LoninWithGoogle() {
     }
   };
 
-  return <Button onClick={handleGoogleLogin}>Login with Google</Button>;
+  return (
+    <Button
+      onClick={handleGoogleLogin}
+      className="flex font-semibold cursor-pointer"
+    >
+      <FcGoogle /> အကောင့်ဝင်မည်
+    </Button>
+  );
 }

@@ -62,7 +62,7 @@ export function AppSidebar({
         <TeamSwitcher teams={teams} activeTeam={activeTeam} />
       </SidebarHeader>
       <SidebarContent>
-        <NavMain items={data.navMain} gradeType={teams.name} />
+        <NavMain items={data.navMain} />
       </SidebarContent>
       <SidebarFooter className="flex flex-row">
         <NavUser user={data.user} />

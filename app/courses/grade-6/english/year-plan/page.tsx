@@ -4,7 +4,7 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "@/components/layouts/year-plan";
+} from "@/components/layouts/table";
 import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Grade 7 English လပိုင်းမာတိကာ",
@@ -57,7 +57,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 4</TableData>
           <TableData align="left" className="pl-5">
-            Let&lsquos send a postcard
+            Let’s send a postcard
           </TableData>
           <TableData>3</TableData>
         </TableRow>
@@ -66,7 +66,7 @@ export default function Page() {
           <TableData rowSpan={4}>Unit 2</TableData>
           <TableData>Lesson 1</TableData>
           <TableData align="left" className="pl-5">
-            Tell me about families
+            Tell me about you!
           </TableData>
           <TableData>4</TableData>
           <TableData rowSpan={4}>14</TableData>

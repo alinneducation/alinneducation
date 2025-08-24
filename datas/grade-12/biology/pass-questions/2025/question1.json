@@ -1,0 +1,425 @@
+{
+    "question-number": "1.",
+    "question-text": "State TRUE or FALSE to the following statements. Do not copy the statements.",
+    "marks": "(10 marks)",
+    "set1": [
+        {
+            "question-item-number": "i.",
+            "question-item-text": "Wool as well as cotton has also been traditionally used for cloth diapers."
+        },
+        {
+            "question-item-number": "ii.",
+            "question-item-text": "The major portion of the timber is used for structural purpose."
+        },
+        {
+            "question-item-number": "iii.",
+            "question-item-text": "The two strands of a DNA molecule are parallel."
+        },
+        {
+            "question-item-number": "iv.",
+            "question-item-text": "DNA polymerase replicates the two original strands differently."
+        },
+        {
+            "question-item-number": "v.",
+            "question-item-text": "In hot conditions, photosynthesis plays an important role in cooling the leaves."
+        },
+        {
+            "question-item-number": "vi.",
+            "question-item-text": "Pathogens can get into the body through an open wound."
+        },
+        {
+            "question-item-number": "vii.",
+            "question-item-text": "A plant disease is usually defined as normal growth."
+        },
+        {
+            "question-item-number": "viii.",
+            "question-item-text": "Plasmodium multiplies only in single host."
+        },
+        {
+            "question-item-number": "ix.",
+            "question-item-text": "Auxins are strong organic acids produced naturally by plants."
+        },
+        {
+            "question-item-number": "x.",
+            "question-item-text": "A marine park is a permanent marine reservation for the conservation of species."
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "i.",
+            "question-item-text": "Olericulture is the production of grapes."
+        },
+        {
+            "question-item-number": "ii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "iii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "iv.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "v.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vi.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "viii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "ix.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "x.",
+            "question-item-text": ""
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "i.",
+            "question-item-text": "All organisms require energy for their life."
+        },
+        {
+            "question-item-number": "ii.",
+            "question-item-text": "Silkworn has two stages in its life cycle."
+        },
+        {
+            "question-item-number": "iii.",
+            "question-item-text": "Deoxyribonucleic acid is the master blueprint for life."
+        },
+        {
+            "question-item-number": "iv.",
+            "question-item-text": "In most plants, stomata close during the day and open at night."
+        },
+        {
+            "question-item-number": "v.",
+            "question-item-text": "Over 50% of the blood volume in the body is plasma."
+        },
+        {
+            "question-item-number": "vi.",
+            "question-item-text": "Biotic diseases are caused by non-living environmental conditions."
+        },
+        {
+            "question-item-number": "vii.",
+            "question-item-text": "Nematodes are multicellular animals."
+        },
+        {
+            "question-item-number": "viii.",
+            "question-item-text": "Soybean is short night plant."
+        },
+        {
+            "question-item-number": "ix.",
+            "question-item-text": "Coral reefs have a very high biodiversity."
+        },
+        {
+            "question-item-number": "x.",
+            "question-item-text": "Climate change is a growing threat to ecosystem."
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "i.",
+            "question-item-text": "Pomology or fruticulture is the production of flowers."
+        },
+        {
+            "question-item-number": "ii.",
+            "question-item-text": "Spider silk is referred to by many scientists as bio-steel."
+        },
+        {
+            "question-item-number": "iii.",
+            "question-item-text": "Each polynucleotide strand is made up of few nucleotide molecules."
+        },
+        {
+            "question-item-number": "iv.",
+            "question-item-text": "Plants have extensive root systems above the ground."
+        },
+        {
+            "question-item-number": "v.",
+            "question-item-text": "The erythrocytes transport oxygen from the lungs to all the cells."
+        },
+        {
+            "question-item-number": "vi.",
+            "question-item-text": "Bacteria are most active in warm and humid environments."
+        },
+        {
+            "question-item-number": "vii.",
+            "question-item-text": "Oxygen is supplied to the liver muscle by the coronary arteries."
+        },
+        {
+            "question-item-number": "viii.",
+            "question-item-text": "Meristematic phase occurs in the shoot apex and root apex"
+        },
+        {
+            "question-item-number": "ix.",
+            "question-item-text": "Dry forest occurs where rainfall is usually more than 400 mm a year."
+        },
+        {
+            "question-item-number": "x.",
+            "question-item-text": "Geochelone platynota is the critically endangered species."
+        }
+    ],
+    "set5": [
+        {
+            "question-item-number": "i.",
+            "question-item-text": "Plants take up nutrients from the soil."
+        },
+        {
+            "question-item-number": "ii.",
+            "question-item-text": "The wings of hummingbird cannot rotate at the shoulder."
+        },
+        {
+            "question-item-number": "iii.",
+            "question-item-text": "DNA polymerase III can initiate the synthesis of new DNA strand."
+        },
+        {
+            "question-item-number": "iv.",
+            "question-item-text": "Plants are also being engineered to produce medicinal products."
+        },
+        {
+            "question-item-number": "v.",
+            "question-item-text": "The phloem tissue is a simple tissue."
+        },
+        {
+            "question-item-number": "vi.",
+            "question-item-text": "Cardiac muscle cells are myogenic."
+        },
+        {
+            "question-item-number": "vii.",
+            "question-item-text": "Plasmodium can also pass across the placenta from mother to fetus."
+        },
+        {
+            "question-item-number": "viii.",
+            "question-item-text": "Disease may also promote yield and quality of harvested product."
+        },
+        {
+            "question-item-number": "ix.",
+            "question-item-text": "A stimulus is detected by a sensory receptor."
+        },
+        {
+            "question-item-number": "x.",
+            "question-item-text": "The destruction of the natural environment leads to habitat loss."
+        }
+    ],
+    "set6": [
+        {
+            "question-item-number": "i.",
+            "question-item-text": "Aquafarming is the farming of algae species including microalgae and seaweed."
+        },
+        {
+            "question-item-number": "ii.",
+            "question-item-text": "Golden rice contains a lot of beta-carotene which can be converted into vitamin B."
+        },
+        {
+            "question-item-number": "iii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "iv.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "v.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vi.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "viii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "ix.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "x.",
+            "question-item-text": ""
+        }
+    ],
+    "set7": [
+        {
+            "question-item-number": "i.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "ii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "iii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "iv.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "v.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vi.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "viii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "ix.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "x.",
+            "question-item-text": ""
+        }
+    ],
+    "set8": [
+        {
+            "question-item-number": "i.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "ii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "iii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "iv.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "v.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vi.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "viii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "ix.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "x.",
+            "question-item-text": ""
+        }
+    ],
+    "set9": [
+        {
+            "question-item-number": "i.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "ii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "iii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "iv.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "v.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vi.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "viii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "ix.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "x.",
+            "question-item-text": ""
+        }
+    ],
+    "set10": [
+        {
+            "question-item-number": "i.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "ii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "iii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "iv.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "v.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vi.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "vii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "viii.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "ix.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "x.",
+            "question-item-text": ""
+        }
+    ]
+}

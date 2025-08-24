@@ -1,0 +1,253 @@
+{
+    "question-number": "2.",
+    "question-text": "Fill in the blanks.",
+    "marks": "(15 marks)",
+    "set1": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "In uniform circular motion, the centripetal force and centripetal acceleration are ---------- direction."
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": "Cohesion and adhesion are two types of ---------- forces."
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": "Heat, light and ---------- are the most common forms of energy."
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": "A black object is a good absorber and a good radiator whose ---------- is close to one."
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": "The ---------- is the unit used for measuring sound intensity."
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": "Luminous flux (luminous power)"
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": "The angular position of a point of a periodic wave is known as the ----------."
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": "The capacitors are connected in ---------- each capacitor has the same charge."
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": "In the SI system, the unit of capacitance is ----------."
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": "Batteries and electric generators are called sources of ---------- force."
+        },
+        {
+            "question-item-number": "(xi)",
+            "question-item-text": "An electric light bulb is made of a glass bulb consisting a ---------- filament."
+        },
+        {
+            "question-item-number": "(xii)",
+            "question-item-text": "In any electrical appliance the ---------- wire is always connected to the metal case."
+        },
+        {
+            "question-item-number": "(xiii)",
+            "question-item-text": "A ---------- is a semiconductor device that converts light into electrical current."
+        },
+        {
+            "question-item-number": "(xiv)",
+            "question-item-text": "The basic operations in Boolean algebra are ----------, OR, and NOT."
+        },
+        {
+            "question-item-number": "(xv)",
+            "question-item-text": "---------- of food has potential to produce safe foods with long shelf life."
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "A ---------- body is a body that does not deform or change shape."
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": "---------- and adhesion are two types of intermolecular forces."
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": "Solar cells convert light energy into ---------- energy."
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": "Thermal equilibrium occurs when the systems are at the same ----------."
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": "The speed of sound is ---------- in solids than liquids and gases."
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": "Human eye is more sensitive to ---------- light compared to other colors."
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": "Wavefront is always perpendicular to the direction of ----------."
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": "The SI unit of capacitance is ----------."
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": "If a 1200 W electric ion is used for 50 min, the electricity meter reading increases by ---------- unit."
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": "When a current flows through the nichrome coil of an electric stove, it produces ---------- energy."
+        },
+        {
+            "question-item-number": "(xi)",
+            "question-item-text": "In the lighting circuit, the light bulbs are arranged in ---------- across the mains line."
+        },
+        {
+            "question-item-number": "(xii)",
+            "question-item-text": "The magnitude of induced emf in a wire loop is directly proportional to the rate of change of ---------- through that loop."
+        },
+        {
+            "question-item-number": "(xiii)",
+            "question-item-text": "The photodiode is a semiconductor device that converts ---------- into electrical current."
+        },
+        {
+            "question-item-number": "(xiv)",
+            "question-item-text": "---------- is the process of recovering audio signal from modulated wave."
+        },
+        {
+            "question-item-number": "(xv)",
+            "question-item-text": "An alpha particle consists of two protons and ---------- neutrons."
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(xi)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(xii)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(xiii)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(xiv)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(xv)",
+            "question-item-text": ""
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "---------- force in a circular motion is not a real force; it acts really away from the centre of the circle."
+        },
+        {
+            "question-item-number": "(ii)",
+            "question-item-text": "----------, air, steam, and foam are generally considered to be compressible."
+        },
+        {
+            "question-item-number": "(iii)",
+            "question-item-text": "The typical output of a solar cell is ---------- energy."
+        },
+        {
+            "question-item-number": "(iv)",
+            "question-item-text": "Heat convection is one of the primary ---------- of heat transfer."
+        },
+        {
+            "question-item-number": "(v)",
+            "question-item-text": "The SI unit of sound intensity is the ---------- per square metre."
+        },
+        {
+            "question-item-number": "(vi)",
+            "question-item-text": "An aperture is a circular opening through which the ---------- passes."
+        },
+        {
+            "question-item-number": "(vii)",
+            "question-item-text": "The angular position of a periodic wave is known as the ---------- angle."
+        },
+        {
+            "question-item-number": "(viii)",
+            "question-item-text": "---------- is required to control the current and facilitate gradual charging or discharging in a capacitor circuit."
+        },
+        {
+            "question-item-number": "(ix)",
+            "question-item-text": "In the series connection of the capacitors, each capacitor has the same ----------."
+        },
+        {
+            "question-item-number": "(x)",
+            "question-item-text": "Electrical energy is energy associated with the flow of charge through any part of ----------."
+        },
+        {
+            "question-item-number": "(xi)",
+            "question-item-text": "The potential difference is the amount of ---------- required to move a unit charge from one end to another end of a circuit element."
+        },
+        {
+            "question-item-number": "(xii)",
+            "question-item-text": "The current from the outlet of a phone charger is ---------- current."
+        },
+        {
+            "question-item-number": "(xiii)",
+            "question-item-text": "An ----------, one of the most widely used in optoelectronics, is a semiconductor light source that emits light when current flows through it."
+        },
+        {
+            "question-item-number": "(xiv)",
+            "question-item-text": "An ---------- gate is a digital logic gate that outputs a high (1) signal only when all its inputs are high(1)."
+        },
+        {
+            "question-item-number": "(xv)",
+            "question-item-text": "In gamma decay, the atomic number and mass number and mass number of the ---------- and daughter nuclei remain unchanged."
+        }
+    ]
+}

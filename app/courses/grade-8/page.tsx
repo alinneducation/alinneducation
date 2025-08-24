@@ -1,5 +1,22 @@
-import SubjectPage from "@/components/layouts/subject-page";
+import Footer from "@/components/layouts/footer";
+import Navbar from "@/components/layouts/navbar";
+import SubjectList from "@/components/layouts/subject-list";
 import { subjects } from "@/datas/middle/subjects.json";
 export default function Page() {
-  return <SubjectPage courses={subjects} />;
+  return (
+    <div className="flex flex-col max-w-full min-h-screen">
+      <header className="block sticky top-0 light z-50">
+        <Navbar />
+      </header>
+      <SubjectList
+        subjects={subjects}
+        grade={{ en: "Grade 8", my: "အဋ္ဌမတန်း" }}
+        type=""
+      />
+      ;
+      <footer className="w-full mt-auto">
+        <Footer />
+      </footer>
+    </div>
+  );
 }

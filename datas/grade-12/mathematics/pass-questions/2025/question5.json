@@ -1,0 +1,480 @@
+{
+    "question-number": "V.",
+    "question-text": "Read the passage.",
+    "question-a-number": "(A)",
+    "question-a-text": "Write the correct word or words to complete each sentence.",
+    "question-a-marks": "(5 marks)",
+    "question-b-number": "(B)",
+    "question-b-text": "Answer each question in one sentence.",
+    "question-b-marks": "(10 marks)",
+    "set1": {
+        "passage": "<p>Air pollution can be defined as ‘the introduction of harmful substances into the air’. It occurs due to human activities such as fuel burning, logging, farming, mining, manufacturing, and construction of roads and buildings. It can also be caused by natural events such as wildfires and volcanic eruptions. All these sources of air pollution result in a rise in the amount of greenhouse gases. This leads to an increase in global temperature, which brings about many environmental problems such as floods, acid rain and ozone depletion. </p> <p> With the rise in global temperature, the ice at the poles melts and sea levels rise, flooding many coastal regions and leading to loss of property and life. Acid rain is one of the consequences of air pollution. It occurs when smoke and fumes from traffic and factories mix with the water vapour in the atmosphere. When this mixture falls back to the ground, it harms not only humans and wildlife but also buildings. The ozone layer is part of the earth’s atmosphere that protects the earth from the harmful ultraviolet rays of the sun. Ozone depletion occurs when some greenhouse gases like CFCs are released into the atmosphere. Moreover, air pollutants can cause many severe health problems such as eye irritation, allergies, asthma and lung cancer.</p>",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": "Natural events, such as wildfires and volcanic eruptions, lead to an ---------- in greenhouse gases, which causes global temperatures to rise."
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": "As global temperatures increase, ---------- ice melts, causing sea levels to rise and flooding constal areas, which results in the loss of property and lives."
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": "Acid rain, another ---------- of air pollution, occurs when pollutants from traffic and factories mix with water vapour in the atmosphere."
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": "The ozone layer, which protects the Earth from harmful ultraviolet rays, is being ---------- by pollutants such as CFCs."
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": "Air pollution is ---------- by human activities such as fuel burning, logging, agriculture, mining, manufacturing, and the construction of roads and buildings."
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": "What causes acid rain, and what are its effects?"
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": "What health problems can be caused by air pollutants?"
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": "Name some human activities that contribute to air pollution."
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": "What environmental problems are caused by the increase in global temperature due to air pollution?"
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": "What causes ozone depletion?"
+            }
+        ]
+    },
+    "set2": {
+        "passage": "<p> The ill effects of light pollution are many. For instance, light that is too bright can damage our vision; so does insufficient light. A bright light has been found to cause sleep disorders such as sleep deprivation, which in turn causes stress, headaches and increasing anxiety. Bright artificial night light has been found to upset the food-hunting pattern of many nocturnal and crepuscular creatures.</p><p> To minimise the effects of environmental pollution, what should we do? What are the possible solutions to some environmental problems that come about as a result of pollution? We must reduce our use of fossil fuels and promote the use of friendly sources of energy, like the sun, wind and water. Although it is impossible to shut down factories, there should be stricter laws to prevent them from polluting the environment. Forests must be protected because trees take in carbon dioxide. Fewer fertilisers and pesticides should be used in agriculture. We should also try to produce less waste, and recycle lots of things that we throw away. And we should be judicious in using light during the night as well as day. If we do not do something to combat pollution: a hazard to our environment, we will all be losers - with dire consequences to face.</p>",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": "Light pollution can damage our vision, especially when it is too ---------- or ---------- of many nocturnal and crepuscular creatures."
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": "Bright artificial night light can disrupt the ---------- of many nocturnal and crepuscular creatures."
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": "One of the possible solutions to some environmental problems is that our use of fossil fuels must ----------."
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": "Factories should be subject to ---------- to prevent them from polluting."
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": "We need to protect forests to reduce the amount of ---------- in the atmosphere."
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": "What is the ill effect of a bright light?"
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": "Why is it important to promote the use of friendly energy sources?"
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": "Where can we get reliable sources of energy?"
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": "When should we be careful about using light?"
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": "What will happen if we do not do something to combat pollution?"
+            }
+        ]
+    },
+    "set3": {
+        "passage": "<p>According to psychologists, emotional well-being is defined as ‘the ability to recognize our emotions, manage them and produce positive feelings or thoughts’. In other words, people with emotional wellness are aware of their own emotions and can deal with difficult problems by using some effective strategies.</p><p>In daily life, we are more likely to experience negative emotions than positive ones. When we get exposed to stressful situations, it is easier for us to get disappointed, worried, or distressed, especially if we are emotionally unhealthy. Als, we blame others or criticize them when something bad or unkind happens to us. If our distress lasts much longer, our emotional well-being is badly affected. When our wants or needs are not fulfilled, we feel depressed, distressed or frustrated. As a result, we can neither eat nor sleep well, and we cannot concentrate fully on anything. If negative emotions become chronic or overwhelming, we will be faced with problems, like losing our loved ones. Emotional well-being typically brings pleasant feelings such as excitement, happiness and love. This does not mean that it is free from sadness and anxiety. Emotionally healthy people also experience negative feelings such as anxiety, rage, doubt or sadness. However, they can cope with life’s challenges, and they can even manage to bounce back after having been defeated. Thus, emotional well-being has a big role to play in seeking happiness and life satisfaction.</p>",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": "Emotionally healthy people can deal with difficult problems through ---------- of some effective strategies."
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": "In daily life, we are ---------- to experience positive emotions than negative ones."
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": "If distress lasts for an extended period, it can badly ---------- our emotional well-being."
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": "If we feel overwhelmingly negative emotions, we will ---------- with serious problems."
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": "In life, emotionally healthy people experience not only pleasant ---------- but also negative ones."
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": "What is emotional well-being, according to psychologists?"
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": "What do we do when something bad happens to us?"
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": "How do we feel when we do not get what we want?"
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": "What pleasant feelings are mentioned in the passage?"
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": "How can we overcome the negative effects of negative emotions in our daily lives?"
+            }
+        ]
+    },
+    "set4": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set5": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set6": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set7": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set8": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set9": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    },
+    "set10": {
+        "passage": "",
+        "A": [
+            {
+                "question-item-number": "(1)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(2)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(3)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(4)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(5)",
+                "question-item-text": ""
+            }
+        ],
+        "B": [
+            {
+                "question-item-number": "(6)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(7)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(8)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(9)",
+                "question-item-text": ""
+            },
+            {
+                "question-item-number": "(10)",
+                "question-item-text": ""
+            }
+        ]
+    }
+}

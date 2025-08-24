@@ -11,15 +11,14 @@ import {
   SheetTitle,
   SheetHeader,
 } from "@/components/ui/sheet";
-import { Button } from "@/components/ui/button";
 import LoginWithGoogle from "../login-with-google";
 
 const navItems = [
-  { id: 1, path: "/", title: "Home" },
-  { id: 2, path: "/courses", title: "Courses" },
-  { ed: 3, path: "/products", title: "Products" },
-  { id: 4, path: "/about-us", title: "About Us" },
-  { id: 5, path: "/contact-us", title: "Contact Us" },
+  { id: 1, path: "/", title: "မူလစာမျက်စာ" },
+  { id: 2, path: "/courses", title: "ကျောင်းသင်ခန်းစာများ" },
+  { ed: 3, path: "/products", title: "အထွေထွေ" },
+  { id: 4, path: "/about-us", title: "ကျွန်ုပ်တို့အကြောင်း" },
+  { id: 5, path: "/contact-us", title: "ဆက်သွယ်ရန်" },
 ];
 const SIDEBAR_WIDTH_MOBILE = "18rem";
 
@@ -57,23 +56,15 @@ export default function Navbar() {
                     className="flex h-fit w-full items-center justify-start rounded-sm px-4 py-2 font-medium  hover:bg-gray-100 dark:hover:bg-gray-700"
                     prefetch={false}
                   >
-                    <SheetTitle className="text-green-800 dark:text-green-500">
-                      {item.title}
-                    </SheetTitle>
+                    <SheetTitle className="">{item.title}</SheetTitle>
                   </Link>
                 </SheetClose>
               );
             })}
-            <div className="flex  space-x-3">
-              <Button>Sign In</Button>
-              <Button className="bg-orange-800 dark:bg-orange-400 hover:bg-orange-300">
-                Sign Up
-              </Button>
-            </div>
           </SheetContent>
         </Sheet>
         <Link href={"/"} className="flex items-center md:flex-0 flex-1 px-0">
-          <span className="self-center text-2xl font-semibold whitespace-nowrap">
+          <span className="self-center text-2xl font-semibold whitespace-nowrap px-3">
             Alinn Education
           </span>
         </Link>
@@ -84,7 +75,7 @@ export default function Navbar() {
                 <li key={index}>
                   <Link
                     href={item.path}
-                    className="block py-2 rounded-sm"
+                    className="block py-2 rounded-sm font-semibold "
                     aria-current="page"
                   >
                     {item.title}
@@ -95,7 +86,7 @@ export default function Navbar() {
           </ul>
         </div>
         <div className="flex  space-x-3">
-          <ThemeMode />
+          {/* <Profile /> */}
           <LoginWithGoogle />
         </div>
       </div>

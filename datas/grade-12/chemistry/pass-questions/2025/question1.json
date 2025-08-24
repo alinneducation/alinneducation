@@ -1,0 +1,509 @@
+{
+    "question-number": "1.",
+    "question-text": "Write TRUE or FALSE for each of the following statements.",
+    "marks": "(10 marks)",
+    "set1": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "Na<sup>+</sup> and Cl<sup>-</sup> ions, have the electronic configuration of the noble gas Ne."
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "When the ice melts at room temperature, that is a spontaneous and endothermic process."
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "The catalysts provide an alternative pathway for the reaction with lower activation energy."
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "Aldehydes and ketones are organic compounds which contain the carboxyl group."
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "The highest oxidation state is + 5 for manganese (<sub>25</sub>Mn)."
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "If the number of moles of gas is the same on both sides of the reversible chemical equations, pressure has no effect."
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "VOCs play a significant role in forming ozone and fine particulates in the atmosphere."
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "The pH of 0.001 mol dm<sup>-3</sup> of hydrochloric acid is 11."
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "Proteins are made from thousands of amiono acid polymers."
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "Radionuclides found in water are potassium-40, radium-226, and radium-228."
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "Polar covalent bond is formed between two similar non-metal atoms."
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "The cubie unit cell can have two types."
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "When the ice melts at room temperature that is a non-spontaneous and endothermic process."
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "If there are the more successful collisions, the more activated complex leads to the rate of a reaction being faster."
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "In dynamic equilibrium, the forward and reverse reactions occur at the same rate."
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "CH<sub>3</sub>COO<sup>-</sup> ion is a strong conjugate base."
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "The electronic configuration of Ti can be represented using the argon core as [Ar] 4<i>s</i><sup>2</sup>3<i>d</i><sup>2</sup>"
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "In general, transition metals corrode readily in the atmosphere."
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "Phosphorus is an essential nutrient for plants and animals in the form of PO<sub>4</sub><sup>3-</sup> and HPO<sub>4</sub><sup>2-</sup>."
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "Ketones can be obtained by the elimination of H<sub>2</sub>O from two molecules of a alcohol."
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": ""
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": ""
+        }
+    ],
+    "set5": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": ""
+        }
+    ],
+    "set6": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": ""
+        }
+    ],
+    "set7": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": ""
+        }
+    ],
+    "set8": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": ""
+        }
+    ],
+    "set9": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": ""
+        }
+    ],
+    "set10": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": ""
+        }
+    ],
+    "set11": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": ""
+        }
+    ],
+    "set12": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": ""
+        }
+    ]
+}

@@ -1,0 +1,413 @@
+{
+    "question-number": "3.",
+    "question-text": "Choose the best answer for each question given in the following.",
+    "marks": "(10 marks)",
+    "set1": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "In the HCl molecule, there are __________ unshared pair electrons in the Cl atom.",
+            "options": [
+                "A. two",
+                "B. three",
+                "C. four",
+                "D. six"
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "A hair dryer converts __________.",
+            "options": [
+                "A. electrical energy into chemical energy",
+                "B. electrical energy into thermal energy",
+                "C. chemical energy into mechanical energy",
+                "D. thermal energy into mechanical energy"
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "Digestive enzymes, such as __________, are present in saliva.",
+            "options": [
+                "A. pepsin",
+                "B. ptyalin",
+                "C. protein",
+                "D. diastase"
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "If a reversible reaction occurs in the __________ system, the system can reach a state called dynamic equilibrium.",
+            "options": [
+                "A. open",
+                "B. closed",
+                "C. isolated",
+                "D. individual"
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "When ionic compounds dissolve in water, __________ reactions occur.",
+            "options": [
+                "A. dissociation",
+                "B. reduction",
+                "C. elimination",
+                "D. oxidation"
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "The first transition element of the 3d series is __________.",
+            "options": [
+                "A. zinc",
+                "B. vanadium",
+                "C. scandium",
+                "D. titanium"
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "Iron and __________ are essential metals used in modern medicine.",
+            "options": [
+                "A. copper",
+                "B. manganese",
+                "C. cobalt",
+                "D. chromium"
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "Radionuclides found in __________ are potassium-40, radium-226, and radium-228.",
+            "options": [
+                "A. water",
+                "B. air",
+                "C. soil",
+                "D. atmosphere"
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "__________ can be used as solvents in marker pens, medicines, cosmetics, and as fuel.",
+            "options": [
+                "A. Esters",
+                "B. Alcohols",
+                "C. Ehters",
+                "D. Aldehydes"
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "Nylon threads are made of __________.",
+            "options": [
+                "A. polypropylene",
+                "B. polyester",
+                "C. polyamide",
+                "D. polyethene"
+            ]
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "__________ bonding can occur as both intermolecular and intramolecular forces.",
+            "options": [
+                "A. Ionic",
+                "B. Hydrogen",
+                "C. Metallic",
+                "D. Covalent"
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "Vegetables and other waste materials can be used to produce __________ fuels.",
+            "options": [
+                "A. hazardous",
+                "B. unpleasant",
+                "C. harmful",
+                "D. greener"
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "The __________ the bond enthalpy, the more energy needed to break the bond, and the stronger is the bond.",
+            "options": [
+                "A. lower",
+                "B. smaller",
+                "C. higher",
+                "D. unchanged"
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "Homonuclear diatomic molecule, N<sub>2</sub> which has no dipole moment is IR __________.",
+            "options": [
+                "A. inactive",
+                "B. active",
+                "C. energetic",
+                "D. animated"
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "A rate is always expressed an a __________ quantity.",
+            "options": [
+                "A. negative",
+                "B. constant",
+                "C. positive",
+                "D. equal"
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "Transition elements are significantly __________ reactive than Group I metals.",
+            "options": [
+                "A. more",
+                "B. less",
+                "C. strong",
+                "D. better"
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "The burning of large quantities of fossil fuels, especially coal, releases larger amounts of __________ gas into the atmosphere.",
+            "options": [
+                "A. nitrogen",
+                "B. hydrogen",
+                "C. oxygen",
+                "D. hydrogen sulphide"
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "For equilibrium that involves gases, __________ can be used instead of concentration.",
+            "options": [
+                "A. volume",
+                "B. pressure",
+                "C. molarity",
+                "D. molar mass"
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "__________ are used in making azo-dyes and nylon apart from medicines and drugs.",
+            "options": [
+                "A. Esters",
+                "B. Aldehydes",
+                "C. Amines",
+                "D. Ketones"
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "Weak acids are weak electroytes that __________ ionise only to a limited extent in water.",
+            "options": [
+                "A. partially",
+                "B. largely",
+                "C. separately",
+                "D. completely"
+            ]
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "In  the HC1 molecule, there are __________ unshared pair electrons on the Cl atom.",
+            "options": [
+                "A. six",
+                "B. four",
+                "C. three",
+                "D. five"
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "Combustion of fuels is a/an __________ porcess.",
+            "options": [
+                "A. exothermic",
+                "B. endothermic",
+                "C. heat absorbing",
+                "D. oxidation"
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "In a chemical reaction, the rate may be expressed using the units of __________.",
+            "options": [
+                "A. mol<sup>-1</sup> s<sup>-1</sup>",
+                "B. mol dm<sup>3</sup> s<sup>-1</sup>",
+                "C. mol dm<sup>-3</sup> s<sup>-1</sup>",
+                "D. mol s<sup>-1</sup>"
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "Methanol is produced from __________ and hydrogen.",
+            "options": [
+                "A. carbon monoxide",
+                "B. carbon dioxide",
+                "C. carbon",
+                "D. methane"
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "__________ base is sodium hydroxide.",
+            "options": [
+                "A. Arrhenius",
+                "B.  Bronsted-Lowry",
+                "C. Lewis",
+                "D. Weak"
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "The third series 5d transition elements run from lanthanum through __________.",
+            "options": [
+                "A. cadmium",
+                "B. zinc",
+                "C. mercury",
+                "D. yttrium"
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "Cadmium exists as the __________ oxidation state in nature.",
+            "options": [
+                "A. +2",
+                "B. +3",
+                "C. +4",
+                "D. +5"
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "The main component of nall polish remover is __________.",
+            "options": [
+                "A. acetone",
+                "B. ether",
+                "C. amine",
+                "D. amide"
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "The cyeling of elements is interconnected with the __________ cycle.",
+            "options": [
+                "A. water",
+                "B. carbon",
+                "C. nitrogen",
+                "D. phsphorus"
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "__________ produces corrosive hydrogen chloride gas during combustion.",
+            "options": [
+                "A. PVC",
+                "B. PVA",
+                "C. PE",
+                "D. PS"
+            ]
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "Standard enthalpy change of formation is __________ for endothermic reaction.",
+            "options": [
+                "A. negative",
+                "B. positive",
+                "C. zero",
+                "D. none of the mentioned"
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "The bond angel of H-C-H is __________ in methane molecule.",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "Which of the following factors do you think will not affect the state of the equilibrium?",
+            "options": [
+                "A. concentration",
+                "B. pressure",
+                "C. temperature",
+                "D. colour"
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "Which of the following is the strongest conjugate base?",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "The 3d transition series contain elements having the atomic numbers from __________.",
+            "options": [
+                "A. 21 to 31",
+                "B. 21 to 30",
+                "C. 22 to 30",
+                "D. 21 to 29"
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "Which of the following is an extremely potent pollutant?",
+            "options": [
+                "A. wastewater",
+                "B. pesticide",
+                "C. electronic waste",
+                "D. nuclear waste"
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "In the infrared spectrum of propanone, the carbonyl absorption band appears at __________.",
+            "options": [
+                "A. 1780 cm<sup>-1</sup>",
+                "B. 1700 cm<sup>-1</sup>",
+                "C. 1760 cm<sup>-1</sup>",
+                "D. 1620 cm<sup>-1</sup>"
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "The highest oxidation state is __________ for manganese.",
+            "options": [
+                "A. +7",
+                "B. +2",
+                "C. +4",
+                "D. +5"
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "In a chemical reaction, if the reactant requires a high amount of activation energy, then what is the behaviour of the reaction?",
+            "options": [
+                "A. Fast",
+                "B. Slow",
+                "C. Instantaneous",
+                "D. None of these"
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "Which of the following is a synthetic polymer commonly used in making plastic?",
+            "options": [
+                "A. Cellulose",
+                "B. Starch",
+                "C. Protein",
+                "D. Polyethylene"
+            ]
+        }
+    ]
+}

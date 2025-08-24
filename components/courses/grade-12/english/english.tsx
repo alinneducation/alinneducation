@@ -1,3 +1,4 @@
+import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { ReactNode } from "react";
 
 export const Question = ({ children }: { children: React.ReactNode }) => {
@@ -10,14 +11,18 @@ export const Answer = ({ children }: { children: React.ReactNode }) => {
 
 export const Poems = ({ children }: { children: ReactNode }) => {
   return (
-    <div className="flex flex-col md:w-2xl justify-center items-center bg-green-800 dark:bg-green-700 mx-auto p-8 rounded-2xl">
+    <Card className="flex flex-col md:w-2xl mx-auto p-5 mb-5 rounded-2xl">
       {children}
-    </div>
+    </Card>
   );
 };
 export const PoemTitle = ({ children }: { children: ReactNode }) => {
-  return <div className="font-bold pb-3 text-lg md:text-3xl">{children}</div>;
+  return (
+    <CardHeader className="font-bold text-lg bg-green-800 dark:bg-green-600 py-2 rounded-full md:text-3xl text-center text-white">
+      {children}
+    </CardHeader>
+  );
 };
 export const PoemItem = ({ children }: { children: ReactNode }) => {
-  return <div className="font-semibold md:text-lg">{children}</div>;
+  return <div className="font-semibold md:text-lg pl-10">{children}</div>;
 };

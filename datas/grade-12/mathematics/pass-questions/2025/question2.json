@@ -1,0 +1,925 @@
+{
+    "question-number": "II.",
+    "question-text": "Choose the appropriate words or phrases to complete the sentences.",
+    "marks": "(10 marks)",
+    "set1": [
+        {
+            "question-item-number": "(1)",
+            "question-item-text": "Broccoli, cauliflower, and Brussels sprouts are rich in ---------- content.",
+            "options": [
+                "(A) nutrition",
+                "(B) nutrient",
+                "(C) nutritious"
+            ]
+        },
+        {
+            "question-item-number": "(2)",
+            "question-item-text": "Nothing really ever goes as planned. That’s what makes life ----------.",
+            "options": [
+                "(A) excited",
+                "(B) exciting",
+                "(C) excitement"
+            ]
+        },
+        {
+            "question-item-number": "(3)",
+            "question-item-text": "This dress is still fashionable; and ----------, I’m wearing one right now.",
+            "options": [
+                "(A) as a matter of fact",
+                "(B) as a result of",
+                "(C) to a certain extent"
+            ]
+        },
+        {
+            "question-item-number": "(4)",
+            "question-item-text": "A brand-new car bought by his grandfather as a birthday gift would be a ---------- to him, because he can’t drive.",
+            "options": [
+                "(A) grey matter",
+                "(B) blue collar",
+                "(C) white elephant"
+            ]
+        },
+        {
+            "question-item-number": "(5)",
+            "question-item-text": "Excellent students must ---------- the pace of technological change.",
+            "options": [
+                "(A) put up with",
+                "(B) come up with",
+                "(C) keep up with"
+            ]
+        },
+        {
+            "question-item-number": "(6)",
+            "question-item-text": "He set the alarm clock for 5 o’clock ---------- be late for his flight.",
+            "options": [
+                "(A) to",
+                "(B) so as to",
+                "(C) in order not to"
+            ]
+        },
+        {
+            "question-item-number": "(7)",
+            "question-item-text": "Coffee was one thing that ---------- me get through the morning.",
+            "options": [
+                "(A) let",
+                "(B) felt",
+                "(C) helped"
+            ]
+        },
+        {
+            "question-item-number": "(8)",
+            "question-item-text": "Sandi goes to the gym and exercises three times a week; ----------, she becomes slimmer and slimmer.",
+            "options": [
+                "(A) as a consequence",
+                "(B) because of",
+                "(C) owing to"
+            ]
+        },
+        {
+            "question-item-number": "(9)",
+            "question-item-text": "We can play in the living room ---------- you don’t make a mess.",
+            "options": [
+                "(A) unless",
+                "(B) as long as",
+                "(C) in case"
+            ]
+        },
+        {
+            "question-item-number": "(10)",
+            "question-item-text": "Mother lets the gardener ---------- early on Thursdays so he can visit his grandmother.",
+            "options": [
+                "(A) leave",
+                "(B) to leave",
+                "(C) leaving"
+            ]
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "(1)",
+            "question-item-text": "Emotionally healthy people can ---------- life challenges and can even manage to bounce back after having been defeated.",
+            "options": [
+                "(A) face",
+                "(B) enjoy",
+                "(C) cope with"
+            ]
+        },
+        {
+            "question-item-number": "(2)",
+            "question-item-text": "The rise in the ---------- rate is an indicator of economic growth of a country.",
+            "options": [
+                "(A) employment",
+                "(B) unemployment",
+                "(C) jobs"
+            ]
+        },
+        {
+            "question-item-number": "(3)",
+            "question-item-text": "The traffic regulations in Myanmar do not ---------- teenagers under 18 to drive cars.",
+            "options": [
+                "(A) allow",
+                "(B) let",
+                "(C) permit"
+            ]
+        },
+        {
+            "question-item-number": "(4)",
+            "question-item-text": "Instead of joining the debate, she maintained ---------- and listened quietly.",
+            "options": [
+                "(A) reticence",
+                "(B) boldness",
+                "(C) curiosity"
+            ]
+        },
+        {
+            "question-item-number": "(5)",
+            "question-item-text": "The company’s profits rose ---------- an after the launch of their new product in the market which is very different from the past.",
+            "options": [
+                "(A) steadily",
+                "(B) dramatically",
+                "(C) temporarily"
+            ]
+        },
+        {
+            "question-item-number": "(6)",
+            "question-item-text": "LCD TVs ---------- popular in the early years of the century.",
+            "options": [
+                "(A) had become",
+                "(B) become",
+                "(C) became"
+            ]
+        },
+        {
+            "question-item-number": "(7)",
+            "question-item-text": "No matter ---------- times I have remined you, you still make many mistakes in your essay.",
+            "options": [
+                "(A) how many",
+                "(B) when",
+                "(C) what"
+            ]
+        },
+        {
+            "question-item-number": "(8)",
+            "question-item-text": "We ---------- write letters by hand before computer was invented.",
+            "options": [
+                "(A) used to",
+                "(B) would",
+                "(C) could"
+            ]
+        },
+        {
+            "question-item-number": "(9)",
+            "question-item-text": "Marie Curie was a Polish-born French physicist ---------- discovered polonium and radium in 1898.",
+            "options": [
+                "(A) who",
+                "(B) which",
+                "(C) whose"
+            ]
+        },
+        {
+            "question-item-number": "(10)",
+            "question-item-text": "She trained herself every day ---------- break the record in the coming competition.",
+            "options": [
+                "(A) so that",
+                "(B) in order that",
+                "(C) in order to"
+            ]
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "(1)",
+            "question-item-text": "Ko Ko gets the job he wants since he is a very ---------- person.",
+            "options": [
+                "(A) deliberate",
+                "(B) determined",
+                "(C) purposeful"
+            ]
+        },
+        {
+            "question-item-number": "(2)",
+            "question-item-text": "The kitchen was in a ---------- state when the maid left without doing the washing-up and cleaning the dining table.",
+            "options": [
+                "(A) disgust",
+                "(B) disgusted",
+                "(C) disgusting"
+            ]
+        },
+        {
+            "question-item-number": "(3)",
+            "question-item-text": "In the old days, we used to relieve the ---------- of long summer evenings by playing card games.",
+            "options": [
+                "(A) fatigue",
+                "(B) tiredness",
+                "(C) boredom"
+            ]
+        },
+        {
+            "question-item-number": "(4)",
+            "question-item-text": "With language barriers and ---------- differences, they need to find ways to work together.",
+            "options": [
+                "(A) traditional",
+                "(B) cultural",
+                "(C) custom"
+            ]
+        },
+        {
+            "question-item-number": "(5)",
+            "question-item-text": "We don’t know how the old man ---------- these mischievous boys in the neighbourhood.",
+            "options": [
+                "(A) comes up with",
+                "(B) keeps up with",
+                "(C) puts up with"
+            ]
+        },
+        {
+            "question-item-number": "(6)",
+            "question-item-text": "You’re carrying too much. ---------- the door for you.",
+            "options": [
+                "(A) I’m going to open",
+                "(B) I’m opening ",
+                "(C) I’ll open"
+            ]
+        },
+        {
+            "question-item-number": "(7)",
+            "question-item-text": "No matter ---------- your age, you can lose weight by following this programme.",
+            "options": [
+                "(A) how",
+                "(B) when",
+                "(C) what"
+            ]
+        },
+        {
+            "question-item-number": "(8)",
+            "question-item-text": "I usually make a wish ----------I see a shooting star in the night sky.",
+            "options": [
+                "(A) wherever",
+                "(B) whenever",
+                "(C) whatever"
+            ]
+        },
+        {
+            "question-item-number": "(9)",
+            "question-item-text": "My cousin ---------- on time for the interview if he had left the house at seven.",
+            "options": [
+                "(A) will be",
+                "(B) will have been",
+                "(C) would have been"
+            ]
+        },
+        {
+            "question-item-number": "(10)",
+            "question-item-text": "He didn’t do what he had promised, and ----------, he disappointed everyone.",
+            "options": [
+                "(A) as a consequence",
+                "(B) so as to",
+                "(C) as a result of"
+            ]
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "(1)",
+            "question-item-text": "She is ---------- for organising the meeting for next week.",
+            "options": [
+                "(A) comprehensible",
+                "(B) knowledgeable",
+                "(C) responsible"
+            ]
+        },
+        {
+            "question-item-number": "(2)",
+            "question-item-text": "She is ---------- of speaking in front of a large audience.",
+            "options": [
+                "(A) bored",
+                "(B) pleased",
+                "(C) scared"
+            ]
+        },
+        {
+            "question-item-number": "(3)",
+            "question-item-text": "CO2 ---------- from cars and factories are causing serious environmental problems.",
+            "options": [
+                "(A) chemicals",
+                "(B) emissions",
+                "(C) wastes"
+            ]
+        },
+        {
+            "question-item-number": "(4)",
+            "question-item-text": "Soil ---------- happens when wind or water removes the top layer of soil from the ground.",
+            "options": [
+                "(A) contamination",
+                "(B) erosion",
+                "(C) pollution"
+            ]
+        },
+        {
+            "question-item-number": "(5)",
+            "question-item-text": "She doesn’t like her job, but she has to ---------- it because she needs the money.",
+            "options": [
+                "(A) come up with",
+                "(B) keep up with",
+                "(C) put up with"
+            ]
+        },
+        {
+            "question-item-number": "(6)",
+            "question-item-text": "She studied hard ---------- fail the exam.",
+            "options": [
+                "(A) in order not to",
+                "(B) so that",
+                "(C) to"
+            ]
+        },
+        {
+            "question-item-number": "(7)",
+            "question-item-text": "Think carefully ---------- you make a decision.",
+            "options": [
+                "(A) after",
+                "(B) before",
+                "(C) since"
+            ]
+        },
+        {
+            "question-item-number": "(8)",
+            "question-item-text": "She always wakes up early to ---------- her prayers before starting the day.",
+            "options": [
+                "(A) ask",
+                "(B) say",
+                "(C) tell"
+            ]
+        },
+        {
+            "question-item-number": "(9)",
+            "question-item-text": "She ---------- a book when the phone rang.",
+            "options": [
+                "(A) reads",
+                "(B) is reading",
+                "(C) was reading"
+            ]
+        },
+        {
+            "question-item-number": "(10)",
+            "question-item-text": "He is studying late because he ---------- finish his project by tomorrow.",
+            "options": [
+                "(A) can",
+                "(B) must",
+                "(C) should"
+            ]
+        }
+    ],
+    "set5": [
+        {
+            "question-item-number": "(1)",
+            "question-item-text": "The company is a global leader in purchasing ---------- energy to address climate change.",
+            "options": [
+                "(A) recyclable",
+                "(B) renewable",
+                "(C) redundant"
+            ]
+        },
+        {
+            "question-item-number": "(2)",
+            "question-item-text": "He told a little ---------- lie as his excuse for missing the party.",
+            "options": [
+                "(A) black",
+                "(B) blue",
+                "(C) white"
+            ]
+        },
+        {
+            "question-item-number": "(3)",
+            "question-item-text": "These bananas and papayas have been ---------- coloured. They should not be eaten.",
+            "options": [
+                "(A) artificially",
+                "(B) falsely",
+                "(C) naturally"
+            ]
+        },
+        {
+            "question-item-number": "(4)",
+            "question-item-text": "He is a ---------- mechanic who can fix any car problem.",
+            "options": [
+                "(A) responsible",
+                "(B) talented",
+                "(C) busy"
+            ]
+        },
+        {
+            "question-item-number": "(5)",
+            "question-item-text": "The doctor offered me valuable ---------- on how to maintain a healthy lifestyle.",
+            "options": [
+                "(A) advice",
+                "(B) guidance",
+                "(C) suggestion"
+            ]
+        },
+        {
+            "question-item-number": "(6)",
+            "question-item-text": "The teacher wanted to know ---------- the students understood the lesson.",
+            "options": [
+                "(A) when",
+                "(B) whether",
+                "(C) why"
+            ]
+        },
+        {
+            "question-item-number": "(7)",
+            "question-item-text": "We ---------- eat more vegetables for a balanced diel.",
+            "options": [
+                "(A) should",
+                "(B) must",
+                "(C) can"
+            ]
+        },
+        {
+            "question-item-number": "(8)",
+            "question-item-text": "We all saw the parade ---------- by our house yesterday.",
+            "options": [
+                "(A) to pass",
+                "(B) passing",
+                "(C) passed"
+            ]
+        },
+        {
+            "question-item-number": "(9)",
+            "question-item-text": "She was happy ---------- she got a promotion.",
+            "options": [
+                "(A) because",
+                "(B) because of",
+                "(C) due to"
+            ]
+        },
+        {
+            "question-item-number": "(10)",
+            "question-item-text": "It wasn’t ---------- August that we finally moved into the new house.",
+            "options": [
+                "(A) before",
+                "(B) after",
+                "(C) until"
+            ]
+        }
+    ],
+    "set6": [
+        {
+            "question-item-number": "(1)",
+            "question-item-text": "The teacher created a pleasant ---------- in the classroom, which encouraged students to participate actively.",
+            "options": [
+                "(A) environment",
+                "(B) surrounding",
+                "(C) atmosphere"
+            ]
+        },
+        {
+            "question-item-number": "(2)",
+            "question-item-text": "The local community showed great ---------- by donating clothes and food to those in need.",
+            "options": [
+                "(A) generous",
+                "(B) generously",
+                "(C) generosity"
+            ]
+        },
+        {
+            "question-item-number": "(3)",
+            "question-item-text": "The company is in the ----------,so they’re looking for ways.",
+            "options": [
+                "(A) red",
+                "(B) blue",
+                "(C) black"
+            ]
+        },
+        {
+            "question-item-number": "(4)",
+            "question-item-text": "The ---------- of rural areas has led to the loss of traditional farming communities.",
+            "options": [
+                "(A) deforestation",
+                "(B) urbanization",
+                "(C) industrialization"
+            ]
+        },
+        {
+            "question-item-number": "(5)",
+            "question-item-text": "She was ---------- uncontrollably after walking in the freezing rain.",
+            "options": [
+                "(A) shivering",
+                "(B) moving",
+                "(C) stirring"
+            ]
+        },
+        {
+            "question-item-number": "(6)",
+            "question-item-text": "Her cheeks ---------- by the fever made it clear that she wasn’t feeling well.",
+            "options": [
+                "(A) flooded",
+                "(B) flushed",
+                "(C) varnished"
+            ]
+        },
+        {
+            "question-item-number": "(7)",
+            "question-item-text": "Hand gestures can have different meanings in diverse ---------- traveling abroad.",
+            "options": [
+                "(A) traditional",
+                "(B) educational",
+                "(C) cultural"
+            ]
+        },
+        {
+            "question-item-number": "(8)",
+            "question-item-text": "I agree with your opinion ---------- , but I think there are other factors to consider.",
+            "options": [
+                "(A) to a certain extent",
+                "(B) on top of that",
+                "(C) ll the way"
+            ]
+        },
+        {
+            "question-item-number": "(9)",
+            "question-item-text": "---------- of the century, technology has advanced at an incredible pace.",
+            "options": [
+                "(A) In the meanwhile",
+                "(B) Since the turn",
+                "(C) During"
+            ]
+        },
+        {
+            "question-item-number": "(10)",
+            "question-item-text": "Plays and poems ---------- by Shakespeare are not easy to understand.",
+            "options": [
+                "(A) written",
+                "(B) are written",
+                "(C) wrote"
+            ]
+        }
+    ],
+    "set7": [
+        {
+            "question-item-number": "(1)",
+            "question-item-text": "Some hackers may use our medical history to blackmail us or ---------- us publicly.",
+            "options": [
+                "(A) embarrass",
+                "(B) embarrassed",
+                "(C) embarrassing"
+            ]
+        },
+        {
+            "question-item-number": "(2)",
+            "question-item-text": "That group of representatives wanted to ---------- ‌a discussion on economics.",
+            "options": [
+                "(A) initiate",
+                "(B) introduce",
+                "(C) innovate"
+            ]
+        },
+        {
+            "question-item-number": "(3)",
+            "question-item-text": "Social ---------- can be an anxiety-filled experience for shy people.",
+            "options": [
+                "(A) conversation",
+                "(B) interaction",
+                "(C) communication"
+            ]
+        },
+        {
+            "question-item-number": "(4)",
+            "question-item-text": "After graduation, we are certain that the knowledge we have ---------- will enable us to be successful in whatever field we may enter.",
+            "options": [
+                "(A) required",
+                "(B) inquired",
+                "(C) acquired"
+            ]
+        },
+        {
+            "question-item-number": "(5)",
+            "question-item-text": "Nowadays, a lot of teenagers like to ---------- at the shopping centre.",
+            "options": [
+                "(A) hang out",
+                "(B) hang on",
+                "(C) hang in"
+            ]
+        },
+        {
+            "question-item-number": "(6)",
+            "question-item-text": "I’m sorry. I made you so angry. ---------- it again.",
+            "options": [
+                "(A) I won’t do",
+                "(B) I’m not doing",
+                "(C) I’m not going to do"
+            ]
+        },
+        {
+            "question-item-number": "(7)",
+            "question-item-text": "Tin Tin is the student ---------- handwriting is the best in the class.",
+            "options": [
+                "(A) who",
+                "(B) whom",
+                "(C) whose"
+            ]
+        },
+        {
+            "question-item-number": "(8)",
+            "question-item-text": "The number of wild birds in this area has decreased ---------- modern farming practices.",
+            "options": [
+                "(A) in order to",
+                "(B) as a result ",
+                "(C) as a consequence of"
+            ]
+        },
+        {
+            "question-item-number": "(9)",
+            "question-item-text": "If they ---------- about the traffic jam, they wouldn’t have taken this route.",
+            "options": [
+                "(A) know",
+                "(B) have known",
+                "(C) had known"
+            ]
+        },
+        {
+            "question-item-number": "(10)",
+            "question-item-text": "No matter ---------- you are an expert swimmer or not, you should be careful at this beach.",
+            "options": [
+                "(A) whether",
+                "(B) what",
+                "(C) how"
+            ]
+        }
+    ],
+    "set8": [
+        {
+            "question-item-number": "(1)",
+            "question-item-text": "You should always ---------- the opinions of other people.",
+            "options": [
+                "(A) admire",
+                "(B) respect",
+                "(C) think"
+            ]
+        },
+        {
+            "question-item-number": "(2)",
+            "question-item-text": "He broke the vase by ----------. He didn’t really mean to.",
+            "options": [
+                "(A) accident",
+                "(B) chance",
+                "(C) fortune"
+            ]
+        },
+        {
+            "question-item-number": "(3)",
+            "question-item-text": "The ---------- of the Antarctic will continue for the next decades.",
+            "options": [
+                "(A) searching",
+                "(B) discovery",
+                "(C) exploration"
+            ]
+        },
+        {
+            "question-item-number": "(4)",
+            "question-item-text": "People are worried about the ---------- created by the new factories near the river.",
+            "options": [
+                "(A) smokes",
+                "(B) pollution",
+                "(C) toxic"
+            ]
+        },
+        {
+            "question-item-number": "(5)",
+            "question-item-text": "I was surprised to hear how many ---------- of snakes there are all over the world.",
+            "options": [
+                "(A) classes",
+                "(B) species",
+                "(C) varieties"
+            ]
+        },
+        {
+            "question-item-number": "(6)",
+            "question-item-text": "The flight ---------- arrived at the airport by 6 p.m tomorrow.",
+            "options": [
+                "(A) has",
+                "(B) will be",
+                "(C) will have"
+            ]
+        },
+        {
+            "question-item-number": "(7)",
+            "question-item-text": "Many tropical plants and animals are ---------- of becoming extinct over the next few decades.",
+            "options": [
+                "(A) on alert",
+                "(B) at risk",
+                "(C) in advance"
+            ]
+        },
+        {
+            "question-item-number": "(8)",
+            "question-item-text": "The policemen were ---------- securing the crime scene and not letting anyone through.",
+            "options": [
+                "(A) in charge of",
+                "(B) in favour of",
+                "(C) in addition to"
+            ]
+        },
+        {
+            "question-item-number": "(9)",
+            "question-item-text": " According to the weather forecast, it ---------- rain heavily tomorrow.",
+            "options": [
+                "(A) may",
+                "(B) shall",
+                "(C) might"
+            ]
+        },
+        {
+            "question-item-number": "(10)",
+            "question-item-text": "I will complete my Chemistry project, and ----------, I will start working on the Maths assignment.",
+            "options": [
+                "(A) therefore",
+                "(B) then",
+                "(C) additionally"
+            ]
+        }
+    ],
+    "set9": [
+        {
+            "question-item-number": "(1)",
+            "question-item-text": "For many people these days, a mobile phone is no longer a luxury but a ----------.",
+            "options": [
+                "(A) need",
+                "(B) necessity",
+                "(C) demand"
+            ]
+        },
+        {
+            "question-item-number": "(2)",
+            "question-item-text": "It ---------- me a long time to work out the solution to the problem.",
+            "options": [
+                "(A) kept",
+                "(B) lasted",
+                "(C) took"
+            ]
+        },
+        {
+            "question-item-number": "(3)",
+            "question-item-text": "ABC Foundation is known for its ---------- efforts because it enhances health and increases access to education and opportunities around the world.",
+            "options": [
+                "(A) charitable",
+                "(B) generous",
+                "(C) strenuous"
+            ]
+        },
+        {
+            "question-item-number": "(4)",
+            "question-item-text": "In 1905, Einstein, whose findings are still used in scientific experiments, ---------- that time and space are not independent of each other.",
+            "options": [
+                "(A) believed",
+                "(B) thought",
+                "(C) proved"
+            ]
+        },
+        {
+            "question-item-number": "(5)",
+            "question-item-text": "We stood on the clifftop and got a spectacular ---------- of the landscape all around.",
+            "options": [
+                "(A) display",
+                "(B) view",
+                "(C) outlook"
+            ]
+        },
+        {
+            "question-item-number": "(6)",
+            "question-item-text": "The teacher encourages the students to ask questions, ---------- simple or complex they may be.",
+            "options": [
+                "(A) no matter where",
+                "(B) no matter how",
+                "(C) no matter what"
+            ]
+        },
+        {
+            "question-item-number": "(7)",
+            "question-item-text": "It is said that music has beneficial effects ---------- a number of illnesses.",
+            "options": [
+                "(A) for",
+                "(B) from",
+                "(C) on"
+            ]
+        },
+        {
+            "question-item-number": "(8)",
+            "question-item-text": "Yupar ---------- to the gym twice a week. Thus, being tired does not bother her unlike us.",
+            "options": [
+                "(A) used to go",
+                "(B) is used to going",
+                "(C) is used to go"
+            ]
+        },
+        {
+            "question-item-number": "(9)",
+            "question-item-text": "---------- difficult economic times, unemployment is getting higher day by day.",
+            "options": [
+                "(A) Because",
+                "(B) As",
+                "(C) Due to"
+            ]
+        },
+        {
+            "question-item-number": "(10)",
+            "question-item-text": "She has been determined to become a talented musician since she ---------- a child.",
+            "options": [
+                "(A) is",
+                "(B) was",
+                "(C) were"
+            ]
+        }
+    ],
+    "set10": [
+        {
+            "question-item-number": "(1)",
+            "question-item-text": "She felt a strong sense of ---------- for the character in the novel as if she were experiencing the same struggles.",
+            "options": [
+                "(A) sympathy",
+                "(B) empathy",
+                "(C) kindness"
+            ]
+        },
+        {
+            "question-item-number": "(2)",
+            "question-item-text": "Scientists are studying the gradual ---------- of coral reefs, which are disappearing due to pollution and climate change.",
+            "options": [
+                "(A) decline",
+                "(B) deterioration",
+                "(C) breakdown"
+            ]
+        },
+        {
+            "question-item-number": "(3)",
+            "question-item-text": "The children were amazed by the ---------- in the toy store.",
+            "options": [
+                "(A) gadgets",
+                "(B) devicesa",
+                "(C) inventions"
+            ]
+        },
+        {
+            "question-item-number": "(4)",
+            "question-item-text": "The audience listened in ---------- as the pianist performed the complex piece flawlessly.",
+            "options": [
+                "(A) rapture",
+                "(B) delight",
+                "(C) joy"
+            ]
+        },
+        {
+            "question-item-number": "(5)",
+            "question-item-text": "Although Thandar has deep knowledge of the subject, her natural ---------- made her hesitant to speak up during meetings.",
+            "options": [
+                "(A) silence",
+                "(B) reticence",
+                "(C) shyness"
+            ]
+        },
+        {
+            "question-item-number": "(6)",
+            "question-item-text": "I’ll try my best to help you with your project, ---------- difficult it may seem.",
+            "options": [
+                "(A) whatever",
+                "(B) whoever",
+                "(C) however"
+            ]
+        },
+        {
+            "question-item-number": "(7)",
+            "question-item-text": "If you want to get a master’s degree, you ---------- study regularly.",
+            "options": [
+                "(A) can",
+                "(B) should",
+                "(C) must"
+            ]
+        },
+        {
+            "question-item-number": "(8)",
+            "question-item-text": "The school district is providing ---------- lunches to all students.",
+            "options": [
+                "(A) nutritional",
+                "(B) nutrition",
+                "(C) nutritious"
+            ]
+        },
+        {
+            "question-item-number": "(9)",
+            "question-item-text": "At present, I want to apologise to you as I won’t be able to join you ---------- I finish my assignment.",
+            "options": [
+                "(A) until",
+                "(B) after",
+                "(C) unless"
+            ]
+        },
+        {
+            "question-item-number": "(10)",
+            "question-item-text": "I hope we can ---------- well, even though we come from different cultures.",
+            "options": [
+                "(A) get off ",
+                "(B) get on",
+                "(C) get around"
+            ]
+        }
+    ]
+}

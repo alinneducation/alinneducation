@@ -1,0 +1,109 @@
+{
+    "question-number": "4.",
+    "question-text": "Answer ALL questions.",
+    "marks": "(30 marks)",
+    "set1": [
+        {
+            "question-item-number": "a.",
+            "question-item-text": "Explain the role of spider silk as animals-based medicines."
+        },
+        {
+            "question-item-number": "b.",
+            "question-item-text": "Describe the method of recombinant DNA with appropriate illustration."
+        },
+        {
+            "question-item-number": "c.",
+            "question-item-text": "How do you understand the apoplastic pathway? (Illustration is not necessary)"
+        },
+        {
+            "question-item-number": "d.",
+            "question-item-text": "Explain how to prevent the cardiovascular disease."
+        },
+        {
+            "question-item-number": "e.",
+            "question-item-text": "State the plant hormone gibberellin."
+        },
+        {
+            "question-item-number": "f.",
+            "question-item-text": "Briefly explain the ecosystem diversity."
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "a.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "b.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "c.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "d.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "e.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "f.",
+            "question-item-text": ""
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "a.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "b.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "c.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "d.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "e.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "f.",
+            "question-item-text": ""
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "a.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "b.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "c.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "d.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "e.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "f.",
+            "question-item-text": ""
+        }
+    ]
+}

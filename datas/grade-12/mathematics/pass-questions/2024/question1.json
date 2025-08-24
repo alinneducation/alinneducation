@@ -1,0 +1,292 @@
+{
+    "question-text": "Choose the correct or the appropriate answer for each question. Write the letter of the correct or the most appropriate answer.",
+    "marks": "10 marks.",
+    "set1": [
+        {
+            "question-item-number": "\\text{1.}",
+            "question-item-text": "\\text{The trigonometric form of z = 1 + i with } -{\\pi} \\lt \\theta \\le {\\pi} \\text{ is}",
+            "options": [
+                "\\text{A. } \\sqrt{2}(\\text{cos} \\frac{\\pi}{4} + i\\text{sin} \\frac{\\pi}{4})",
+                "\\text{B. } \\sqrt{2}(\\text{cos} \\frac{\\pi}{4} - i\\text{sin} \\frac{\\pi}{4})",
+                "\\text{C. } 2(\\text{cos} \\frac{\\pi}{3} + i\\text{sin} \\frac{\\pi}{3})",
+                "\\text{D. 5} 2(\\text{cos} \\frac{\\pi}{3} - i\\text{sin} \\frac{\\pi}{3})"
+            ]
+        },
+        {
+            "question-item-number": "\\text{2.}",
+            "question-item-text": "\\text{The plane passing} \\allowbreak \\text{ through the point(1, 2, 3)} \\allowbreak \\text{ and parallel} \\allowbreak \\text{ to the plane } x + y + z = 0 \\text{ is}",
+            "options": [
+                "\\text{A. }x + y + z = 6",
+                "\\text{B. }x + y + z + 6 = 0",
+                "\\text{C. }x + y + z = 5",
+                "\\text{D. }x + 2y + 3z = 0"
+            ]
+        },
+        {
+            "question-item-number": "\\text{3.}",
+            "question-item-text": "\\text{In how many ways can all the letters} \\allowbreak \\text{ of the word} \\allowbreak \\text{ORANGE be arranged, } \\allowbreak \\text{without repeating}\\allowbreak \\text{ any letters?}",
+            "options": [
+                "\\text{A. 730}  ",
+                "\\text{B. 270}",
+                "\\text{C. 720}",
+                "\\text{D. 780}"
+            ]
+        },
+        {
+            "question-item-number": "\\text{4.}",
+            "question-item-text": "\\text{The directrix of the equation }y^2 - 12x - 6y + 3 = 0 \\text{ is}",
+            "options": [
+                "\\text{A. }-\\frac{5}{2}",
+                "\\text{B. }\\frac{3}{2}",
+                "\\text{C. }\\frac{5}{2}",
+                "\\text{D. }-\\frac{3}{2}"
+            ]
+        },
+        {
+            "question-item-number": "\\text{5.}",
+            "question-item-text": "\\text{The period of the function } y = 2 \\text{ cos } \\pi(x+2)+1 \\text{ is}",
+            "options": [
+                "\\text{A. 1}",
+                "\\text{B. 2} ",
+                "\\text{C. 3}",
+                "\\text{D. }\\pi"
+            ]
+        },
+        {
+            "question-item-number": "\\text{6.}",
+            "question-item-text": "",
+            "options": [
+                "\\text{A. }  ",
+                "\\text{B. } ",
+                "\\text{C. } ",
+                "\\text{D. }"
+            ]
+        },
+        {
+            "question-item-number": "\\text{7.}",
+            "question-item-text": "",
+            "options": [
+                "\\text{A. }  ",
+                "\\text{B. } ",
+                "\\text{C. } ",
+                "\\text{D. }"
+            ]
+        },
+        {
+            "question-item-number": "\\text{8.}",
+            "question-item-text": "",
+            "options": [
+                "\\text{A.}  ",
+                "\\text{B. }",
+                "\\text{C. }",
+                "\\text{D. }"
+            ]
+        },
+        {
+            "question-item-number": "\\text{9.}",
+            "question-item-text": "",
+            "options": [
+                "\\text{A. }  ",
+                "\\text{B. } ",
+                "\\text{C. } ",
+                "\\text{D. }"
+            ]
+        },
+        {
+            "question-item-number": "\\text{10.}",
+            "question-item-text": "",
+            "options": [
+                "\\text{A. }  ",
+                "\\text{B. } ",
+                "\\text{C. } ",
+                "\\text{D. }"
+            ]
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "1.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "2.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "3.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "4.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "5.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "6.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "7.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "8.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "9.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "10.",
+            "question-item-text": ""
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "\\text{1.}",
+            "question-item-text": "\\text{If } z_1 = 1 - 3i, z_2 = -3 -bi \\text{ and } z_1\\bar{z}_2 = 9 + 13i \\allowbreak \\text{, then b is}",
+            "options": [
+                "\\text{A. } 2",
+                "\\text{B. } 3",
+                "\\text{C. } 4",
+                "\\text{D. 5}"
+            ]
+        },
+        {
+            "question-item-number": "\\text{2.}",
+            "question-item-text": "\\text{The plane passing through the point(1, 2, -1)} \\allowbreak \\text{ and parallel}\\allowbreak \\text{ to the plane } x - y + z = 2 \\allowbreak \\text{ is}",
+            "options": [
+                "\\text{A. }x + y + z = 2",
+                "\\text{B. }x + y - z - 4 = 0",
+                "\\text{C. }x - y + z +  \\sqrt{6}  = 0",
+                "\\text{D. }x - y + z = -2"
+            ]
+        },
+        {
+            "question-item-number": "\\text{3.}",
+            "question-item-text": "\\text{How many 2-digit positive integers are there} \\allowbreak \\text{ such that } \\allowbreak \\text{ the sum} \\allowbreak \\text{ of their} \\allowbreak \\text{ two digits} \\allowbreak \\text{ is divisible } \\allowbreak \\text{ by 4?}",
+            "options": [
+                "\\text{A. 21}  ",
+                "\\text{B. 22} ",
+                "\\text{C. 23} ",
+                "\\text{D. 24}"
+            ]
+        },
+        {
+            "question-item-number": "\\text{4.}",
+            "question-item-text": "\\text{Find the focus of parabola }y^2 - 6y + 7 = 0",
+            "options": [
+                "\\text{A. (0,3)}  ",
+                "\\text{B. (}\\frac{1}{2}\\text{,3)}",
+                "\\text{C. (1,3)} ",
+                "\\text{D. (}\\frac{3}{2}\\text{,3)}"
+            ]
+        },
+        {
+            "question-item-number": "\\text{5.}",
+            "question-item-text": "\\text{The range of the function }y = 2 \\text{ sec } x + 3 \\text{ is}",
+            "options": [
+                "\\text{A. R}  ",
+                "\\text{B. } \\{y| -1 \\le y \\le 5\\} ",
+                "\\text{C. } \\{y| y \\le 1 \\text{ or } y \\ge 5\\}",
+                "\\text{D. } \\{y| -5 \\le y \\le 0\\}"
+            ]
+        },
+        {
+            "question-item-number": "\\text{6.}",
+            "question-item-text": "\\text{The domain of the function }y = 3 \\text{ ln}(x - x) + 2 \\text{ is} ",
+            "options": [
+                "\\text{A. } \\{x|x\\gt x\\}  ",
+                "\\text{B. R} ",
+                "\\text{C. } \\{x|x\\gt 2\\}",
+                "\\text{D. } \\{x|x\\gt x - 2\\}"
+            ]
+        },
+        {
+            "question-item-number": "\\text{7.}",
+            "question-item-text": "\\text{The equation of asymptote of the graph} \\allowbreak \\text{ of the } \\allowbreak \\text{ function y = -3}^{z-4} \\text{ - 2 is}",
+            "options": [
+                "\\text{A. y = 4}  ",
+                "\\text{B. y = -3} ",
+                "\\text{C. y = 3} ",
+                "\\text{D. y = -2}"
+            ]
+        },
+        {
+            "question-item-number": "\\text{8.}",
+            "question-item-text": "\\text{Tangents are drawn to the curve } y \\text{ = } \\text{ sec } x \\text{ from } \\allowbreak \\text{the origin.} \\allowbreak \\text{ Then the point } \\allowbreak \\text{of contact} \\allowbreak \\text{ lies on} \\allowbreak \\text{ the curve } \\frac{1}{x^2} - y^2 =  \\lambda \\text{. The value of } \\lambda \\text{ is equal to} ",
+            "options": [
+                "\\text{A. -1}  ",
+                "\\text{B. }\\frac{1}{2}",
+                "\\text{C. 1}",
+                "\\text{D. 2}"
+            ]
+        },
+        {
+            "question-item-number": "\\text{9.}",
+            "question-item-text": "\\text{If} \\int x \\text{ ln } x dx = \\frac{x^2 \\text{ ln } x}{p} - \\frac{x^2}{p} + C \\text{, then } p -q \\text{ is}",
+            "options": [
+                "\\text{A. -6}  ",
+                "\\text{B. -2} ",
+                "\\text{C. 6} ",
+                "\\text{D. 2}"
+            ]
+        },
+        {
+            "question-item-number": "\\text{10.}",
+            "question-item-text": "\\text{If} \\int^\\frac{1x}{6}_\\frac{p}{3} \\text{ cot } x \\text{ } dx \\text{ is equal to ln } p \\text{, then } p^2 \\text{ is }",
+            "options": [
+                "\\text{A. } \\frac{\\sqrt{3}}{3} ",
+                "\\text{B. } \\frac{1}{3}",
+                "\\text{C. 3} ",
+                "\\text{D. }\\sqrt{3}"
+            ]
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "1.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "2.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "3.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "4.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "5.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "6.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "7.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "8.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "9.",
+            "question-item-text": ""
+        },
+        {
+            "question-item-number": "10.",
+            "question-item-text": ""
+        }
+    ]
+}

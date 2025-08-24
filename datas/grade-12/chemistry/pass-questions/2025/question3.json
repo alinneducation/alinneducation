@@ -1,0 +1,1229 @@
+{
+    "question-number": "3.",
+    "question-text": "Choose the best answer for each question given in the following.",
+    "marks": "(10 marks)",
+    "set1": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "The molecule, __________ contains polar bonds but is a nonpolar molecule.",
+            "options": [
+                "A. H<sub>2</sub>",
+                "B. CO<sub>2</sub>",
+                "C. HC1",
+                "D. H<sub>2</sub>O"
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "Automobile engines can change __________ into mechanical energy.",
+            "options": [
+                "A. chemical energy",
+                "B. electrical energy",
+                "C. light energy",
+                "D. thermal energy"
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "The reaction between hydrogen and chlorine is extreme __________ in the dark.",
+            "options": [
+                "A. fast",
+                "B. slow",
+                "C. quick",
+                "D. explosive"
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "__________ is a characteristic numerical value of the ratio of product concentrations to reactant concentrations",
+            "options": [
+                "A. K<sub>r</sub>",
+                "B. K<sub>e</suub>",
+                "C. K<sub>p</sub>",
+                "D. K<sub>eq</sub>"
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "__________ represents an acid-base reaction.",
+            "options": [
+                "A. HBr + KOH -> KBr + H<sub>2</sub>O",
+                "B. ZnCl<sub>2</sub> + MgSO<sub>4</sub> + MgCl<sub>2</sub>",
+                "C. H<sub>2</sub>SO<sub>4</sub> + CaCl<sub>2</sub> -> CaSO<sub>4</sub> + 2HCl",
+                "D. NH<sub>4</sub>OH + KCl -> KOH + NH<sub>4</sub>Cl"
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "__________ pair of transition metals of the <i>3d</i> series do not show a variable oxidation state.",
+            "options": [
+                "A. Sc and Zn",
+                "B. Ti and V",
+                "C. Mn and Cr",
+                "D. Fe and Ni"
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "F<sub>2</sub>C = CF<sub>2</sub> is a monomer of __________.",
+            "options": [
+                "A. polyethene",
+                "B. polystyrene",
+                "C. Teflon",
+                "D. PVC"
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "The guano of marine birds contains a high level of __________.",
+            "options": [
+                "A. carbon",
+                "B. phosphorous",
+                "C. sulphur",
+                "D. nitrogen"
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "The essential electronic configuration of Zn<sup>2+</sup> is __________.",
+            "options": [
+                "A. 3<i>d</i><sup>7</sup>",
+                "B. 3<i>d</i><sup>8</sup>",
+                "C. 3<i>d</i><sup>9</sup>",
+                "D. 3<i>d</i><sup>10</sup>"
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "__________ forms when a primary amine reacts with chloroform in alcoholic KOH.",
+            "options": [
+                "A. An isocyanide",
+                "B. An aldehyde",
+                "C. A cyanide",
+                "D. An alcohol"
+            ]
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "The hydrogen bond is __________ intermolecular force followed by van der Waals forces.",
+            "options": [
+                "A. weakest",
+                "B. strongest",
+                "C. medium",
+                "D. none of these"
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "The symbol for bond enthapy is ___________.",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "",
+            "options": [
+                "A. <math emlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>a</mn></mfrac><mspace width=\"1rem\"/><<mfrac><mn>&#9651[A]</mn><mn>&#9651t</mn></mfrac></math>,",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        }
+    ],
+    "set5": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        }
+    ],
+    "set6": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        }
+    ],
+    "set7": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        }
+    ],
+    "set8": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        }
+    ],
+    "set9": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        }
+    ],
+    "set10": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        }
+    ],
+    "set11": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        }
+    ],
+    "set12": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "",
+            "options": [
+                "A. ",
+                "B. ",
+                "C. ",
+                "D. "
+            ]
+        }
+    ]
+}

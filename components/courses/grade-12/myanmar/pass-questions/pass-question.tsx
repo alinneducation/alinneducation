@@ -1,3 +1,4 @@
+import { Card } from "@/components/ui/card";
 import {
   Header,
   JustifyHeader,
@@ -58,7 +59,7 @@ export default function PassQuestion({
   question7: Question7[];
 }) {
   return (
-    <div>
+    <Card className="px-3 line-clamp-none">
       <Header>
         <p>{year}</p>
         <p>တက္ကသိုလ်ဝင်စာမေးပွဲ</p>
@@ -223,6 +224,6 @@ export default function PassQuestion({
           </QuestionItem>
         </div>
       ))}
-    </div>
+    </Card>
   );
 }

@@ -8,25 +8,7 @@
     "navMain": [
       {
         "title": "မိတ်ဆက်သင်ခန်းစာ",
-        "url": "/introduction"
-      },
-      {
-        "title": "လေ့ကျင့်ခန်းနှင့်အဖြေများ",
-        "url": "#",
-        "items": [
-          {
-            "title": "Genesis",
-            "url": "#"
-          },
-          {
-            "title": "Explorer",
-            "url": "#"
-          },
-          {
-            "title": "Quantum",
-            "url": "#"
-          }
-        ]
+        "url": "biology/intro"
       },
       {
         "title": "၂၀၂၄ မေးခွန်းဟောင်းများ",
@@ -34,23 +16,19 @@
         "items": [
           {
             "title": "မေးခွန်းဟောင်းများ (၁)",
-            "url": "#"
+            "url": "biology/pass-questions/2024/1"
           },
           {
             "title": "မေးခွန်းဟောင်းများ (၂)",
-            "url": "#"
+            "url": "biology/pass-questions/2024/2"
           },
           {
             "title": "မေးခွန်းဟောင်းများ (၃)",
-            "url": "#"
+            "url": "biology/pass-questions/2024/3"
           },
           {
             "title": "မေးခွန်းဟောင်းများ (၄)",
-            "url": "#"
-          },
-          {
-            "title": "မေးခွန်းဟောင်းများ (၅)",
-            "url": "#"
+            "url": "biology/pass-questions/2024/4"
           }
         ]
       },
@@ -60,39 +38,43 @@
         "items": [
           {
             "title": "မေးခွန်းဟောင်းများ (၁)",
-            "url": "#"
+            "url": "biology/pass-questions/2025/1"
           },
           {
             "title": "မေးခွန်းဟောင်းများ (၂)",
-            "url": "#"
+            "url": "biology/pass-questions/2025/2"
           },
           {
             "title": "မေးခွန်းဟောင်းများ (၃)",
-            "url": "#"
+            "url": "biology/pass-questions/2025/3"
           },
           {
             "title": "မေးခွန်းဟောင်းများ (၄)",
-            "url": "#"
+            "url": "biology/pass-questions/2025/4"
           },
           {
             "title": "မေးခွန်းဟောင်းများ (၅)",
-            "url": "#"
+            "url": "biology/pass-questions/2025/5"
           },
           {
             "title": "မေးခွန်းဟောင်းများ (၆)",
-            "url": "#"
+            "url": "biology/pass-questions/2025/6"
           },
           {
             "title": "မေးခွန်းဟောင်းများ (၇)",
-            "url": "#"
+            "url": "biology/pass-questions/2025/7"
           },
           {
             "title": "မေးခွန်းဟောင်းများ (၈)",
-            "url": "#"
+            "url": "biology/pass-questions/2025/8"
           },
           {
             "title": "မေးခွန်းဟောင်းများ (၉)",
-            "url": "#"
+            "url": "biology/pass-questions/2025/9"
+          },
+          {
+            "title": "မေးခွန်းဟောင်းများ (၁၀)",
+            "url": "biology/pass-questions/2025/10"
           }
         ]
       }

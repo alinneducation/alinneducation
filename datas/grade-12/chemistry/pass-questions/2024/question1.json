@@ -1,0 +1,173 @@
+{
+    "question-number": "1.",
+    "question-text": "Write TRUE or FALSE for each of the following statements.",
+    "marks": "(10 marks)",
+    "set1": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "The elements with low electron affinity easily gain electrons, resulting in the formation of anions."
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "The heat absorbed or released in a process occurring at constant pressure is called the enthapy change."
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "White phosphorus bursts into flames when exposed to air."
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "A catalyst does not effect the equilibrium concentrations, and there is no change in equilibrium."
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "Bronsted-Lowry acid is a proton donor."
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "Many transition elements and their compounds act as good catalysts for specific reactions."
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "Cadmium in the environment is not also toxic to plants, animals, and microorganisms."
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "Green chemistry is the design of chemical products and processes that reduce or eliminate the use or generation of hazardous substances."
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "The IUPAC name of HCOOH is ethanoic acid."
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "Plastics that are thrown into the sea endanger marine animals."
+        }
+    ],
+    "set2": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "Buffers are very important to chemical and biological systems."
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "The reaction is completely stopped at equilibrium."
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "London dispersion forces are the strongest intermolecular forces."
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "The transition elements usually form coloured compounds and ions."
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "The main component of nail polish remover is carboxylic acid."
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "Most of the Earth’s carbon is stored in rocks and sediments."
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "Reaction particles moving in random directions possess kinetic energy."
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "In a spontaneous reaction, physical or chemical change occurs with the addition of energy."
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "Each functional group has characteristic absorption range of wavenumbers."
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "Although the 4s orbital is the outermost orbital, it is slightly higher in energy than the 3d orbitals."
+        }
+    ],
+    "set3": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "Two electrons with the same spin can occupy the same orbital."
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "Enthalpy changes are due to the breaking and forming of bonds."
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "Transition state is a highly energetic state that would be highly unstable"
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "If a reversible reaction is in a closed system, the system can reach a state called a dynamic equilibrium."
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "The dissociation constant of a weaker acid is greater than that of a stronger acid."
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "In general, transition metals do not corrode readily in the solution."
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "Respiration is the process of gas exchange between the atmosphere and living organisms."
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "Electrons in the infrared radiation region can cause bond vibrations in molecules."
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "Sillicon(III) oxide is an example of a giant covalent molucule."
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "An ether is an organic compound with an O atom bonded to two alkyl groups."
+        }
+    ],
+    "set4": [
+        {
+            "question-item-number": "(a)",
+            "question-item-text": "The formation of products is favoured by high temperature in an exothermic reaction."
+        },
+        {
+            "question-item-number": "(b)",
+            "question-item-text": "Many inorganic substances and millions of organic compounds have covalent bonding."
+        },
+        {
+            "question-item-number": "(c)",
+            "question-item-text": "Ethanoic acid is manufactured by the fermentation of ethanol."
+        },
+        {
+            "question-item-number": "(d)",
+            "question-item-text": "A rate is always expressed as a positive quantity."
+        },
+        {
+            "question-item-number": "(e)",
+            "question-item-text": "NH<sub>3<sub> molecule behaves as a Lewis acid which donates an electron pair."
+        },
+        {
+            "question-item-number": "(f)",
+            "question-item-text": "Transition elements are significantly more reactive than Group I metals."
+        },
+        {
+            "question-item-number": "(g)",
+            "question-item-text": "Degradation of pesticides can occur before application on the farm."
+        },
+        {
+            "question-item-number": "(h)",
+            "question-item-text": "Large amount of background radiation comes from man-made sources."
+        },
+        {
+            "question-item-number": "(i)",
+            "question-item-text": "Hydrogen bond is a special type of dipole-dipole interaction that occurs between nonpolar molecules."
+        },
+        {
+            "question-item-number": "(j)",
+            "question-item-text": "The reaction between magnesium and oxygen is a non-spontaneous reaction."
+        }
+    ]
+}

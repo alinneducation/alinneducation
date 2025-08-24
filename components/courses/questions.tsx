@@ -21,16 +21,23 @@ export const JustifyHeader = ({ children }: { children: ReactNode }) => {
     </div>
   );
 };
+// export const Section = ({ children }: { children: ReactNode }) => {
+//   return (
+//     <div className="text-center font-bold md:text-2xl flex flex-col font-sans my-3">
+//       {children}
+//     </div>
+//   );
+// };
 export const QuestionTitle = ({ children }: { children: ReactNode }) => {
   return (
-    <div className="flex justify-between text-sm md:text-lg font-semibold text-justify gap-2">
+    <div className="flex justify-between text-sm md:text-lg text-justify gap-2">
       {children}
     </div>
   );
 };
 export const QuestionItem = ({ children }: { children: ReactNode }) => {
   return (
-    <div className="flex text-sm md:text-lg gap-2 pl-7 text-justify">
+    <div className="flex text-sm md:text-lg gap-2 pl-7 leading-relaxed text-justify">
       {children}
     </div>
   );
@@ -38,7 +45,7 @@ export const QuestionItem = ({ children }: { children: ReactNode }) => {
 
 export const SelectAnswer = ({ children }: { children: ReactNode }) => {
   return (
-    <div className="flex md:[&>*]:flex-1 md:text-lg gap-2 w-full justify-between flex-wrap text-wrap pl-15">
+    <div className="flex text-sm md:text-lg gap-2 w-full justify-between flex-wrap text-wrap pl-15">
       {children}
     </div>
   );

@@ -1,3 +1,4 @@
+import { Card } from "@/components/ui/card";
 import {
   DialogueBox,
   Header,
@@ -66,7 +67,7 @@ export default function PassQuestion({
   question7b: Question7b;
 }) {
   return (
-    <div>
+    <Card className="px-3 line-clamp-none">
       <Header>
         <p>{year}</p>
         <p>MATRICULATION EXAMINATION</p>
@@ -80,7 +81,7 @@ export default function PassQuestion({
       <SubHeader>ANSWER ALL QUESTIONS.</SubHeader>
       <QuestionTitle>
         <p>I. </p>
-        <p className="w-full">
+        <p className="w-full font-semibold">
           Complete the sentences with the appropriate words. The initial letters
           are given.<span className="float-end">(10 marks) </span>
         </p>
@@ -96,7 +97,7 @@ export default function PassQuestion({
       ))}
       <QuestionTitle>
         <p>II. </p>
-        <p className="w-full">
+        <p className="w-full font-semibold">
           Choose the appropriate words or phrases to complete the sentences.
           <span className="float-end">(10 marks) </span>
         </p>
@@ -116,7 +117,7 @@ export default function PassQuestion({
       ))}
       <QuestionTitle>
         <p>III. </p>
-        <p className="w-full">
+        <p className="w-full font-semibold">
           Rewrite the sentences according to the instructions given in brackets.
           <span className="float-end">(10 marks) </span>
         </p>
@@ -134,7 +135,7 @@ export default function PassQuestion({
       <QuestionTitle>
         <p>IV.</p>
         <p>(A)</p>
-        <p className="w-full">
+        <p className="w-full font-semibold">
           Write the appropriate words or groups of words to complete the line of
           verce.<span className="float-end">(5 marks) </span>
         </p>
@@ -153,7 +154,7 @@ export default function PassQuestion({
       <QuestionTitle>
         <p>IV.</p>
         <p>(B)</p>
-        <p className="w-full">
+        <p className="w-full font-semibold">
           Answer the questions in complete sentences.
           <span className="float-end">(5 marks) </span>
         </p>
@@ -171,14 +172,14 @@ export default function PassQuestion({
       ))}
       <QuestionTitle>
         <p>V.</p>
-        <p className="w-full">Read the passage.</p>
+        <p className="w-full font-semibold">Read the passage.</p>
       </QuestionTitle>
       <Paragraph>
         <div dangerouslySetInnerHTML={{ __html: question5.passage }}></div>
       </Paragraph>
       <QuestionTitle>
         <p>(A)</p>
-        <p className="w-full">
+        <p className="w-full font-semibold">
           Write the correct word or words to complete each sentence.
           <span className="float-end">(5 marks) </span>
         </p>
@@ -196,7 +197,7 @@ export default function PassQuestion({
       ))}
       <QuestionTitle>
         <p>(B)</p>
-        <p className="w-full">
+        <p className="w-full font-semibold">
           Answer each question in one sentence.
           <span className="float-end">(5 marks) </span>
         </p>
@@ -214,14 +215,14 @@ export default function PassQuestion({
       ))}
       <QuestionTitle>
         <p>VI.</p>
-        <p className="w-full">Read the passage.</p>
+        <p className="w-full font-semibold">Read the passage.</p>
       </QuestionTitle>
       <Paragraph>
         <div dangerouslySetInnerHTML={{ __html: question6.passage }}></div>
       </Paragraph>
       <QuestionTitle>
         <p>(A)</p>
-        <p className="w-full">
+        <p className="w-full font-semibold">
           Find the bold-faced words in the passage that are similar in meaning
           to the following. There is an extra.
           <span className="float-end">(5 marks) </span>
@@ -240,7 +241,7 @@ export default function PassQuestion({
       ))}
       <QuestionTitle>
         <p>(B)</p>
-        <p className="w-full">
+        <p className="w-full font-semibold">
           Answer the following questions. Give complete answers.
           <span className="float-end">(5 marks) </span>
         </p>
@@ -259,7 +260,7 @@ export default function PassQuestion({
       <QuestionTitle>
         <p>VII.</p>
         <p>(A)</p>
-        <p className="w-full">
+        <p className="w-full font-semibold">
           Complete the dialogue with the expressions given in the box. There is
           an extra.<span className="float-end">(5 marks) </span>
         </p>
@@ -281,7 +282,7 @@ export default function PassQuestion({
       <QuestionTitle>
         <p>VII.</p>
         <p>(B)</p>
-        <p className="w-full">
+        <p className="w-full font-semibold">
           Complete the exchanges, using the expressions given in the box. There
           is an extra.<span className="float-end">(5 marks) </span>
         </p>
@@ -308,6 +309,6 @@ export default function PassQuestion({
           </div>
         </QuestionItem>
       ))}
-    </div>
+    </Card>
   );
 }
