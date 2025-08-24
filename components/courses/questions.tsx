@@ -21,13 +21,13 @@ export const JustifyHeader = ({ children }: { children: ReactNode }) => {
     </div>
   );
 };
-// export const Section = ({ children }: { children: ReactNode }) => {
-//   return (
-//     <div className="text-center font-bold md:text-2xl flex flex-col font-sans my-3">
-//       {children}
-//     </div>
-//   );
-// };
+export const Section = ({ children }: { children: ReactNode }) => {
+  return (
+    <div className="text-center font-bold md:text-2xl flex flex-col font-sans my-3">
+      {children}
+    </div>
+  );
+};
 export const QuestionTitle = ({ children }: { children: ReactNode }) => {
   return (
     <div className="flex justify-between text-sm md:text-lg text-justify gap-2">

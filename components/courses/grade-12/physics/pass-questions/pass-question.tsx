@@ -84,7 +84,7 @@ export default function PassQuestion({
             <p>{data["question-item-number"]}</p>
             <p
               dangerouslySetInnerHTML={{ __html: data["question-item-text"] }}
-            ></p>{" "}
+            ></p>
           </QuestionItem>
         </div>
       ))}
