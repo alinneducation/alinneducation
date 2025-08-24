@@ -25,7 +25,7 @@ export default function Grade12Layout({
         <AppSidebar
           data={categories}
           teams={subjects}
-          activeTeam={subjects.subjects[6]}
+          activeTeam={subjects.subjects[5]}
         />
         <SidebarInset>
           <AppSidebarNav />
