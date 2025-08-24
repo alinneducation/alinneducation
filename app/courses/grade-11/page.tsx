@@ -3,9 +3,8 @@ import Footer from "@/components/layouts/footer";
 import Navbar from "@/components/layouts/navbar";
 import SubjectList from "@/components/layouts/subject-list";
 import { stams, steams1, steams2 } from "@/datas/high/subjects.json";
-import Link from "next/link";
 import { useGradeTypeStore } from "@/store/useGradeTypeStore";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 
 type GradeType = {
   en: string;

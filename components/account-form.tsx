@@ -2,7 +2,7 @@
 import { type User } from "@supabase/supabase-js";
 import Image from "next/image";
 import { Button } from "./ui/button";
-import { Avatar, AvatarFallback, AvatarImage } from "@radix-ui/react-avatar";
+import { Avatar, AvatarImage } from "@radix-ui/react-avatar";
 
 // ...
 

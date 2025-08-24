@@ -1,5 +1,4 @@
 "use client";
-import type { Metadata } from "next";
 import { categories } from "@/datas/grade-10/biology/categories.json";
 import { steams1 } from "@/datas/high/subjects.json";
 

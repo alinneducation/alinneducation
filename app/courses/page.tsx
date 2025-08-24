@@ -5,11 +5,6 @@ import { primary } from "@/datas/primary/grades.json";
 import { middle } from "@/datas/middle/grades.json";
 import { high } from "@/datas/high/grades.json";
 
-type Grade = {
-  en: string;
-  my: string;
-  url: string;
-};
 export default function Courses() {
   return (
     <div className="flex flex-col max-w-full min-h-screen">

@@ -1,4 +1,4 @@
-import { Card, CardContent, CardHeader } from "@/components/ui/card";
+import { Card, CardHeader } from "@/components/ui/card";
 import { ReactNode } from "react";
 
 export const Question = ({ children }: { children: React.ReactNode }) => {

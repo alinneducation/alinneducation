@@ -4,7 +4,7 @@ import {
   Skill,
   Unit,
 } from "@/components/courses/english/english";
-import { AppContent, RightAppSidebar } from "@/components/right-sidebar";
+import { RightAppSidebar } from "@/components/right-sidebar";
 import { SidebarProvider } from "@/components/ui/right-sidebar";
 import { Metadata } from "next";
 export const metadata: Metadata = {
