@@ -22,7 +22,6 @@ import { usePathname, useRouter } from "next/navigation";
 
 type Subjects = {
   url: string;
-  en: string;
   my: string;
 };
 type GradeType = {
@@ -72,8 +71,8 @@ export function TeamSwitcher({
             side={isMobile ? "bottom" : "right"}
             sideOffset={4}
           >
-            <DropdownMenuLabel className="text-xs text-muted-foreground">
-              ဘာသာရပ်များ
+            <DropdownMenuLabel className="font-semibold text-base">
+              {activeGrade[0].my} ဘာသာရပ်များ
             </DropdownMenuLabel>
             {teams.subjects.map((team) => (
               <DropdownMenuItem
@@ -87,10 +86,9 @@ export function TeamSwitcher({
                   <BookOpen className="size-4 shrink-0" />
                 </div>
                 <div className="grid flex-1 text-left text-sm leading-tight">
-                  <span className="truncate font-semibold pb-1">
-                    {activeGrade[0].my}
+                  <span className="truncate font-semibold pb-1 text-shadow-muted">
+                    {team.my}
                   </span>
-                  <span className="truncate text-xs">{team.my}</span>
                 </div>
               </DropdownMenuItem>
             ))}

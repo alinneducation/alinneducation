@@ -3,28 +3,43 @@
     "subjects": [
         {
             "url": "myanmar",
-            "en": "Myanmar",
             "my": "မြန်မာစာ"
         },
         {
             "url": "english",
-            "en": "English",
             "my": "အင်္ဂလိပ်စာ"
         },
         {
             "url": "mathematics",
-            "en": "Mathematics",
             "my": "သင်္ချာ"
         },
         {
             "url": "social",
-            "en": "Social",
             "my": "လူမှုရေး"
         },
         {
             "url": "science",
-            "en": "Science",
             "my": "သိပ္ပံ"
+        },
+        {
+            "url": "life-skill",
+            "my": "ဘဝတွက်တာ ကျွမ်းကျင်စရာ"
+        },
+        {
+            "url": "moral",
+            "my": "စာရိတ္တနှင့် ပြည်သူ့နီတိ"
+        },
+        {
+            "url": "art-painting",
+            "my": "အနုပညာ(ပန်းချီ)"
+        },
+        {
+            "url": "art-music",
+            "my": "အနုပညာ(ဂီတ)"
+        },
+        {
+            "url": "physical",
+            "my": "ကာယပညာ"
         }
     ]
 }

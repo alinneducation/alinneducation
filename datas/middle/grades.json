@@ -1,24 +1,20 @@
 {
     "middle": [
         {
-            "en": "Grade 6",
-            "my": "ဆဋ္ဌမတန်း",
-            "url": "grade-6"
+            "url": "grade-6",
+            "my": "ဆဋ္ဌမတန်း"
         },
         {
-            "en": "Grade 7",
-            "my": "သတ္တမတန်း",
-            "url": "grade-7"
+            "url": "grade-7",
+            "my": "သတ္တမတန်း"
         },
         {
-            "en": "Grade 8",
-            "my": "အဋ္ဌမတန်း",
-            "url": "grade-8"
+            "url": "grade-8",
+            "my": "အဋ္ဌမတန်း"
         },
         {
-            "en": "Grade 9",
-            "my": "နဝမတန်း",
-            "url": "grade-9"
+            "url": "grade-9",
+            "my": "နဝမတန်း"
         }
     ]
 }

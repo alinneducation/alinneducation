@@ -18,10 +18,9 @@ import {
 
 import { ReactNode } from "react";
 import Link from "next/link";
-import { ThemeMode } from "./layouts/navbar";
+import { useSearchParams } from "next/navigation";
 type Subjects = {
   url: string;
-  en: string;
   my: string;
 };
 type GradeType = {
@@ -51,6 +50,7 @@ export function AppSidebar({
   teams: GradeType;
   activeTeam: Subjects;
 }) {
+  const layout = useSearchParams();
   return (
     <Sidebar>
       <SidebarHeader>
@@ -66,13 +66,17 @@ export function AppSidebar({
       </SidebarContent>
       <SidebarFooter className="flex flex-row">
         <NavUser user={data.user} />
-        <ThemeMode />
       </SidebarFooter>
       <SidebarRail />
     </Sidebar>
   );
 }
 export function AppSidebarNav() {
+  const layout = useSearchParams().get("layout");
+
+  if (layout == "1") {
+    return;
+  }
   return (
     <div className="flex w-full h-24 md:h-8 flex-col sticky top-0">
       <div className="flex md:hidden px-4 bg-white dark:bg-zinc-950 w-full h-16 shadow-2xl items-center sticky mt-0">
@@ -86,7 +90,7 @@ export function AppSidebarNav() {
         </Link>
       </div>
       <header className="flex shrink-0 h-8 px-4 z-50  items-center gap-2 transition-[width,height] ease-linear group-has-[[data-collapsible=icon]]/sidebar-wrapper:h-12">
-        <SidebarTrigger className="-ml-1 hidden md:block" />
+        <SidebarTrigger className="-ml-1 hidden lg:block" />
       </header>
     </div>
   );

@@ -24,7 +24,7 @@ const SIDEBAR_WIDTH_MOBILE = "18rem";
 
 export default function Navbar() {
   return (
-    <nav className="bg-white dark:bg-zinc-950 sticky w-full top-0 start-0 border-b border-gray-200 dark:border-gray-600">
+    <nav className="bg-white sticky w-full top-0 start-0 border-b border-gray-200">
       <div className=" flex flex-wrap w-full items-center justify-between mx-auto py-4 px-5">
         <Sheet>
           <SheetTrigger asChild>
@@ -42,7 +42,7 @@ export default function Navbar() {
               } as React.CSSProperties
             }
           >
-            <SheetHeader className="flex w-full font-semibold text-lg p-">
+            <SheetHeader className="flex w-full font-semibold text-lg">
               <h1 className="flex justify-between">
                 Alinn Education
                 <ThemeMode />
@@ -53,7 +53,7 @@ export default function Navbar() {
                 <SheetClose asChild key={index}>
                   <Link
                     href={item.path}
-                    className="flex h-fit w-full items-center justify-start rounded-sm px-4 py-2 font-medium  hover:bg-gray-100 dark:hover:bg-gray-700"
+                    className="flex h-fit w-full items-center justify-start rounded-sm px-4 py-2 font-medium  hover:bg-gray-100"
                     prefetch={false}
                   >
                     <SheetTitle className="">{item.title}</SheetTitle>
@@ -69,7 +69,7 @@ export default function Navbar() {
           </span>
         </Link>
         <div className="items-center justify-between hidden md:flex w-auto">
-          <ul className="flex mt-0 font-medium rounded-lg space-x-8 dark:bg-netural-900 dark:border-gray-700">
+          <ul className="flex mt-0 font-medium rounded-lg space-x-8">
             {navItems.map((item, index) => {
               return (
                 <li key={index}>
@@ -86,7 +86,6 @@ export default function Navbar() {
           </ul>
         </div>
         <div className="flex  space-x-3">
-          {/* <Profile /> */}
           <LoginWithGoogle />
         </div>
       </div>

@@ -1,6 +1,5 @@
 import { SubjectCard } from "./subject-card";
 type Item = {
-  en: string;
   my: string;
   url: string;
 };
@@ -9,7 +8,7 @@ export default function SubjectList({
   grade,
   type,
 }: {
-  subjects: { en: string; my: string; url: string }[];
+  subjects: { my: string; url: string }[];
   grade: { en: string; my: string };
   type: string;
 }) {
@@ -19,10 +18,10 @@ export default function SubjectList({
         {grade.my + type + " "}
         ဘာသာရပ်များ
       </div>
-      <div className="grid grid-cols-2 md:grid-cols-3 w-full gap-5 my-5">
+      <div className="grid grid-cols-2 md:grid-cols-3 w-full gap-5 my-5 px-5">
         {subjects.map((item: Item) => {
           return (
-            <div key={item.en} className="flex justify-center w-full">
+            <div key={item.url} className="flex justify-center w-full">
               <SubjectCard course={item} />
             </div>
           );

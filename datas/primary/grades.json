@@ -16,19 +16,16 @@
             "url": "grade-2"
         },
         {
-            "en": "Grade 3",
-            "my": "တတိယတန်း",
-            "url": "grade-3"
+            "url": "grade-3",
+            "my": "တတိယတန်း"
         },
         {
-            "en": "Grade 4",
-            "my": "စတုတ္ထတန်း",
-            "url": "grade-4"
+            "url": "grade-4",
+            "my": "စတုတ္ထတန်း"
         },
         {
-            "en": "Grade 5",
-            "my": "ပဉ္စမတန်း",
-            "url": "grade-5"
+            "url": "grade-5",
+            "my": "ပဉ္စမတန်း"
         }
     ]
 }

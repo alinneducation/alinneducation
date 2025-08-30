@@ -4,33 +4,47 @@
         "subjects": [
             {
                 "url": "myanmar",
-                "en": "Myanmar",
                 "my": "မြန်မာစာ"
             },
             {
                 "url": "english",
-                "en": "English",
                 "my": "အင်္ဂလိပ်စာ"
             },
             {
                 "url": "mathematics",
-                "en": "Mathematics",
                 "my": "သင်္ချာ"
             },
             {
                 "url": "geography",
-                "en": "Geography",
                 "my": "ပထဝီဝင်"
             },
             {
                 "url": "history",
-                "en": "History",
                 "my": "သမိုင်း"
             },
             {
                 "url": "economic",
-                "en": "Economic",
                 "my": "ဘောဂဗေဒ"
+            },
+            {
+                "url": "life-skill",
+                "my": "ဘဝတွက်တာ ကျွမ်းကျင်စရာ"
+            },
+            {
+                "url": "moral",
+                "my": "စာရိတ္တနှင့် ပြည်သူ့နီတိ"
+            },
+            {
+                "url": "art-painting",
+                "my": "အနုပညာ(ပန်းချီ)"
+            },
+            {
+                "url": "art-music",
+                "my": "အနုပညာ(ဂီတ)"
+            },
+            {
+                "url": "physical",
+                "my": "ကာယပညာ"
             }
         ]
     },
@@ -39,33 +53,47 @@
         "subjects": [
             {
                 "url": "myanmar",
-                "en": "Myanmar",
                 "my": "မြန်မာစာ"
             },
             {
                 "url": "english",
-                "en": "English",
                 "my": "အင်္ဂလိပ်စာ"
             },
             {
                 "url": "mathematics",
-                "en": "Mathematics",
                 "my": "သင်္ချာ"
             },
             {
                 "url": "chemistry",
-                "en": "Chemistry",
                 "my": "ဓာတုဗေဒ"
             },
             {
                 "url": "physics",
-                "en": "Physics",
                 "my": "ရူပဗေဒ"
             },
             {
                 "url": "biology",
-                "en": "Biology",
                 "my": "ဇီဝဗေဒ"
+            },
+            {
+                "url": "life-skill",
+                "my": "ဘဝတွက်တာ ကျွမ်းကျင်စရာ"
+            },
+            {
+                "url": "moral",
+                "my": "စာရိတ္တနှင့် ပြည်သူ့နီတိ"
+            },
+            {
+                "url": "art-painting",
+                "my": "အနုပညာ(ပန်းချီ)"
+            },
+            {
+                "url": "art-music",
+                "my": "အနုပညာ(ဂီတ)"
+            },
+            {
+                "url": "physical",
+                "my": "ကာယပညာ"
             }
         ]
     },
@@ -74,33 +102,47 @@
         "subjects": [
             {
                 "url": "myanmar",
-                "en": "Myanmar",
                 "my": "မြန်မာစာ"
             },
             {
                 "url": "english",
-                "en": "English",
                 "my": "အင်္ဂလိပ်စာ"
             },
             {
                 "url": "mathematics",
-                "en": "Mathematics",
                 "my": "သင်္ချာ"
             },
             {
                 "url": "chemistry",
-                "en": "Chemistry",
                 "my": "ဓာတုဗေဒ"
             },
             {
                 "url": "physics",
-                "en": "Physics",
                 "my": "ရူပဗေဒ"
             },
             {
                 "url": "economic",
-                "en": "Economic",
                 "my": "ဘောဂဗေဒ"
+            },
+            {
+                "url": "life-skill",
+                "my": "ဘဝတွက်တာ ကျွမ်းကျင်စရာ"
+            },
+            {
+                "url": "moral",
+                "my": "စာရိတ္တနှင့် ပြည်သူ့နီတိ"
+            },
+            {
+                "url": "art-painting",
+                "my": "အနုပညာ(ပန်းချီ)"
+            },
+            {
+                "url": "art-music",
+                "my": "အနုပညာ(ဂီတ)"
+            },
+            {
+                "url": "physical",
+                "my": "ကာယပညာ"
             }
         ]
     }

@@ -11,14 +11,13 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 type Grade = {
-  en: string;
   my: string;
   url: string;
 };
 export function GradeCard({ course }: { course: Grade }) {
   const pathName = usePathname();
   return (
-    <Card className="flex flex-col w-44 h-44 border rounded-lg items-center justify-center space-y-5 ">
+    <Card className="flex flex-col w-full h-44 border rounded-lg items-center justify-center space-y-5">
       <CardTitle className="font-semibold text-lg ">{course.my}</CardTitle>
       <CardFooter>
         <Link href={`${pathName}/${course.url}`}>
@@ -32,12 +31,14 @@ export function GradeCard({ course }: { course: Grade }) {
 export function SubjectCard({
   course,
 }: {
-  course: { my: string; en: string; url: string };
+  course: { my: string; url: string };
 }) {
   const pathName = usePathname();
   return (
-    <Card className="flex flex-col w-36 h-36 border rounded-lg items-center justify-center space-y-5 ">
-      <CardTitle className="font-semibold text-lg ">{course.my}</CardTitle>
+    <Card className="flex flex-col w-full h-36 border rounded-lg items-center justify-center space-y-5 ">
+      <CardTitle className="font-semibold text-lg text-nowrap">
+        {course.my}
+      </CardTitle>
       <Link href={`${pathName}/${course.url}/intro`}>
         <Button className="cursor-pointer">Learn</Button>
       </Link>
