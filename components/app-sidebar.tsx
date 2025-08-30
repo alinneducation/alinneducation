@@ -18,7 +18,6 @@ import {
 
 import { ReactNode } from "react";
 import Link from "next/link";
-import { useSearchParams } from "next/navigation";
 type Subjects = {
   url: string;
   my: string;
@@ -71,11 +70,7 @@ export function AppSidebar({
   );
 }
 export function AppSidebarNav() {
-  const query = useSearchParams();
-  const layout = query.get("layout");
-  if (layout == "1") {
-    return;
-  }
+  return;
   return (
     <div className="flex w-full h-24 md:h-8 flex-col sticky top-0">
       <div className="flex md:hidden px-4 bg-white dark:bg-zinc-950 w-full h-16 shadow-2xl items-center sticky mt-0">
