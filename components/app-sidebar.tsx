@@ -50,7 +50,6 @@ export function AppSidebar({
   teams: GradeType;
   activeTeam: Subjects;
 }) {
-  const layout = useSearchParams();
   return (
     <Sidebar>
       <SidebarHeader>
