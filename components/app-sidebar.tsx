@@ -71,8 +71,8 @@ export function AppSidebar({
   );
 }
 export function AppSidebarNav() {
-  const layout = useSearchParams().get("layout");
-
+  const query = useSearchParams();
+  const layout = query.get("layout");
   if (layout == "1") {
     return;
   }
