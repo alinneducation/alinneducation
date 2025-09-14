@@ -6,19 +6,19 @@
             "items": [
                 {
                     "title": "English Grammar (1)",
-                    "url": "grammar/1"
+                    "url": "grammars/1"
                 },
                 {
                     "title": "English Grammar (2)",
-                    "url": "grammar/2"
+                    "url": "grammars/2"
                 },
                 {
                     "title": "English Grammar (3)",
-                    "url": "grammar/3"
+                    "url": "grammars/3"
                 },
                 {
                     "title": "English Grammar (4)",
-                    "url": "grammar/4"
+                    "url": "grammars/4"
                 }
             ]
         },
@@ -28,15 +28,15 @@
             "items": [
                 {
                     "title": "Essay ရေးသားနည်း (၁)",
-                    "url": "myanmar/pass-questions/2025/1"
+                    "url": "essay/1"
                 },
                 {
                     "title": "Essay ရေးသားနည်း (၂)",
-                    "url": "myanmar/pass-questions/2025/2"
+                    "url": "essay/2"
                 },
                 {
                     "title": "Essay ရေးသားနည်း (၃)",
-                    "url": "myanmar/pass-questions/2025/3"
+                    "url": "essay/3"
                 }
             ]
         }
