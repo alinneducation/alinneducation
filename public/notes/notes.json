@@ -1,0 +1,44 @@
+{
+    "navMain": [
+        {
+            "title": "English Grammars",
+            "url": "#",
+            "items": [
+                {
+                    "title": "English Grammar (1)",
+                    "url": "grammar/1"
+                },
+                {
+                    "title": "English Grammar (2)",
+                    "url": "grammar/2"
+                },
+                {
+                    "title": "English Grammar (3)",
+                    "url": "grammar/3"
+                },
+                {
+                    "title": "English Grammar (4)",
+                    "url": "grammar/4"
+                }
+            ]
+        },
+        {
+            "title": "Essay ရေးသားနည်း",
+            "url": "#",
+            "items": [
+                {
+                    "title": "Essay ရေးသားနည်း (၁)",
+                    "url": "myanmar/pass-questions/2025/1"
+                },
+                {
+                    "title": "Essay ရေးသားနည်း (၂)",
+                    "url": "myanmar/pass-questions/2025/2"
+                },
+                {
+                    "title": "Essay ရေးသားနည်း (၃)",
+                    "url": "myanmar/pass-questions/2025/3"
+                }
+            ]
+        }
+    ]
+}

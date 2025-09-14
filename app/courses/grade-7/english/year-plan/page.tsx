@@ -106,7 +106,7 @@ export default function Page() {
         <TableRow>
           <TableData>Lesson 2</TableData>
           <TableData align="left" className="pl-5">
-            Accessories you usually do for
+            Accessories you usually go for
           </TableData>
           <TableData>4</TableData>
         </TableRow>
@@ -265,7 +265,7 @@ export default function Page() {
         <TableRow>
           <TableData>Poem 2</TableData>
           <TableData align="left" className="pl-5">
-            The Greendy Dog
+            The Greedy Dog
           </TableData>
           <TableData>1</TableData>
         </TableRow>

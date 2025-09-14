@@ -1,6 +1,6 @@
 "use client";
 import { stams, steams1, steams2 } from "@/datas/high/subjects.json";
-import { categories } from "@/datas/grade-11/english/categories.json";
+import { categories } from "@/public/category/grade-11/english/categories.json";
 
 import {
   SidebarInset,

@@ -1,5 +1,5 @@
 "use client";
-import { categories } from "@/datas/grade-12/biology/categories.json";
+import { categories } from "@/public/category/grade-12/biology/categories.json";
 import { steams1 } from "@/datas/high/subjects.json";
 
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";

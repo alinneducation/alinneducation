@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import subjects from "@/datas/primary/subjects.json";
-import { categories } from "@/datas/grade-4/myanmar/categories.json";
+import { categories } from "@/public/category/grade-4/myanmar/categories.json";
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
 
 import {
